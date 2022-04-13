@@ -30,4 +30,4 @@ jobs:
       uses: actions/upload-artifact@v3.0.0
       with:
         name: render
-      path: ${GITHUB_WORKSPACE}/render.tar.gz
+        path: ${GITHUB_WORKSPACE}/render.tar.gz
