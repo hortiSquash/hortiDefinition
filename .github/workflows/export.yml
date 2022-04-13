@@ -23,11 +23,8 @@ jobs:
     - name: run py
       run: python ./export.py
 
-    - name: zip artifacts
-      run: tar -zcvf ./render.tar.gz ./render/ && ls && pwd && echo "${GITHUB_WORKSPACE}"
-
     - name: upload a artifact
       uses: actions/upload-artifact@v3.0.0
       with:
         name: render
-        path: ./render.tar.gz
+        path: ./render

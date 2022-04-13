@@ -14,4 +14,4 @@ base=$(basename "$name")
 found=$(find sprites-override -type f -name "$base")
 size=$(($(identify -format '%w' "$found") * size_multiplier)) # all mindustry sprites are square
 mkdir -p render"${name//$base/}" >/dev/null
-inkscape -z --export-area-snap -o "render$name" -w "$size" -h "$size" "$i" &>/dev/null
+inkscape -z --export-area-snap -o "render$name" -w "$size" -h "$size" "$i" /dev/null
