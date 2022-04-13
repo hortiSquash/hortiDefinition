@@ -1,9 +1,8 @@
 name: "hortiDefinition"
 displayName: "hortiDefinition"
-author: hortiSquash
+author: "hortiSquash + bendn"
 description: "TexturePack with HD sprites"
 version: "0.41"
 minGameVersion: "136"
-dependencies: [ ]
-hidden: false
+hidden: true
 texturesize: 64
