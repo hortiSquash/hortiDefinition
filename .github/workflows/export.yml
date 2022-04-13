@@ -10,10 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+    - name: setup
+    - uses: actions/checkout@v3
     - name: setup inkscape
       run: sudo apt-get install -y inkscape
     - name: setup python
-    - uses: actions/checkout@v3
     - uses: actions/setup-python@v3
       with:
         python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
