@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,12 +34,12 @@
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-height="1017"
      inkscape:window-width="1920"
-     inkscape:cy="15.54625"
-     inkscape:cx="13.842107"
-     inkscape:zoom="22.627417"
+     inkscape:cy="18.427358"
+     inkscape:cx="15.384368"
+     inkscape:zoom="45.254834"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:pagecheckerboard="0"
@@ -75,27 +75,21 @@
        d="m 2.1166667,5.55625 c 0,0.7937502 1.0583334,1.5875002 2.124935,1.5875002 1.0500651,0 2.3729816,-0.79375 2.3729817,-1.5875002 C 6.6145835,4.1010418 6.0875951,3.3058019 5.8230117,2.9089268 5.0841438,1.8006254 4.3656251,0.66145835 2.9104167,0.26458333 2.3998959,0.1253504 1.7197917,0.66145835 2.38125,1.190625 2.8195252,1.5412451 3.1750001,2.3812501 3.175,3.0427083 3.1749999,3.9614031 2.1166667,4.4979168 2.1166667,5.55625 Z"
        id="path6767-9-1-8" />
     <path
-       id="path6767-9-1-8-6"
-       d="M 4.2333333,3.175 C 2.9230446,3.6117627 4.3595635,4.629603 4.6302084,4.8947917 4.763659,5.025552 5.2916668,5.5562501 5.55625,5.159375 6.4844694,3.767045 5.0270835,2.9104167 4.2333333,3.175 Z"
+       id="path6767-9-1-8-6-6"
+       d="m 4.2333334,3.1750001 c -1.4633213,0.3658303 10e-8,1.1906251 0.3968752,1.7197917 C 4.9163993,5.2763794 5.4351138,5.4311729 5.6885418,5.0270835 6.3536676,3.9665436 5.2916669,2.9104167 4.2333334,3.1750001 Z"
        style="display:inline;opacity:1;fill:#7090ea;fill-opacity:1;stroke:none;stroke-width:0.18731px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="ssss" />
   </g>
   <g
-     sodipodi:insensitive="true"
-     style="display:none;opacity:0.5"
+     style="display:inline;opacity:0.5"
      inkscape:label="Calque 2"
      id="layer3"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <image
        style="image-rendering:pixelated"
        id="image846"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAQtJREFU
-WIXVlTEOgkAQRdF4AntbY0JJYmvrSSw8kIUnsaU1oTQhtPReAaslE9id+TO7G/BXQBj+mz/sblEs
-rA3y0vXeDO769aigmmQA1JwqFYgZIBWIegSpIeDCXBCqohwQW20BJwkwO4BF6siQLjWjyJKAZhT/
-NYLz5Tnsy2q8Px0Ps3farh+vkVHsUOPpM5+5e04hJIkjoOa0e04ODvkXWADOXNOlCcAXu0VSCtAq
-CEXfdn10El6AVN2bAaiQH2+ahCYVaBmisoxj8Z1w/QDfTxNlINVDCVghkLrgYeFbiuhWTI3f9Y09
-kFSrwH04BGJJiqWL3ZCk7kWAGAjEHAKwQKDmMAAKojFejX4lq3XtOpfBkAAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAQtJREFU WIXVlTEOgkAQRdF4AntbY0JJYmvrSSw8kIUnsaU1oTQhtPReAaslE9id+TO7G/BXQBj+mz/sblEs rA3y0vXeDO769aigmmQA1JwqFYgZIBWIegSpIeDCXBCqohwQW20BJwkwO4BF6siQLjWjyJKAZhT/ NYLz5Tnsy2q8Px0Ps3farh+vkVHsUOPpM5+5e04hJIkjoOa0e04ODvkXWADOXNOlCcAXu0VSCtAq CEXfdn10El6AVN2bAaiQH2+ahCYVaBmisoxj8Z1w/QDfTxNlINVDCVghkLrgYeFbiuhWTI3f9Y09 kFSrwH04BGJJiqWL3ZCk7kWAGAjEHAKwQKDmMAAKojFejX4lq3XtOpfBkAAAAABJRU5ErkJggg== "
        preserveAspectRatio="none"
        height="8.4666672"
        width="8.4666672"
