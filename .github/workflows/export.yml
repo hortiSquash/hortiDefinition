@@ -1,0 +1,30 @@
+name: export
+
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  export:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    - name: setup inkscape
+      run: sudo apt-get install -y inkscape
+    - name: setup python
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v3
+      with:
+        python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+    - name: run script
+      run: python ${GITHUB_WORKSPACE}/export.py
+    - name: upload a artifact
+      uses: actions/upload-artifact@v3.0.0
+      with:
+        name: render
+        path: ${GITHUB_WORKSPACE}/render.tar,gz
