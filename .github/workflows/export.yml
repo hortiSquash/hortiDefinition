@@ -1,9 +1,9 @@
 name: export
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '**.svg'
+  #push:
+    #paths:
+      #- '**.svg'
 
 jobs:
   export:
