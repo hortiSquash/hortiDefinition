@@ -1,6 +1,6 @@
 #!/bin/bash
 
-size_multiplier=2
+size_multiplier=1
 
 i=$1
 
