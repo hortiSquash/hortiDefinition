@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    viewBox="0 0 8.4666667 8.4666667"
    version="1.1"
    id="svg5"
    sodipodi:docname="unloader.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata1047">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,14 +38,14 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="22.627417"
-     inkscape:cx="18.208"
-     inkscape:cy="16.926368"
+     inkscape:cx="11.75565"
+     inkscape:cy="13.169864"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      units="px"
      inkscape:snap-global="true"
      showguides="true"
@@ -84,7 +84,7 @@
        inkscape:export-ydpi="767.99982" />
     <path
        style="fill:#989aa4;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 3.571875,-2.3841858e-7 0,3.571875 -1.4305114e-6,4.8947917 3.571875,8.4666671 H 4.8947917 L 8.4666631,4.8947917 8.4666642,3.571875 4.8947917,-4.4703483e-7 3.571875,-2.3841858e-7"
+       d="M 3.5718764,-1.4841858e-7 1.4305114e-6,3.5718751 0,4.8947918 3.5718764,8.4666672 H 4.8947931 L 8.4666645,4.8947918 8.4666656,3.5718751 4.8947931,-3.5703483e-7 3.5718764,-1.4841858e-7"
        id="path23670"
        inkscape:export-filename="C:\Users\Utilisateur\Downloads\unloader.png"
        inkscape:export-xdpi="767.99982"
@@ -99,92 +99,43 @@
        inkscape:export-ydpi="767.99982"
        sodipodi:nodetypes="ccccccc" />
     <path
-       style="fill:#ffd37f;fill-opacity:1;stroke:none;stroke-width:18.8976;stroke-linecap:round;stroke-linejoin:round"
-       id="path36100"
-       sodipodi:type="arc"
-       sodipodi:cx="4.2333336"
-       sodipodi:cy="-2.1166668"
-       sodipodi:rx="1.0583334"
-       sodipodi:ry="1.0583334"
-       sodipodi:start="0"
-       sodipodi:end="3.1415927"
-       sodipodi:open="true"
-       sodipodi:arc-type="arc"
-       d="m 5.291667,-2.1166668 a 1.0583334,1.0583334 0 0 1 -0.5291667,0.9165436 1.0583334,1.0583334 0 0 1 -1.0583334,0 1.0583334,1.0583334 0 0 1 -0.5291667,-0.9165436"
-       transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Utilisateur\Downloads\unloader.png"
-       inkscape:export-xdpi="767.99982"
-       inkscape:export-ydpi="767.99982" />
-    <path
-       style="display:inline;fill:#d4816b;fill-opacity:1;stroke:none;stroke-width:18.8976;stroke-linecap:round;stroke-linejoin:round"
-       id="path36100-1"
-       sodipodi:type="arc"
-       sodipodi:cx="4.2333336"
-       sodipodi:cy="6.3499999"
-       sodipodi:rx="1.0583334"
-       sodipodi:ry="1.0583334"
-       sodipodi:start="0"
-       sodipodi:end="3.1415927"
-       sodipodi:open="true"
-       sodipodi:arc-type="arc"
-       d="m 5.291667,6.3499999 a 1.0583334,1.0583334 0 0 1 -0.5291667,0.9165436 1.0583334,1.0583334 0 0 1 -1.0583334,0 1.0583334,1.0583334 0 0 1 -0.5291667,-0.9165436"
-       inkscape:export-filename="C:\Users\Utilisateur\Downloads\unloader.png"
-       inkscape:export-xdpi="767.99982"
-       inkscape:export-ydpi="767.99982" />
-    <path
-       style="display:inline;fill:#ffd37f;fill-opacity:1;stroke:none;stroke-width:18.8976;stroke-linecap:round;stroke-linejoin:round"
-       id="path36100-1-2"
-       sodipodi:type="arc"
-       sodipodi:cx="-4.2333331"
-       sodipodi:cy="6.3499999"
-       sodipodi:rx="1.0583334"
-       sodipodi:ry="1.0583334"
-       sodipodi:start="0"
-       sodipodi:end="3.1415927"
-       sodipodi:open="true"
-       sodipodi:arc-type="arc"
-       d="m -3.1749997,6.3499999 a 1.0583334,1.0583334 0 0 1 -0.5291667,0.9165436 1.0583334,1.0583334 0 0 1 -1.0583334,0 1.0583334,1.0583334 0 0 1 -0.5291667,-0.9165436"
-       transform="rotate(-90)"
-       inkscape:export-filename="C:\Users\Utilisateur\Downloads\unloader.png"
-       inkscape:export-xdpi="767.99982"
-       inkscape:export-ydpi="767.99982" />
-    <path
-       style="display:inline;fill:#d4816b;fill-opacity:1;stroke:none;stroke-width:18.8976;stroke-linecap:round;stroke-linejoin:round"
-       id="path36100-1-2-7"
-       sodipodi:type="arc"
-       sodipodi:cx="-4.2333336"
-       sodipodi:cy="-2.1166668"
-       sodipodi:rx="1.0583334"
-       sodipodi:ry="1.0583334"
-       sodipodi:start="0"
-       sodipodi:end="3.1415927"
-       sodipodi:arc-type="arc"
-       transform="matrix(0,-1,-1,0,0,0)"
-       d="m -3.1750002,-2.1166668 a 1.0583334,1.0583334 0 0 1 -0.5291667,0.9165436 1.0583334,1.0583334 0 0 1 -1.0583334,0 1.0583334,1.0583334 0 0 1 -0.5291667,-0.9165436"
-       inkscape:export-filename="C:\Users\Utilisateur\Downloads\unloader.png"
-       inkscape:export-xdpi="767.99982"
-       inkscape:export-ydpi="767.99982"
-       sodipodi:open="true" />
-    <path
        id="path6767"
        d="M 3.1749989,6.3500002 2.1166651,5.2916669 2.1166665,3.1750002 3.1749992,2.1166663 H 5.291665 l 1.0583339,1.0583334 -1.4e-6,2.1166666 -1.0583343,1.0583339 z"
        style="fill:#6e7080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <ellipse
-       style="fill:#eab678;fill-opacity:1;stroke:none;stroke-width:18.8976;stroke-linecap:round;stroke-linejoin:round"
-       id="path52533"
-       cx="4.2333312"
-       cy="4.2333331"
-       inkscape:export-filename="C:\Users\Utilisateur\Downloads\unloader.png"
-       inkscape:export-xdpi="767.99982"
-       inkscape:export-ydpi="767.99982"
-       ry="1.0583335"
-       rx="1.0583318" />
+    <path
+       style="fill:#eab678;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3.1750001,4.7625001 3.7041667,5.2916668 H 4.7625 L 5.2916667,4.7625001 V 3.7041668 L 4.7625,3.1750002 H 3.7041667 L 3.1750001,3.7041668 Z"
+       id="path868" />
+    <path
+       style="fill:#eab678;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 6.3500002,5.2916666 H 6.8791668 L 7.4083335,4.7624999 V 3.7041666 L 6.8791668,3.175 H 6.3500002 v 2.1166666"
+       id="path3046" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3046"
+       id="use7116"
+       transform="rotate(-90,4.2333335,4.2333333)"
+       width="100%"
+       height="100%" />
+    <path
+       style="fill:#d4816b;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 2.1166667,5.2916666 V 3.175 H 1.7197917 1.5875 L 1.0583333,3.7041666 V 4.7624999 L 1.5875,5.2916666 Z"
+       id="path13207" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path13207"
+       id="use16072"
+       transform="rotate(-90,4.2333335,4.2333333)"
+       width="100%"
+       height="100%" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Calque 2"
-     style="display:inline;opacity:0.6"
+     style="display:none;opacity:0.6"
      sodipodi:insensitive="true">
     <image
        width="8.4666672"
