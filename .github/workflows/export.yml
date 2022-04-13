@@ -1,3 +1,5 @@
+- name: export
+
 on:
   workflow_dispatch:
   push:
@@ -6,21 +8,22 @@ on:
 
 jobs:
   export:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    - name: setup
     - uses: actions/checkout@v3
+
     - name: setup inkscape
       run: sudo apt-get install -y inkscape
-    - name: setup python
-    - uses: actions/setup-python@v3
-      with:
-        python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
+
     - name: run script
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.8"
       run: python ${GITHUB_WORKSPACE}/export.py
+
     - name: upload a artifact
+      run: tar -zcvf render.tar.gz ${GITHUB_WORKSPACE}/render/
       uses: actions/upload-artifact@v3.0.0
       with:
         name: render
