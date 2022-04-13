@@ -24,8 +24,8 @@ jobs:
       run: python ${GITHUB_WORKSPACE}/export.py
 
     - name: zip artifacts
-      run: tar -zcvf render.tar.gz ${GITHUB_WORKSPACE}/render/
-
+      run: tar -zcvf ${GITHUB_WORKSPACE}/render.tar.gz ${GITHUB_WORKSPACE}/render/ && ls && pwd
+      
     - name: upload a artifact
       uses: actions/upload-artifact@v3.0.0
       with:
