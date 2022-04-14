@@ -3,4 +3,5 @@ import os
 
 for subdir, dirs, files in os.walk('_src_'):
     for file in files:
-        os.system(f"./export.sh {os.path.join(subdir, file)}")
+        nf = os.path.join(subdir, file)
+        os.rename(nf, nf.replace('\r', '').replace('\n', ''))
