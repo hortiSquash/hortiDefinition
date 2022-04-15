@@ -13,8 +13,10 @@ jobs:
     - uses: actions/checkout@v3
 
     - name: setup dependencies
-      run: sudo apt-get install -y inkscape && sudo apt-get -y install tree && sudo apt-get -y resvg
-
+      run: |
+        sudo apt-get install -y inkscape 
+        sudo apt-get -y install tree 
+        sudo apt-get install -y resvg
     - name: run bash
       run: bash ./export.sh
 
