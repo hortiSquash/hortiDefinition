@@ -13,7 +13,6 @@ recurse() {
             echo "Processing $i"
             name="${i%.svg}.png"
             name="${name//_src_/}"
-            echo "_original_$name"
             base=$(basename "$name")
             found="_original_$name"
             if [[ -f $found ]]; then
