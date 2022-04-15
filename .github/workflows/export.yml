@@ -16,7 +16,9 @@ jobs:
       run: |
         sudo apt-get install -y inkscape 
         sudo apt-get -y install tree 
-        sudo apt-get install -y resvg
+        wget https://github.com/RazrFalcon/resvg/releases/download/v0.22.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
+        tar xvf resvg.tar.gz
+        rm -f resvg.tar.gz
     - name: run bash
       run: bash ./export.sh
 
@@ -26,5 +28,5 @@ jobs:
     - name: upload a artifact
       uses: actions/upload-artifact@v3.0.0
       with:
-        name: render
-        path: ./render
+        name: sprites-override
+        path: ./sprites-override

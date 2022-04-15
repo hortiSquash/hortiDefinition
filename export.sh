@@ -18,7 +18,7 @@ recurse() {
             if [[ -f $found ]]; then
                 size=$(($(identify -format '%w' "$found") * size_multiplier)) # all mindustry sprites are square
                 mkdir -p sprites-override"${name//$base/}"
-                resvg -w "$size" -h "$size" --shape-rendering crispEdges "$i" "sprites-override$name"
+                ./resvg -w "$size" -h "$size" --shape-rendering crispEdges "$i" "sprites-override$name"
             fi
         fi
     done
