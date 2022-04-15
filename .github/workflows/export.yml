@@ -1,9 +1,9 @@
 name: export
 on:
   workflow_dispatch:
-  #push:
-    #paths:
-      #- '**.svg'
+  push:
+    paths:
+      - '**.svg'
 
 jobs:
   export:
@@ -19,6 +19,7 @@ jobs:
         wget https://github.com/RazrFalcon/resvg/releases/download/v0.22.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
         tar xvf resvg.tar.gz
         rm -f resvg.tar.gz
+      
     - name: run bash
       run: bash ./export.sh
 
