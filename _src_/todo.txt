@@ -12,10 +12,8 @@ liquidrouter
 liquidjunction
 bridgeconduit
 phaseconduit
-node
 battery
 diode
-solar
 combgen
 melter
 pulverizer
