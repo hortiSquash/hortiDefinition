@@ -1,6 +1,6 @@
 #!/bin/bash
 
-size_multiplier=".5" # yep, its a string.
+size_multiplier="$1" # yep, its a string.
 
 recurse() {
     for i in "$1"/*; do
