@@ -1,1 +1,1 @@
-"change logs go here"
+turn off original sprite in large solar panel
