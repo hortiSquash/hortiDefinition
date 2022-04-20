@@ -1,6 +1,6 @@
 #!/bin/bash
 
-size_multiplier=.5
+size_multiplier="$1" # yep, its a string.
 
 recurse() {
     for i in "$1"/*; do
@@ -16,7 +16,8 @@ recurse() {
             base=$(basename "$name")
             found="_original_$name"
             if [[ -f $found ]]; then
-                size=$(($(identify -format '%w' "$found") * size_multiplier)) # all mindustry sprites are square
+                size=$(identify -format '%w' "$found") # all mindustry sprites are square
+                size=$(echo "print(round($size * $size_multiplier))" | python)
                 mkdir -p sprites-override"${name//$base/}"
                 if [[ -f ./resvg ]]; then
                     ./resvg -w "$size" -h "$size" --shape-rendering crispEdges "$i" "sprites-override$name"

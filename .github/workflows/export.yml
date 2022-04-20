@@ -15,20 +15,33 @@ jobs:
 
     - name: setup dependencies
       run: |
-        sudo apt-get install -y inkscape 
         sudo apt-get -y install tree 
         wget https://github.com/RazrFalcon/resvg/releases/download/v0.22.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
         tar xvf resvg.tar.gz
       
-    - name: run bash
-      run: bash ./export.sh && tree
+    - name: prepare python for math 
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+        # cache: 'pip'
       
-    - name: prepare artifact
-      run: find . -maxdepth 1 -not -name 'sprites-override' -not -name 'mod.*' -not -name 'README.md' -exec /bin/rm -rf '{}' \; && tree 
-      # delete everything but mod.hjson, readme, and sprites
+    - name: run bash
+      run: |
+        bash ./prepare-artifact.sh .5
+        bash ./prepare-artifact.sh 2
+        bash ./prepare-artifact.sh 4
 
     - name: upload a artifact
       uses: actions/upload-artifact@v3.0.0
       with:
-        name: mod
-        path: .
+        path: mod_scale_.5.zip
+
+    - name: upload .5x artifact
+      uses: actions/upload-artifact@v3.0.0
+      with:
+        path: mod_scale_2.zip
+        
+    - name: upload 4x artifact
+      uses: actions/upload-artifact@v3.0.0
+      with:
+        path: mod_scale_4.zip

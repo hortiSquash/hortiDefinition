@@ -7,7 +7,6 @@ on:
     
 
 # copy over export.yml: look into better method
-
 jobs:
   export:
     runs-on: ubuntu-latest
@@ -16,17 +15,25 @@ jobs:
 
     - name: setup dependencies
       run: |
-        sudo apt-get install -y inkscape 
         sudo apt-get -y install tree 
         wget https://github.com/RazrFalcon/resvg/releases/download/v0.22.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
         tar xvf resvg.tar.gz
       
+    - name: prepare python for math 
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+        # cache: 'pip'
+      
     - name: run bash
       run: bash ./export.sh && tree
       
-    - name: prepare
-      run: find . -maxdepth 1 -not -name 'sprites-override' -not -name 'mod.*' -not -name 'README.md' -exec /bin/rm -rf '{}' \; && zip -r mod.zip .
+    - name: prepare artifact
+      run: |
+        find . -maxdepth 1 -not -name 'sprites-override' -not -name 'mod.*' -not -name 'README.md' -exec /bin/rm -rf '{}' \; && tree 
+        zip -r mod.zip .
       # delete everything but mod.hjson, readme, and sprites
+
       
     - name: release
       uses: ncipollo/release-action@v1

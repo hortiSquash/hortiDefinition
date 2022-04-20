@@ -7,3 +7,6 @@ sprited by:
 
 - hortiSquash
 - bendn
+
+
+The texture size multiplier is variable.
