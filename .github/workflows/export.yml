@@ -25,9 +25,18 @@ jobs:
 
     - name: debug
       run: tree
+      
+    - name: prepare artifact
+      run: |
+        rm -rf _original_/
+        rm -rf _src_/
+        rm -rf export.sh
+        rm -rf .gitignore
+        rm -rf .git
+        rm -rf .github
 
     - name: upload a artifact
       uses: actions/upload-artifact@v3.0.0
       with:
-        name: sprites-override
-        path: ./sprites-override
+        name: mod
+        path: .
