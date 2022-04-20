@@ -1,7 +1,9 @@
 # hortiDefinition
 HD texture pack for Mindustry
-Attempts to be as close as possible to original sprites
+
+Attempts to be true to the original sprites
 
 sprited by:
-  hortiSquash
-  bendn
+
+- hortiSquash
+- bendn
