@@ -34,6 +34,7 @@ jobs:
         rm -rf .gitignore
         rm -rf .git
         rm -rf .github
+        rm -rf resvg
 
     - name: upload a artifact
       uses: actions/upload-artifact@v3.0.0
