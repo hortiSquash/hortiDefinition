@@ -31,17 +31,7 @@ jobs:
         bash ./prepare-artifact.sh 2
         bash ./prepare-artifact.sh 4
 
-    - name: upload a artifact
+    - name: upload artifacts
       uses: actions/upload-artifact@v3.0.0
       with:
-        path: mod_scale_.5.zip
-
-    - name: upload .5x artifact
-      uses: actions/upload-artifact@v3.0.0
-      with:
-        path: mod_scale_2.zip
-        
-    - name: upload 4x artifact
-      uses: actions/upload-artifact@v3.0.0
-      with:
-        path: mod_scale_4.zip
+        path: mod*.zip
