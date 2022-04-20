@@ -8,7 +8,7 @@ on:
 
 # copy over export.yml: look into better method
 jobs:
-  export:
+  release:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
@@ -26,19 +26,15 @@ jobs:
         # cache: 'pip'
       
     - name: run bash
-      run: bash ./export.sh && tree
-      
-    - name: prepare artifact
       run: |
-        find . -maxdepth 1 -not -name 'sprites-override' -not -name 'mod.*' -not -name 'README.md' -exec /bin/rm -rf '{}' \; && tree 
-        zip -r mod.zip .
-      # delete everything but mod.hjson, readme, and sprites
-
+        bash ./prepare-artifact.sh .5
+        bash ./prepare-artifact.sh 2
+        bash ./prepare-artifact.sh 4
       
     - name: release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: "mod.zip"
+        artifacts: "*.zip"
         body: ${{ github.event.commits[0].message }}
         token: ${{ secrets.GITHUB_TOKEN }}
         #commit: main
