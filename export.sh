@@ -1,6 +1,6 @@
 #!/bin/bash
 
-size_multiplier=2
+size_multiplier=.5
 
 recurse() {
     for i in "$1"/*; do
