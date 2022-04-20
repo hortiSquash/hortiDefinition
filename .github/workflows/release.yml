@@ -29,7 +29,7 @@ jobs:
       # delete everything but mod.hjson, readme, and sprites
       
     - name: release
-    - uses: ncipollo/release-action@v1
+      uses: ncipollo/release-action@v1
       with:
         artifacts: "mod.zip"
         body: github.event.commits[0].message
