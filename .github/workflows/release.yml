@@ -32,7 +32,7 @@ jobs:
       uses: ncipollo/release-action@v1
       with:
         artifacts: "mod.zip"
-        body: github.event.commits[0].message
+        body: ${{ github.event.commits[0].message }}
         token: ${{ secrets.GITHUB_TOKEN }}
         #commit: main
         #tag: "0.1"
