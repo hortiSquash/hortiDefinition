@@ -34,7 +34,7 @@ jobs:
         artifacts: "mod.zip"
         body: github.event.commits[0].message
         token: ${{ secrets.GITHUB_TOKEN }}
-        commit: main
+        #commit: main
         #tag: "0.1"
     #- name: upload a artifact
       #uses: actions/upload-artifact@v3.0.0
