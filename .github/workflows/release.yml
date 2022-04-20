@@ -1,0 +1,43 @@
+name: "release"
+on:
+  workflow_dispatch:
+  push: 
+    tags:
+      - 'v*'
+    
+
+# copy over export.yml: look into better method
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: setup dependencies
+      run: |
+        sudo apt-get install -y inkscape 
+        sudo apt-get -y install tree 
+        wget https://github.com/RazrFalcon/resvg/releases/download/v0.22.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
+        tar xvf resvg.tar.gz
+      
+    - name: run bash
+      run: bash ./export.sh && tree
+      
+    - name: prepare
+      run: find . -maxdepth 1 -not -name 'sprites-override' -not -name 'mod.*' -not -name 'README.md' -exec /bin/rm -rf '{}' \; && zip -r mod.zip .
+      # delete everything but mod.hjson, readme, and sprites
+      
+    - name: release
+      run: ncipollo/release-action@v1
+      with:
+        artifacts: "mod.zip"
+        body: github.event.commits[0].message
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit: main
+        #tag: "0.1"
+    #- name: upload a artifact
+      #uses: actions/upload-artifact@v3.0.0
+      #with:
+        #name: mod
+        #path: .
