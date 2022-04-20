@@ -8,7 +8,6 @@ on:
 jobs:
   export:
     runs-on: ubuntu-latest
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     - uses: actions/checkout@v3
 
@@ -18,23 +17,12 @@ jobs:
         sudo apt-get -y install tree 
         wget https://github.com/RazrFalcon/resvg/releases/download/v0.22.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
         tar xvf resvg.tar.gz
-        rm -f resvg.tar.gz
       
     - name: run bash
-      run: bash ./export.sh
-
-    - name: debug
-      run: tree
+      run: bash ./export.sh && tree
       
     - name: prepare artifact
-      run: |
-        rm -rf _original_/
-        rm -rf _src_/
-        rm -rf export.sh
-        rm -rf .gitignore
-        rm -rf .git
-        rm -rf .github
-        rm -rf resvg
+      run: find . -not -name 'sprites-override' -not -name 'mod.*' -not -name 'README.md' -delete && tree
 
     - name: upload a artifact
       uses: actions/upload-artifact@v3.0.0
