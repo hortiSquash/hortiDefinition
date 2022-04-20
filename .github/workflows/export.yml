@@ -22,7 +22,8 @@ jobs:
       run: bash ./export.sh && tree
       
     - name: prepare artifact
-      run: find . -not -name 'sprites-override' -not -name 'mod.*' -not -name 'README.md' -delete && tree
+      run: find . -maxdepth 1 -not -name 'sprites-override' -not -name 'mod.*' -not -name 'README.md' -exec /bin/rm -rf '{}' \; && tree 
+      # delete everything but mod.hjson, readme, and sprites
 
     - name: upload a artifact
       uses: actions/upload-artifact@v3.0.0
