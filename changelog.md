@@ -1,3 +1,4 @@
 - turn off original sprite in large solar panel
 - added launchpad
 - added battery
+- created the launchpod for the launchpad
