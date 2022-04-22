@@ -1,2 +1,3 @@
-turn off original sprite in large solar panel
-added launchpad
+- turn off original sprite in large solar panel
+- added launchpad
+- added battery
