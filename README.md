@@ -8,6 +8,6 @@ sprited by:
 
 - hortiSquash
 - bendn
-
+- bibuiban
 
 The texture size multiplier is variable.
