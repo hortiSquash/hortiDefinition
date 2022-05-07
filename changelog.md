@@ -3,3 +3,4 @@
 - added battery
 - created the launchpod for the launchpad
 - added alpha and gamma
+- added meltdowm, spectre, lancer, foreshadow, cyclone (bibuiban)
