@@ -1,8 +1,1 @@
-- turn off original sprite in large solar panel
-- added launchpad
-- added battery
-- created the launchpod for the launchpad
-- added alpha and gamma
-- added meltdowm, spectre, lancer, foreshadow, cyclone
-- added heat sprites for above turrets, and ripple
-- arc-heat
+- changelog goes here
