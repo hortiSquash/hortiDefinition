@@ -5,3 +5,4 @@
 - added alpha and gamma
 - added meltdowm, spectre, lancer, foreshadow, cyclone
 - added heat sprites for above turrets, and ripple
+- arc-heat
