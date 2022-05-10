@@ -22,4 +22,3 @@ def outline(filename: str, size: float, color: tuple = (64, 64, 73)) -> Image:
 
 img = outline(argv[1], float(argv[2]) * 3)
 img.save(argv[3])
-print("is this being called on action?")
