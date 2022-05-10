@@ -18,15 +18,16 @@ recurse() {
                 size=$(identify -format '%w' "$found") # all mindustry sprites are square
                 size=$(echo "print(round($size * $size_multiplier))" | python)
                 mkdir -p sprites-override"${name//$base/}"
+                out="sprites-override$name"
                 if [[ -f ./resvg ]]; then
-                    ./resvg -w "$size" -h "$size" --shape-rendering crispEdges "$i" "sprites-override$name"
+                    ./resvg -w "$size" -h "$size" --shape-rendering crispEdges "$i" "$out"
                 else
-                    resvg -w "$size" -h "$size" --shape-rendering crispEdges "$i" "sprites-override$name"
+                    resvg -w "$size" -h "$size" --shape-rendering crispEdges "$i" "$out"
                 fi
                 if [[ $name == *"turrets"* && $name != *"heat"* && $name != *"bases"* && $name != *"top"* && $name != *"liquid"* ]]; then
-                    python3 outline.py "sprites-override$name" "$size_multiplier" "sprites-override$name"
+                    python3 outline.py "$out" "$size_multiplier" "$out"
                 fi
-                echo "$i ➔ sprites-override$name"
+                echo "$i ➔ $out"
             else
                 echo -e "\033[31;1;4m[ohno]: no corresponding sprite for $i\033[0m" >&2
             fi

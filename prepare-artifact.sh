@@ -2,6 +2,7 @@
 
 location=$(pwd)
 bash export.sh "$1"
+python3 trim.py "sprites-override"
 mkdir ../temp
 cp -r ./* ../temp
 if [[ -d ../temp ]]; then
@@ -12,7 +13,6 @@ if [[ -d ../temp ]]; then
     echo "$tilesize" >>mod.hjson
     cat mod.hjson
     zip -r "mod_scale_$1.zip" .
-
 fi
 
 mv "mod_scale_$1.zip" "$location"
