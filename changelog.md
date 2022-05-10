@@ -3,3 +3,5 @@
 - pulverize + melter
 - fuse + scatter
 - salvo
+- outlines
+- swarmer + tsunami
