@@ -7,3 +7,4 @@
 - swarmer + tsunami
 - worldprocessor + cell
 - beamnode
+- incinerator
