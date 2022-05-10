@@ -7,10 +7,9 @@ recurse() {
         if [ -d "$i" ]; then
             recurse "$i"
         elif [ -f "$i" ]; then
-            if [[ $i == "_src_/template.svg" || "${i: -4}" != ".svg" ]]; then
+            if [[ $i == *"template"* || "${i: -4}" != ".svg" ]]; then
                 exit 0
             fi
-            echo "Processing $i"
             name="${i%.svg}.png"
             name="${name//_src_/}"
             base=$(basename "$name")
@@ -24,6 +23,12 @@ recurse() {
                 else
                     resvg -w "$size" -h "$size" --shape-rendering crispEdges "$i" "sprites-override$name"
                 fi
+                if [[ $name == *"turrets"* && $name != *"heat"* && $name != *"bases"* ]]; then
+                    python3 outline.py "sprites-override$name" "$size_multiplier" "sprites-override$name"
+                fi
+                echo "$i ➔ sprites-override$name"
+            else
+                echo -e "\033[31;1;4m[ohno]: corresponding sprite for $i\033[0m" >&2
             fi
         fi
     done
