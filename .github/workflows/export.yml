@@ -3,35 +3,36 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - 'main'
+      - "main"
     paths:
-      - '**.svg'
+      - "**.svg"
 
 jobs:
   export:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-    - name: setup dependencies
-      run: |
-        sudo apt-get -y install tree 
-        wget https://github.com/RazrFalcon/resvg/releases/download/v0.22.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
-        tar xvf resvg.tar.gz
-      
-    - name: prepare python for math 
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.9'
-        # cache: 'pip'
-      
-    - name: run bash
-      run: |
-        bash ./prepare-artifact.sh .5
-        bash ./prepare-artifact.sh 2
-        bash ./prepare-artifact.sh 4
+      - name: prepare python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.9"
+          cache: "pip"
 
-    - name: upload artifacts
-      uses: actions/upload-artifact@v3.0.0
-      with:
-        path: mod*.zip
+      - name: setup dependencies
+        run: |
+          pip install -r requirements.txt
+          sudo apt-get -y install tree 
+          wget https://github.com/RazrFalcon/resvg/releases/download/v0.22.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
+          tar xvf resvg.tar.gz
+
+      - name: run bash
+        run: |
+          bash ./prepare-artifact.sh .5
+          bash ./prepare-artifact.sh 2
+          bash ./prepare-artifact.sh 4
+
+      - name: upload artifacts
+        uses: actions/upload-artifact@v3.0.0
+        with:
+          path: mod*.zip
