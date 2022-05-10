@@ -5,7 +5,7 @@ from sys import argv
 from PIL import Image, ImageFilter, ImageDraw
 
 
-def outline(filename: str, size: int, color: tuple = (64, 64, 73)) -> Image:
+def outline(filename: str, size: float, color: tuple = (64, 64, 73)) -> Image:
     img = Image.open(filename)
     X, Y = img.size
     edge = img.filter(ImageFilter.FIND_EDGES).load()
@@ -20,5 +20,5 @@ def outline(filename: str, size: int, color: tuple = (64, 64, 73)) -> Image:
     return stroke
 
 
-img = outline(argv[1], int(argv[2]) * 3)
+img = outline(argv[1], float(argv[2]) * 3)
 img.save(argv[3])

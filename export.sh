@@ -7,7 +7,7 @@ recurse() {
         if [ -d "$i" ]; then
             recurse "$i"
         elif [ -f "$i" ]; then
-            if [[ $i == "_src_/template.svg" || "${i: -4}" != ".svg" ]]; then
+            if [[ $i == *"template"* || "${i: -4}" != ".svg" ]]; then
                 exit 0
             fi
             name="${i%.svg}.png"
@@ -27,6 +27,8 @@ recurse() {
                     python3 outline.py "sprites-override$name" "$size_multiplier" "sprites-override$name"
                 fi
                 echo "$i ➔ sprites-override$name"
+            else
+                echo -e "\033[31;1;4m[ohno]: corresponding sprite for $i\033[0m" >&2
             fi
         fi
     done
