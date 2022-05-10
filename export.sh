@@ -2,6 +2,8 @@
 
 size_multiplier="$1" # yep, its a string.
 
+clr=$(echo "print(round($size_multiplier * 7))" | python)
+
 recurse() {
     for i in "$1"/*; do
         if [ -d "$i" ]; then
@@ -27,7 +29,7 @@ recurse() {
                 if [[ $name == *"turrets"* && $name != *"heat"* && $name != *"bases"* && $name != *"top"* && $name != *"liquid"* ]]; then
                     python3 outline.py "$out" "$size_multiplier" "$out"
                 fi
-                echo "$i ➔ $out"
+                echo -e "\033[38;2;0;100;0m[$size_multiplier]\033[38;2;100;100;$clr""m $i ➔ $out\033[0m"
             else
                 echo -e "\033[31;1;4m[ohno]: no corresponding sprite for $i\033[0m" >&2
             fi
