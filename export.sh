@@ -28,7 +28,7 @@ recurse() {
                 fi
                 echo "$i ➔ sprites-override$name"
             else
-                echo -e "\033[31;1;4m[ohno]: corresponding sprite for $i\033[0m" >&2
+                echo -e "\033[31;1;4m[ohno]: no corresponding sprite for $i\033[0m" >&2
             fi
         fi
     done
