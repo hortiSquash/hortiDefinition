@@ -17,7 +17,6 @@ for root, dirs, files in os.walk(folder_dir, topdown=False):
     for name in files:
         if name.endswith('.png'):
             filename = os.path.join(root, name)
-            print(filename)
 
             image = img.imread(filename)
             image = np.asarray(image)
