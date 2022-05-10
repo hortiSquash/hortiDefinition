@@ -12,7 +12,7 @@ if [[ -d ../temp ]]; then
     tilesize=$(echo "print(round(32 * $1))" | python3)
     echo "$tilesize" >>mod.hjson
     cat mod.hjson
-    zip -r "mod_scale_$1.zip" .
+    zip -qr "mod_scale_$1.zip" .
 fi
 
 mv "mod_scale_$1.zip" "$location"
