@@ -28,8 +28,12 @@ jobs:
       - name: run bash
         run: |
           bash ./prepare-artifact.sh .5
+          bash ./prepare-artifact.sh 1
           bash ./prepare-artifact.sh 2
           bash ./prepare-artifact.sh 4
+          bash ./prepare-artifact.sh 8
+          bash ./prepare-artifact.sh 16
+          bash ./prepare-artifact.sh 32
 
       - name: release
         uses: ncipollo/release-action@v1

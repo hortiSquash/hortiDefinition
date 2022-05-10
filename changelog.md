@@ -6,3 +6,4 @@
 - outlines
 - swarmer + tsunami
 - worldprocessor + cell
+- beamnode

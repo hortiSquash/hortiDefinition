@@ -31,6 +31,7 @@ jobs:
           bash ./prepare-artifact.sh .5
           bash ./prepare-artifact.sh 2
           bash ./prepare-artifact.sh 4
+          bash ./prepare-artifact.sh 8
 
       - name: upload artifacts
         uses: actions/upload-artifact@v3.0.0
