@@ -9,3 +9,4 @@
 - beamnode
 - incinerator
 - mender
+- shockmine
