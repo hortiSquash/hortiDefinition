@@ -23,8 +23,8 @@ recurse() {
                 else
                     resvg -w "$size" -h "$size" --shape-rendering crispEdges "$i" "sprites-override$name"
                 fi
-                if [[ $name == *"turrets"* ]]; then
-                    python3 outline.py "sprites-override$name" "sprites-override$name"
+                if [[ $name == *"turrets"* && $name != *"heat"* && $name != *"bases"* ]]; then
+                    python3 outline.py "sprites-override$name" "$size_multiplier" "sprites-override$name"
                 fi
                 echo "$i ➔ sprites-override$name"
             fi
