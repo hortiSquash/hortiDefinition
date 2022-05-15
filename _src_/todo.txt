@@ -17,9 +17,6 @@ combgen
 repairpoint
 
 #REDO
-foreshadow
-cyclone
-lancer
 meltdown
 ripple
 salvo
