@@ -18,7 +18,7 @@ runs:
       run: |
         pip install -r requirements.txt
         sudo apt-get -y install tree 
-        wget -nv https://github.com/RazrFalcon/resvg/releases/download/v0.22.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
+        wget -nv https://github.com/RazrFalcon/resvg/releases/download/v0.23.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
         tar xvf resvg.tar.gz
       shell: bash
 
