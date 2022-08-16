@@ -1,0 +1,34 @@
+name: Prepare
+description: Creates artifacts
+
+runs:
+  using: "composite"
+  steps:
+    - uses: actions/checkout@v3
+
+    - name: prepare python
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.9"
+        cache: "pip"
+
+    - name: setup dependencies
+      run: |
+        pip install -r requirements.txt
+        sudo apt-get -y install tree 
+        wget -nv https://github.com/RazrFalcon/resvg/releases/download/v0.22.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
+        tar xvf resvg.tar.gz
+      shell: bash
+
+    - name: create artifacts
+      run: |
+        bash ./prepare-artifact.sh .5
+        bash ./prepare-artifact.sh 2
+        bash ./prepare-artifact.sh 4
+        bash ./prepare-artifact.sh 8
+      shell: bash
+
+    - name: upload artifacts
+      uses: actions/upload-artifact@v3.0.0
+      with:
+        path: mod*.zip
