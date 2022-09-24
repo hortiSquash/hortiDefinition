@@ -3,7 +3,7 @@
 "author": "hortiSquash + bendn",
 "description": "TexturePack with HD sprites",
 "version": "0.41",
-"minGameVersion": "136",
+"minGameVersion": "139",
 "hidden": "true",
 "repo": "hortiSquash/hortiDefinition",
-"texturesize": 
+"texturescale": 

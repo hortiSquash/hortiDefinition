@@ -1,3 +1,5 @@
-/sprites-override
+sprites-override
 .vscode
 .selftodo
+*.zip
+icon.png

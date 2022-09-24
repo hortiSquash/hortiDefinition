@@ -28,9 +28,10 @@ runs:
         bash ./prepare-artifact.sh 2
         bash ./prepare-artifact.sh 4
         bash ./prepare-artifact.sh 8
+        bash ./prepare-artifact.sh 16
       shell: bash
 
     - name: upload artifacts
       uses: actions/upload-artifact@v3.0.0
       with:
-        path: mod*.zip
+        path: "**.zip"

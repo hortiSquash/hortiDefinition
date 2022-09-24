@@ -1,35 +1,51 @@
 #!/bin/bash
 
+set -e
+set -T
+set -E
+set -o pipefail
+
 size_multiplier="$1" # yep, its a string.
 echo "<-----|${size_multiplier}|----->"
 
-recurse() {
-    for i in "$1"/*; do
-        if [ -d "$i" ]; then
-            recurse "$i"
-        elif [ -f "$i" ]; then
-            [[ $i == *"template"* || "${i: -4}" != ".svg" ]] && exit 0
-            name="${i%.svg}.png"
-            name="${name//_src_/}"
-            base=$(basename "$name")
-            found="_original_$name"
-            if [[ -f $found ]]; then
-                size=$(identify -format '%w' "$found") # all mindustry sprites are square
-                size=$(echo "print(round($size * $size_multiplier))" | python)
-                mkdir -p sprites-override"${name//$base/}"
-                out="sprites-override$name"
-                if [[ -f ./resvg ]]; then
-                    ./resvg -w "$size" -h "$size" --shape-rendering crispEdges "$i" "$out"
-                else
-                    resvg -w "$size" -h "$size" --shape-rendering crispEdges "$i" "$out"
-                fi
-                [[ $name == *"turrets"* && $name != *"heat"* && $name != *"bases"* && $name != *"top"* && $name != *"liquid"* ]] && python3 outline.py "$out" "$size_multiplier" "$out"
-                echo -e "[${size_multiplier}] $i ➔ $out"
-            else
-                echo -e "::warning file=${i}::No corresponding sprite" >&2
-            fi
-        fi
-    done
+shopt -s globstar
+
+render="resvg"
+[[ -f ./resvg ]] && render="./resvg"
+render+=" --shape-rendering crispEdges"
+
+# python **
+function multiply_rounded() {
+    round=$(printf %.2f "$(bc -l <<<"$1*$2")")
+    echo "${round%???}"
 }
 
-recurse "_src_"
+echo -e "[4] icon.svg ➔ icon.png"
+$render -w 128 -h 128 icon.svg icon.png &
+
+for i in _src_/**/*.svg; do
+    while [ "$(jobs -r | wc -l)" -ge 10 ]; do sleep .1; done
+    [[ $i == *"template"* ]] && exit 0
+    name="${i%.svg}.png"
+    name="${name//_src_/}"
+    path="_original_$name" # _original_/file
+    if [[ -f $path ]]; then
+        size=$(identify -format '%w' "$path") # all mindustry sprites are square
+        size=$(multiply_rounded "$size" "$size_multiplier")
+        base=$(basename "$name")
+        mkdir -p sprites-override"${name//$base/}"
+        out="sprites-override$name"
+        if [[ $name == *"turrets"* && $name != *"heat"* && $name != *"bases"* && $name != *"top"* && $name != *"liquid"* ]]; then
+            (
+                $render -w "$size" -h "$size" "$i" "$out"
+                python3 outline.py "$out" "$size_multiplier" "$out"
+            ) &
+        else
+            $render -w "$size" -h "$size" "$i" "$out" &
+        fi
+        echo -e "[${size_multiplier}] $i ➔ $out"
+    else
+        echo -e "::warning file=${i}::No corresponding sprite" >&2
+    fi
+done
+wait

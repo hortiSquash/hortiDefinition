@@ -1,20 +1,16 @@
 #!/bin/bash
 
-location=$(pwd)
+l=$(pwd)
 bash export.sh "$1"
-python3 trim.py "sprites-override"
-mkdir ../temp
-cp -r ./* ../temp
-if [[ -d ../temp ]]; then
-    cd ../temp || exit 1
-    find . -maxdepth 1 -not -name 'sprites-override' -not -name 'mod.*' -not -name 'README.md' -exec /bin/rm -rf '{}' \;
-    # tree .
-    tilesize=$(echo "print(round(32 * $1))" | python3)
-    echo "$tilesize" >>mod.hjson
-    cat mod.hjson
-    zip -qr "mod_scale_$1.zip" .
-fi
-
-mv "mod_scale_$1.zip" "$location"
-cd "$location" || exit 1
-rm -rf ../temp
+# python3 trim.py "sprites-override"
+tmp_folder="$HOME/temp_$1"
+mkdir "$tmp_folder"
+cp -r "sprites-override" "mod.hjson" "README.md" "icon.png" "$tmp_folder"
+#shellcheck disable=SC2164
+cd "$tmp_folder"
+# tree .
+bc -l <<<"1/$1" >>mod.hjson
+cat mod.hjson
+zip -qr "hortiDefinition_x$1.zip" .
+mv "hortiDefinition_x$1.zip" "$l"
+cd "$l" && rm -r "$tmp_folder"
