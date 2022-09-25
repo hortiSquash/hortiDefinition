@@ -31,15 +31,25 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           skip-version-file: "true"
+          skip-on-empty: "true"
           output-file: "false"
           skip-commit: "true"
-          skip-on-empty: "true"
 
   release:
     needs: changelog
     runs-on: ubuntu-latest
     if: ${{ needs.changelog.outputs.skipped == 'false' }}
     steps:
+      - uses: actions/checkout@v3
+        with:
+          lfs: true
+
+      - name: get moreutils
+        run: sudo apt-get update && sudo apt-get install -y moreutils
+
+      - name: set version
+        run: jq '.version = "${{ needs.changelog.outputs.tag }}"' mod.json | sponge mod.json
+
       - name: make artifacts
         uses: hortiSquash/hortiDefinition/.github/actions/export@main
 
