@@ -1,19 +1,54 @@
 name: "release"
 on:
   push:
-    tags:
-      - "v*"
+    branches: [main]
+    paths:
+      - _src_/*/**.svg # dont match toplevel _src_ items, eg template.svg
+      - .github/**.yml
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  release:
+  changelog:
+    outputs:
+      version: ${{ steps.changelog.outputs.version }}
+      body: ${{ steps.changelog.outputs.clean_changelog }}
+      tag: ${{ steps.changelog.outputs.tag }}
+      skipped: ${{ steps.changelog.outputs.skipped }}
+
     runs-on: ubuntu-latest
     steps:
-      - name: export
+      - name: checkout
+        uses: actions/checkout@v3
+        # with:
+        #   lfs: true
+
+      - name: create changelog
+        id: changelog
+        uses: TriPSs/conventional-changelog-action@v3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          skip-version-file: "true"
+          output-file: "false"
+          skip-commit: "true"
+          skip-on-empty: "true"
+
+  release:
+    needs: changelog
+    runs-on: ubuntu-latest
+    if: ${{ needs.changelog.outputs.skipped == 'false' }}
+    steps:
+      - name: make artifacts
         uses: hortiSquash/hortiDefinition/.github/actions/export@main
 
+      - name: tag head
+        run: git tag ${{ needs.changelog.outputs.tag }}
+
       - name: release
-        uses: ncipollo/release-action@v1
+        uses: ncipollo/release-action@v1.10.0
         with:
           artifacts: "**.zip"
-          bodyFile: changelog.md
-          token: ${{ secrets.GITHUB_TOKEN }}
+          body: ${{ needs.changelog.outputs.body }}
+          tag: ${{ needs.changelog.outputs.tag }}
