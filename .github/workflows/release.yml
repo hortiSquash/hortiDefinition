@@ -45,19 +45,41 @@ jobs:
         with:
           lfs: true
 
-      - name: get moreutils
-        run: sudo apt-get update && sudo apt-get install -y moreutils
+      - name: get dependencies
+        run: |
+          echo ::group::deps
+          sudo apt-get update && sudo apt-get install -y moreutils tree imagemagick jq
+          wget -nv https://github.com/RazrFalcon/resvg/releases/download/v0.23.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
+          tar xvf resvg.tar.gz
+          echo ::endgroup::
 
-      - name: set version
+      - name: prepare python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.9"
+          cache: "pip"
+
+      - name: set mod version
         run: jq '.version = "${{ needs.changelog.outputs.tag }}"' mod.json | sponge mod.json
 
       - name: make artifacts
-        uses: hortiSquash/hortiDefinition/.github/actions/export@main
+        run: |
+          ./prepare-artifact.sh 0.25
+          ./prepare-artifact.sh 0.5
+          ./prepare-artifact.sh 2
+          ./prepare-artifact.sh 4
+          ./prepare-artifact.sh 8
+          ./prepare-artifact.sh 16
 
-      - name: tag head
+      - name: create tag
         run: git tag ${{ needs.changelog.outputs.tag }}
 
-      - name: release
+      - name: upload artifacts
+        uses: actions/upload-artifact@v3.0.0
+        with:
+          path: "**.zip"
+
+      - name: release artifacts
         uses: ncipollo/release-action@v1.10.0
         with:
           artifacts: "**.zip"

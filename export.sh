@@ -8,21 +8,47 @@ set -o pipefail
 size_multiplier="$1" # yep, its a string.
 echo "<-----|${size_multiplier}|----->"
 
-shopt -s globstar
+# round $1
+function round() {
+    round=$(printf %.2f "$1")
+    echo "${round%???}" # strip .00d
+}
 
-render="resvg"
-[[ -f ./resvg ]] && render="./resvg"
-render+=" --shape-rendering crispEdges"
+[[ $(bc -l <<<"$size_multiplier < 1") -eq 1 ]] && pixels_to_outline=$(round "$(bc -l <<<"4 * $size_multiplier")")
+
+# $1: file to outline
+function outline() {
+    local file="$1"
+    if [[ -n $pixels_to_outline ]]; then
+        convert "$file" -bordercolor none -background '#404049' -alpha background -channel A -blur "$pixels_to_outline" -level 0,0% "$file"
+    else
+        python3 outline.py "$file" "$size_multiplier" "$file"
+    fi
+}
+
+renderer="resvg"
+[[ -f ./resvg ]] && renderer="./resvg"
+renderer+=" --shape-rendering crispEdges"
+
+# $1: size
+# $2: in
+# $3: out
+function render() {
+    local size="$1"
+    local in="$2"
+    local out="$3"
+    $renderer -w "$size" -h "$size" "$in" "$out"
+}
 
 # python **
 function multiply_rounded() {
-    round=$(printf %.2f "$(bc -l <<<"$1*$2")")
-    echo "${round%???}"
+    round "$(bc -l <<<"$1*$2")"
 }
 
 echo -e "[4] icon.svg ➔ icon.png"
-$render -w 128 -h 128 icon.svg icon.png &
+render 128 icon.svg icon.png &
 
+shopt -s globstar
 for i in _src_/**/*.svg; do
     while [ "$(jobs -r | wc -l)" -ge 10 ]; do sleep .1; done
     [[ $i == *"template"* ]] && continue
@@ -30,20 +56,16 @@ for i in _src_/**/*.svg; do
     name="${name//_src_/}"
     path="_original_$name" # _original_/file
     if [[ -f $path ]]; then
-        size=$(identify -format '%w' "$path") # all mindustry sprites are square
-        size=$(multiply_rounded "$size" "$size_multiplier")
+        size=$(multiply_rounded "$(identify -format '%w' "$path")" "$size_multiplier")
         base=$(basename "$name")
         mkdir -p sprites-override"${name//$base/}"
         out="sprites-override$name"
         if [[ 
             ($name == *"turrets"* && $name != *"heat"* && $name != *"bases"* && $name != *"top"* && $name != *"liquid"*) ||
             ($name == *"beta.png" || $name == *"gamma.png" || $name == *"alpha.png") ]]; then
-            (
-                $render -w "$size" -h "$size" "$i" "$out"
-                python3 outline.py "$out" "$size_multiplier" "$out"
-            ) &
+            (render "$size" "$i" "$out" && outline "$out") &
         else
-            $render -w "$size" -h "$size" "$i" "$out" &
+            render "$size" "$i" "$out" &
         fi
         echo -e "[${size_multiplier}] $i ➔ $out"
     else
