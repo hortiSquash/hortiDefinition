@@ -35,7 +35,9 @@ for i in _src_/**/*.svg; do
         base=$(basename "$name")
         mkdir -p sprites-override"${name//$base/}"
         out="sprites-override$name"
-        if [[ $name == *"turrets"* && $name != *"heat"* && $name != *"bases"* && $name != *"top"* && $name != *"liquid"* ]]; then
+        if [[ 
+            ($name == *"turrets"* && $name != *"heat"* && $name != *"bases"* && $name != *"top"* && $name != *"liquid"*) ||
+            ($name == *"beta.png" || $name == *"gamma.png" || $name == *"alpha.png") ]]; then
             (
                 $render -w "$size" -h "$size" "$i" "$out"
                 python3 outline.py "$out" "$size_multiplier" "$out"
