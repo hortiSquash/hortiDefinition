@@ -25,7 +25,7 @@ $render -w 128 -h 128 icon.svg icon.png &
 
 for i in _src_/**/*.svg; do
     while [ "$(jobs -r | wc -l)" -ge 10 ]; do sleep .1; done
-    [[ $i == *"template"* ]] && exit 0
+    [[ $i == *"template"* ]] && continue
     name="${i%.svg}.png"
     name="${name//_src_/}"
     path="_original_$name" # _original_/file
