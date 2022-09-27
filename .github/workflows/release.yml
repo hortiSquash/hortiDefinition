@@ -45,19 +45,20 @@ jobs:
         with:
           lfs: true
 
+      - name: prepare python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.9"
+          cache: "pip"
+
       - name: get dependencies
         run: |
           echo ::group::deps
           sudo apt-get update && sudo apt-get install -y moreutils tree imagemagick jq
           wget -nv https://github.com/RazrFalcon/resvg/releases/download/v0.23.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
           tar xvf resvg.tar.gz
+          pip install -r requirements.txt
           echo ::endgroup::
-
-      - name: prepare python
-        uses: actions/setup-python@v2
-        with:
-          python-version: "3.9"
-          cache: "pip"
 
       - name: set mod version
         run: jq '.version = "${{ needs.changelog.outputs.tag }}"' mod.json | sponge mod.json
