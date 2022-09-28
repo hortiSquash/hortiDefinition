@@ -4,8 +4,14 @@ on:
     branches: [main]
     paths:
       - _src_/*/**.svg # dont match toplevel _src_ items, eg template.svg
-      - .github/**.yml
-      - "*.sh"
+      - ./.github/workflows/release.yml
+      - ./export.sh
+      - ./outline.py
+      - ./prepare-artifact.sh
+      - ./mod.json
+      - ./manual_outline
+      - ./requirements.txt
+      - ./trim.py
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
