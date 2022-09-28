@@ -26,10 +26,6 @@ function outline() {
     fi
 }
 
-renderer="resvg"
-[[ -f ./resvg ]] && renderer="./resvg"
-renderer+=" --shape-rendering crispEdges"
-
 # $1: size
 # $2: in
 # $3: out
@@ -37,7 +33,7 @@ function render() {
     local size="$1"
     local in="$2"
     local out="$3"
-    $renderer -w "$size" -h "$size" "$in" "$out"
+    resvg --shape-rendering crispEdges -w "$size" -h "$size" "$in" "$out"
 }
 
 # python **

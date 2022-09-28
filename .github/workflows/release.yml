@@ -63,6 +63,7 @@ jobs:
           sudo apt-get update && sudo apt-get install -y moreutils tree imagemagick jq
           wget -nv https://github.com/RazrFalcon/resvg/releases/download/v0.23.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
           tar xvf resvg.tar.gz
+          sudo mv resvg /usr/bin
           pip install -r requirements.txt
           echo ::endgroup::
 
