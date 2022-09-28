@@ -67,10 +67,10 @@ jobs:
         run: |
           ./prepare-artifact.sh 0.25
           ./prepare-artifact.sh 0.5
+          ./prepare-artifact.sh 1
           ./prepare-artifact.sh 2
           ./prepare-artifact.sh 4
           ./prepare-artifact.sh 8
-          ./prepare-artifact.sh 16
 
       - name: create tag
         run: git tag ${{ needs.changelog.outputs.tag }}
