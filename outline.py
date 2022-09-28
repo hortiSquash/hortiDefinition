@@ -20,5 +20,5 @@ def outline(filename: str, size: float, color: tuple = (64, 64, 73)) -> Image:
     return stroke
 
 
-img = outline(argv[1], float(argv[2]) * 3)
+img = outline(argv[1], float(argv[2]) * 4)
 img.save(argv[3])
