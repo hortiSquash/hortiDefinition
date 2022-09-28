@@ -1,6 +1,6 @@
 # hortiDefinition
 
-[![build](https://github.com/hortiSquash/hortiDefinition/actions/workflows/export.yml/badge.svg)](https://github.com/hortiSquash/hortiDefinition/actions/workflows/export.yml "Build workflow")
+[![build](https://img.shields.io/github/workflow/status/hortiSquash/hortiDefinition/release?color=informational&event=push&label=actions&logo=github&style=for-the-badge)](https://github.com/hortiSquash/hortiDefinition/actions/workflows/release.yml "Build workflow")
 
 > **Warning**
 > The images may have artifacts towards the top right.
