@@ -81,9 +81,6 @@ jobs:
           ./prepare-artifact.sh 4
           ./prepare-artifact.sh 8
 
-      - name: create tag
-        run: git tag ${{ needs.changelog.outputs.tag }}
-
       - name: upload artifacts
         uses: actions/upload-artifact@v3.0.0
         with:
