@@ -1,5 +1,4 @@
 #TODO
-conveyor
 titaconveyor
 plastconveyor
 thorconveyor
@@ -14,7 +13,6 @@ liquidjunction
 bridgeconduit
 phaseconduit
 combgen
-repairpoint
 
 #REDO
 meltdown
