@@ -13,7 +13,7 @@ cp -r "sprites-override" "mod.json" "README.md" "icon.png" "$tmp_folder"
 cd "$tmp_folder"
 # tree .
 jq ".texturescale = $(bc -l <<<"1/$1")" mod.json | sponge mod.json
-jq ".name = \"$(jq -r ".name" mod.json) x$1\"" mod.json | sponge mod.json
+jq ".displayName = \"$(jq -r ".displayName" mod.json) x$1\"" mod.json | sponge mod.json
 
 zip -qr "hortiDefinition_x$1.zip" .
 mv "hortiDefinition_x$1.zip" "$l"
