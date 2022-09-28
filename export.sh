@@ -60,13 +60,15 @@ for i in _src_/**/*.svg; do
         base=$(basename "$name")
         mkdir -p sprites-override"${name//$base/}"
         out="sprites-override$name"
+        #shellcheck disable=SC2143
         if [[ 
             ($name == *"turrets"* && $name != *"heat"* && $name != *"bases"* && $name != *"top"* && $name != *"liquid"*) ||
-            ($name == *"beta.png" || $name == *"gamma.png" || $name == *"alpha.png") ]]; then
+            (-n $(grep -F "$name" "manual_outline")) ]]; then
             (render "$size" "$i" "$out" && outline "$out") &
         else
             render "$size" "$i" "$out" &
         fi
+
         echo -e "[${size_multiplier}] $i ➔ $out"
     else
         echo -e "::warning file=${i}::No corresponding sprite" >&2
