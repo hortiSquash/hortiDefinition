@@ -41,8 +41,8 @@ for i in **/*.png; do
             echo "[$i]: exactly the same"
         else
             echo "[$i]: $dissimilarity dissimilar"
-            echo -n "$dissimilarity," >>simmilarity.py
         fi
+        echo -n "$dissimilarity," >>simmilarity.py
     fi
 done
 echo -e "]\nprint(round(abs(avg(ls * 100) - 100), 3))" >>simmilarity.py
