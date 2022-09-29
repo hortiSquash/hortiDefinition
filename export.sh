@@ -7,6 +7,8 @@ set -o pipefail
 
 size_multiplier="$1" # yep, its a string.
 
+[[ $2 == "--no" ]] && no_outline=1
+
 root_path="$(pwd)"
 
 # round $1
@@ -59,8 +61,10 @@ for i in **/*.svg; do
         [[ ! -d "${output_path%/*}" ]] && mkdir -p "${output_path%/*}" # dirname
         #shellcheck disable=SC2143
         if [[ 
+            -z "$no_outline" &&
+            (
             ($r_path == *"turrets"* && $r_path != *"heat"* && $r_path != *"bases"* && $r_path != *"top"* && $r_path != *"liquid"*) ||
-            (-n $(grep -F "$r_path" "$root_path/manual_outline")) ]]; then
+            (-n $(grep -F "$r_path" "$root_path/manual_outline"))) ]]; then
             (render "$(multiplied_size "$original_path")" "$i" "$output_path" && outline "$output_path") &
         else
             render "$(multiplied_size "$original_path")" "$i" "$output_path" &
