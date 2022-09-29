@@ -50,6 +50,7 @@ echo -e "]\nprint(round(abs(avg(ls * 100) - 100), 3))" >>simmilarity.py
 [[ -f "$GITHUB_STEP_SUMMARY" ]] &&
     echo "# $(./simmilarity.py)% similar" >"$GITHUB_STEP_SUMMARY"
 echo "[average]: $(./simmilarity.py)% similar"
+rm ./simmilarity.py
 
 [[ -n "$errors" ]] && exit 1 # for github actions to report a failure
 
