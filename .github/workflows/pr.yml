@@ -1,0 +1,26 @@
+name: PR Test
+on:
+  pull_request_target:
+    types:
+      - opened
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: get deps
+        uses: hortiSquash/hortiDefinition/.github/actions/get-deps@main
+
+      - name: make artifacts
+        run: |
+          ./prepare-artifact.sh 0.25
+          ./prepare-artifact.sh 2
+          ./prepare-artifact.sh 4
+
+      - name: test similarity
+        run: ./diff.sh
+
+      - name: upload artifacts
+        uses: actions/upload-artifact@v3.0.0
+        with:
+          path: "**.zip"
