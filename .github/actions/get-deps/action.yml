@@ -1,0 +1,32 @@
+name: Get dependencies
+description: Gets dependencies
+
+runs:
+  using: "composite"
+  steps:
+    - uses: actions/checkout@v3
+      with:
+        lfs: true
+        fetch-depth: 0
+
+    - name: prepare python
+      uses: actions/setup-python@v2
+      with:
+        python-version: "3.9"
+        cache: "pip"
+
+    - name: get dependencies
+      run: |
+        echo ::group::deps
+        sudo apt-get update && sudo apt-get install -y moreutils tree imagemagick jq
+
+        wget -nv https://github.com/RazrFalcon/resvg/releases/download/v0.23.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
+        tar xvf resvg.tar.gz
+        sudo mv resvg /usr/bin
+
+        wget -nv https://github.com/kornelski/dssim/releases/download/3.2.3/dssim_3.2.3_amd64.deb -O dssim.deb
+        sudo dpkg -i dssim.deb
+
+        pip install -r requirements.txt
+        echo ::endgroup::
+      shell: bash

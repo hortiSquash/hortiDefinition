@@ -48,26 +48,8 @@ jobs:
     runs-on: ubuntu-latest
     if: ${{ needs.changelog.outputs.skipped == 'false' }}
     steps:
-      - uses: actions/checkout@v3
-        with:
-          lfs: true
-          fetch-depth: 0
-
-      - name: prepare python
-        uses: actions/setup-python@v2
-        with:
-          python-version: "3.9"
-          cache: "pip"
-
-      - name: get dependencies
-        run: |
-          echo ::group::deps
-          sudo apt-get update && sudo apt-get install -y moreutils tree imagemagick jq
-          wget -nv https://github.com/RazrFalcon/resvg/releases/download/v0.23.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz
-          tar xvf resvg.tar.gz
-          sudo mv resvg /usr/bin
-          pip install -r requirements.txt
-          echo ::endgroup::
+      - name: get deps
+        uses: hortiSquash/hortiDefinition/.github/actions/get-deps@main
 
       - name: set mod version
         run: jq '.version = "${{ needs.changelog.outputs.tag }}"' mod.json | sponge mod.json
