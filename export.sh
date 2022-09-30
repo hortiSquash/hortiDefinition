@@ -7,6 +7,8 @@ set -o pipefail
 
 size_multiplier="$1" # yep, its a string.
 
+[[ -d sprites-override ]] && rm -rf sprites-override
+
 [[ $2 == "--no" ]] && no_outline=1
 
 root_path="$(pwd)"
@@ -41,9 +43,12 @@ function multiply_rounded() {
     round "$(bc -l <<<"$1*$2")"
 }
 
-# $1: output_path
+# $1: file
 function multiplied_size() {
-    multiply_rounded "$(identify -format '%w' "$1")" "$size_multiplier"
+    local file="$root_path/_original_/$1"
+    [[ ! -f "$file" ]] && file="${1%.png}.svg" # identifying svg files is costly (800ms) so do it only when necessary
+
+    multiply_rounded "$(identify -format '%w' "$file")" "$size_multiplier"
 }
 
 echo -e "[4] icon.svg ➔ icon.png"
@@ -55,19 +60,20 @@ for i in **/*.svg; do
     while [ "$(jobs -r | wc -l)" -ge 10 ]; do sleep .1; done
     [[ $i == *"template"* ]] && continue
     r_path="${i%.svg}.png" # the folder relative to sprites_override, or _original_: units/gamma.png
+    base="${r_path##*/}"
     original_path="$root_path/_original_/$r_path"
-    if [[ -f $original_path ]]; then
+
+    if [[ -f $original_path || $base == *"-team"* ]]; then
         output_path="$root_path/sprites-override/$r_path"
         [[ ! -d "${output_path%/*}" ]] && mkdir -p "${output_path%/*}" # dirname
         #shellcheck disable=SC2143
         if [[ 
             -z "$no_outline" &&
-            (
-            ($r_path == *"turrets"* && $r_path != *"heat"* && $r_path != *"bases"* && $r_path != *"top"* && $r_path != *"liquid"*) ||
+            (($r_path == *"turrets"* && $base != *"heat"* && $r_path != *"bases"* && $base != *"top"* && $base != *"liquid"*) ||
             (-n $(grep -F "$r_path" "$root_path/manual_outline"))) ]]; then
-            (render "$(multiplied_size "$original_path")" "$i" "$output_path" && outline "$output_path") &
+            (render "$(multiplied_size "$r_path")" "$i" "$output_path" && outline "$output_path") &
         else
-            render "$(multiplied_size "$original_path")" "$i" "$output_path" &
+            render "$(multiplied_size "$r_path")" "$i" "$output_path" &
         fi
 
         echo -e "[${size_multiplier}] $r_path"
