@@ -26,10 +26,11 @@ EOF
 chmod +x simmilarity.py
 shopt -s globstar
 for i in **/*.png; do
+    original_path="$root_path/_original_/$i"
+    [[ -f $original_path ]] || continue
     if grep -q -F "$i" "$root_path/diff_overrides"; then
         continue
     fi
-    original_path="$root_path/_original_/$i"
     rendered_path="$root_path/sprites-override/$i"
     dissimilarity="$(dssim "$original_path" "$rendered_path" | awk '{print $1}')"
     if [[ $(bc -l <<<"$dissimilarity <.15") -ne 1 ]]; then
