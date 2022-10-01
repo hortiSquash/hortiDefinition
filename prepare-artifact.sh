@@ -4,7 +4,6 @@ echo "::group::artifact x$1"
 
 l=$(pwd)
 bash export.sh "$1"
-# python3 trim.py "sprites-override"
 tmp_folder="$HOME/temp_$1"
 [[ -d $tmp_folder ]] && rm -r "$tmp_folder"
 mkdir "$tmp_folder"
