@@ -5,6 +5,7 @@ on:
     paths:
       - _src_/*/**.svg # dont match toplevel _src_ items, eg template.svg
       - ./.github/workflows/release.yml
+      - ./.github/actions/get-deps/action.yml
       - ./export.sh
       - ./outline.py
       - ./prepare-artifact.sh
