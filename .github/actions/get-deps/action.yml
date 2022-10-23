@@ -13,13 +13,11 @@ runs:
       uses: actions/setup-python@v2
       with:
         python-version: "3.9"
-        cache: "pip"
 
     - name: prepare npm
       uses: actions/setup-node@v3
       with:
         node-version: 18
-        cache: "npm"
 
     - name: get dependencies
       run: |
