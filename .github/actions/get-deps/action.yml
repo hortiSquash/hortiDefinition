@@ -15,9 +15,16 @@ runs:
         python-version: "3.9"
         cache: "pip"
 
+    - name: prepare npm
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+        cache: "npm"
+
     - name: get dependencies
       run: |
         echo ::group::deps
+        npm i -g svgo
         sudo apt-get update && sudo apt-get install -y moreutils tree imagemagick jq
 
         wget -nv https://github.com/RazrFalcon/resvg/releases/download/v0.23.0/resvg-linux-x86_64.tar.gz -O resvg.tar.gz

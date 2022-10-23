@@ -35,7 +35,7 @@ function outline() {
 # $2: in
 # $3: out
 function render() {
-    resvg --shape-rendering crispEdges -w "$1" -h "$1" "$2" "$3"
+    svgo -q "$2" -o - | resvg --resources-dir '.' --shape-rendering crispEdges -w "$1" -h "$1" - "$3"
 }
 
 # python **
