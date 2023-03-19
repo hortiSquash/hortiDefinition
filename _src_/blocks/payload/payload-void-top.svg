@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#bc5452;stroke:#bc5452">
+        <path stroke="none" d="M18 86.5v-13l4-4v-13l6.5-6.5 6.5 6.5v13l-6 6v9l6 6v13L56.5 125h13l6 6h9l6-6h13l6.5 6.5-6.5 6.5h-13l-4 4h-13l-4-4h-13l-6-6h-13l-9.5-9.5v-13l-6-6v-13Z" style="stroke:none"/>
+    </g>
+    <g style="stroke-linecap:round;fill:#feb380;stroke:#feb380">
+        <path stroke="none" d="M28 49.5v-12l9.5-9.5h13l6-6h13l4-4h13l4 4h13l6 6h13l9.5 9.5v13l6 6v13l4 4v13l-4 4v13l-6 6v13l-9.5 9.5h-12l-7-7 21.5-21.5v-13l6-6v-9l-6-6v-13L103.5 35h-13l-6-6h-9l-6 6h-13L35 56.5Z" style="stroke:none"/>
+    </g>
+</svg>

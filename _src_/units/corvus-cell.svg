@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214" height="140" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#dbc5c5;stroke:#dbc5c5">
+        <path stroke="none" d="m40.5 64 3.5-3.5 2.5 2.5 4.5-4.5-2.5-2.5 3-3 2.5 2.5L66.5 43h5l.5.5L60.5 55h-3l-12 12h-2Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#dbc5c5;stroke:#dbc5c5">
+        <path d="m42.5 93 5-5 3.5 3.5-5 5Z" style="stroke:none"/>
+        <path d="m44 60.5 4.5-4.5 2.5 2.5-4.5 4.5ZM47.5 88l4-4h2l1.5 1.5v2l-4 4Zm4-35 14-14h3l5-5 .5.5v7l-2 2-.5-.5h-5L54 55.5Z" style="fill:#fff;stroke:none"/>
+        <path d="M56 115.5v-4l4.5-4.5 4 4h4l4-4-4-4 3.5-3.5 4 4 14-14v5L64.5 120h-4Z" style="stroke:none"/>
+        <path d="m60.5 107 4-4h4l4 4-4 4h-4ZM72 99.5 86.5 85l3.5 3.5v1l-14 14Z" style="fill:#fff;stroke:none"/>
+        <path d="m79 112.5 3.5-3.5 4 4-3.5 3.5Z" style="stroke:none"/>
+        <path d="m82.5 109 3-3 4 4-3 3ZM124 89.5v-1l3.5-3.5L142 99.5l-4 4Z" style="fill:#fff;stroke:none"/>
+        <path d="m138 103.5 4-4 3.5 3.5-4 4 4 4h4l4-4 4.5 4.5v4l-4.5 4.5h-4L124 94.5v-5Z" style="stroke:none"/>
+        <path d="m124.5 110 4-4 3 3-4 4Z" style="fill:#fff;stroke:none"/>
+        <path d="m127.5 113 4-4 3.5 3.5-4 4Z" style="stroke:none"/>
+        <path d="M145.5 39h3l14 14-2.5 2.5L147.5 43h-5l-.5.5-2-2v-7l.5-.5Z" style="fill:#fff;stroke:none"/>
+        <path d="m142 43.5.5-.5h5L160 55.5l2.5-2.5 3 3-2.5 2.5 4.5 4.5 2.5-2.5 3.5 3.5-3 3h-2l-12-12h-3Z" style="stroke:none"/>
+        <path d="m141.5 107 4-4h4l4 4-4 4h-4ZM159 87.5v-2l1.5-1.5h2l4 4-3.5 3.5Zm4-29 2.5-2.5 4.5 4.5-2.5 2.5Z" style="fill:#fff;stroke:none"/>
+        <path d="m163 91.5 3.5-3.5 5 5-3.5 3.5Z" style="stroke:none"/>
+    </g>
+</svg>

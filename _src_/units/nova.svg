@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#6e7080;stroke:#6e7080">
+        <path stroke="none" d="M9 32v-2.5l4-4v-2l3.5-3.5h.5v6.5l-4 4V32Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#989aa4;stroke:#989aa4">
+        <path d="M9 34.5V32h4v2.5l2 2 2-2V32h5.5l2 2-2 2h-2L17 39.5v.5h-2.5Z" style="stroke:none"/>
+        <path d="M13 32v-1.5l4-4v3L14.5 32Z" style="fill:#62ae7f;stroke:none"/>
+        <path d="M13 34.5V32h1.5l2.5-2.5v5l-2 2Z" style="fill:#84f491;stroke:none"/>
+        <path d="M17 32V20h1.5l2 2 .5-.5 3 3v3L19.5 32Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M17 41.5v-2l3-3 3.5 3.5h.5v1.5L21.5 44h-2Z" style="fill:#6e7080;stroke:none"/>
+        <path d="m19.5 32 4.5-4.5v2l2.5 2.5h3l2.5-2.5v-2l4.5 4.5h-3l-2 2 2 2h2l.5.5-3.5 3.5H32v-1.5L29.5 36h-3L24 38.5V40h-.5L20 36.5l.5-.5h2l2-2-2-2Z" style="fill:#62ae7f;stroke:none"/>
+        <path d="m20.5 21 5-5h5l5 5-3.5 3.5v-2l-4-4-4 4v2Z" style="stroke:none"/>
+        <path d="M24.5 25H24v-2.5l4-4 4 4v3l-4-4Z" style="fill:#62ae7f;stroke:none"/>
+        <path d="M24 29.5V25h.5l3.5-3.5 4 4v4L29.5 32h-3ZM24 40v-1.5l2.5-2.5h3l2.5 2.5V40Z" style="fill:#84f491;stroke:none"/>
+        <path d="M32 27.5v-3l3-3 .5.5 2-2H39v12h-2.5Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="m31.5 34 2-2H39v2.5l2 2 2-2V32h4v2.5L41.5 40H39v-.5L35.5 36h-2Z" style="stroke:none"/>
+        <path d="M32 41.5V40h.5l3.5-3.5 3 3v2L36.5 44h-2Zm11-18v2l4 4V32h-4v-1.5l-4-4V20h.5Z" style="fill:#6e7080;stroke:none"/>
+        <path d="M43 30.5V32h-1.5L39 29.5v-3Z" style="fill:#62ae7f;stroke:none"/>
+        <path d="M41.5 32H43v2.5l-2 2-2-2v-5Z" style="fill:#84f491;stroke:none"/>
+    </g>
+</svg>

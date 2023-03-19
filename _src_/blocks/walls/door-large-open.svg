@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#75788e;stroke:#75788e">
+        <path stroke="none" d="M.5 30V.5H30L27.5 3h-21L3 6.5v21Z" style="stroke:none"/>
+    </g>
+    <g style="stroke-linecap:round;fill:#75788e;stroke:#75788e">
+        <path stroke="none" d="M3 36.5v21L6.5 61h21l2.5 2.5H.5V34Zm31-36h29.5V30L61 27.5v-21L57.5 3h-21Z" style="stroke:none"/>
+    </g>
+</svg>

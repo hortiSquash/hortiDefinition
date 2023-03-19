@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#8175a5;stroke:#8175a5">
+        <path stroke="none" d="M.5 1V.5H1l8 8L11.5 6h10l6 6h9l6-6h10l5.5 5.5v9l-6 6v11l6 6v9L55.5 55l8 8v.5H63l-8-8-2.5 2.5h-4l-.5-.5 6-6v-3L51.5 46h-3l-9 9-3-3h-9l-6 6h-9l-.5-.5 6-6v-3L15.5 46h-3l-6 6-.5-.5v-8l6-6v-11L9.5 24l8.5-8.5v-3L15.5 10h-3l-6 6-.5-.5v-4L8.5 9Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#676486;stroke:#676486">
+        <path d="M8.5 9 6 11.5v4l.5.5 3-3 .5.5v2l2.5 2.5h2l.5.5L9.5 24l2.5 2.5v11l-6 6v8l.5.5 3-3 .5.5v2l2.5 2.5h2l.5.5-3 3 .5.5h9l6-6h9l3 3 6-6 .5.5v2l2.5 2.5h2l.5.5-3 3 .5.5h4l2.5-2.5 8 8H36l-4-4-4 4H.5V36l4-4-4-4V1Z" style="stroke:none"/>
+        <path d="m4.5 32-4 4v-8Z" style="fill:#8175a5;stroke:none"/>
+        <path d="M1 .5h27l4 4 4-4h27.5V28l-4 4 4 4v27l-8-8 2.5-2.5v-9l-6-6v-11l6-6v-9L52.5 6h-10l-6 6h-9l-6-6h-10L9 8.5Z" style="fill:#9c88c3;stroke:none"/>
+        <path d="M10 15.5v-2l-.5-.5 3-3h3l2.5 2.5v3l-3 3-.5-.5h-2Zm0 36v-2l-.5-.5 3-3h3l2.5 2.5v3l-3 3-.5-.5h-2Z" style="fill:#9c88c3;stroke:none"/>
+        <path d="M20 26.5v11l6.5 6.5h11l3-3-5.5-5.5-1.5 1.5h-3L27 33.5v-3l1.5-1.5-5.5-5.5Z" style="fill:#8175a5;stroke:none"/>
+        <path d="M20 37.5v-11l3-3 5.5 5.5-1.5 1.5v3l3.5 3.5h3l1.5-1.5 5.5 5.5-3 3h-11Z" style="stroke:none"/>
+        <path d="m23.5 23 5.5 5.5 1.5-1.5h3l3.5 3.5v3L35.5 35l5.5 5.5 3-3v-11L37.5 20h-11Z" style="fill:#8175a5;stroke:none"/>
+        <path d="m23.5 23 3-3h11l6.5 6.5v11l-3 3-5.5-5.5 1.5-1.5v-3L33.5 27h-3L29 28.5Z" style="fill:#9c88c3;stroke:none"/>
+        <path d="M28 .5h8l-4 4Zm8 63h-8l4-4Zm6-47v3l2.5 2.5h3l6.5-6.5v-3L51.5 10h-3Z" style="fill:#8175a5;stroke:none"/>
+        <path d="M42 19.5v-3l3.5-3.5.5.5v2l2.5 2.5h2l.5.5-3.5 3.5h-3Z" style="stroke:none"/>
+        <path d="M46 15.5v-2l-.5-.5 3-3h3l2.5 2.5v3l-3 3-.5-.5h-2Zm0 36v-2l-.5-.5 3-3h3l2.5 2.5v3l-3 3-.5-.5h-2Z" style="fill:#9c88c3;stroke:none"/>
+        <path d="m59.5 32 4-4v8Z" style="fill:#8175a5;stroke:none"/>
+    </g>
+</svg>

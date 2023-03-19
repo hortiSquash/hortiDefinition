@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#3c4448;stroke:#3c4448">
+        <path stroke="none" d="M.5 1V.5H3L7.5 5H8v3h-.5l-2-2h-1L3 4.5v-1Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#282b34;stroke:#282b34">
+        <path d="M3 3.5v1L4.5 6h1l2 2h1l5 5h1l1 1H17v1.5l3.5 3.5h3l2 2-.5.5v3l-.5.5-2-2h-1l-2-2h-1l-2-2h-1L7 10.5l-2 2v5l-2 2v2L5.5 24h1L9 26.5l2-2 .5.5h1l1 1h1l3 3h1l2.5 2.5H.5V1Z" style="stroke:none"/>
+        <path d="M3 .5h28.5V29L29 26.5v-1l-3-3v-1L24.5 20l4.5-4.5v-4L26.5 9h-2l-1-1h-2l-5-5h-1l-1-1h-3l-3 3h-1Z" style="fill:#5b6567;stroke:none"/>
+        <path d="M3 21.5v-2L4.5 18l6.5 6.5-2 2L6.5 24h-1Z" style="fill:#3c4448;stroke:none"/>
+        <path d="M5 14.5v-2l2-2 6.5 6.5-2.5 2.5L9.5 18h-1Z" style="fill:#95abd9;stroke:none"/>
+        <path d="M8.5 18h1l1.5 1.5 2.5-2.5 2 2h1l.5.5-2.5 2.5 4 4h1l1.5 1.5-2 2-.5-.5h-1l-3-3h-1l-1-1h-1l-7-7 .5-.5v-3Zm4-9h2l2-2 3.5 3.5v1l.5.5-2 2h-3l-1-1h-1l-5-5H8V5h.5Z" style="fill:#626f9b;stroke:none"/>
+        <path d="M8.5 5 10 3.5l.5.5h1l1 1h1l1 1h1l1 1-2 2h-2Z" style="fill:#95abd9;stroke:none"/>
+        <path d="m10.5 4-.5-.5L11.5 2h3l1 1h1l5 5h.5v2.5L20.5 12l-.5-.5v-1L15.5 6h-1l-1-1h-1l-1-1Z" style="stroke:none"/>
+        <path d="m14.5 22 2.5-2.5 1.5 1.5h1l2 2h1l2 2-1 1h-1L21 27.5 19.5 26h-1Z" style="fill:#95abd9;stroke:none"/>
+        <path d="M17 15.5V14h3.5l2.5 2.5V19h-2.5Z" style="fill:#5b6567;stroke:none"/>
+        <path d="m18.5 14 3.5-3.5V8h1.5l1 1h2l2.5 2.5v4L24.5 20l-1-1H23v-2.5L20.5 14Zm.5 15.5 3.5-3.5h1l1.5-1.5v-3l.5-.5.5.5v1l3 3v1l2.5 2.5v2.5H31l-4-4-4 4h-2Z" style="fill:#3c4448;stroke:none"/>
+        <path d="M31 31.5h-8l4-4Z" style="stroke:none"/>
+    </g>
+</svg>

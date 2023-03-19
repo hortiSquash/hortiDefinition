@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="154" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#373a4d;stroke:#373a4d">
+        <path stroke="none" d="M22 23v-6.5l.5-.5h27l.5.5V23Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#181920;stroke:#181920">
+        <path d="M22 32v-9h28v9Z" style="stroke:none"/>
+        <path d="M22 41v-9h28v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M22 50v-9h28v9Z" style="stroke:none"/>
+        <path d="M22 59v-9h28v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M22 68v-9h28v9Z" style="stroke:none"/>
+        <path d="M22 77v-9h28v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M22 86v-9h28v9Z" style="stroke:none"/>
+        <path d="M22 95v-9h28v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M22 104v-9h28v9Z" style="stroke:none"/>
+        <path d="M22 113v-9h28v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M22 122v-9h28v9Z" style="stroke:none"/>
+        <path d="M22 131v-9h28v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M22 140v-9h28v9Z" style="stroke:none"/>
+        <path d="m22.5 146-.5-.5V140h28v5.5l-.5.5ZM104 23v-6.5l.5-.5h27l.5.5V23Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M104 32v-9h28v9Z" style="stroke:none"/>
+        <path d="M104 41v-9h28v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M104 50v-9h28v9Z" style="stroke:none"/>
+        <path d="M104 59v-9h28v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M104 68v-9h28v9Z" style="stroke:none"/>
+        <path d="M104 77v-9h28v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M104 86v-9h28v9Z" style="stroke:none"/>
+        <path d="M104 95v-9h28v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M104 104v-9h28v9Z" style="stroke:none"/>
+        <path d="M104 113v-9h28v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M104 122v-9h28v9Z" style="stroke:none"/>
+        <path d="M104 131v-9h28v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M104 140v-9h28v9Z" style="stroke:none"/>
+        <path d="m104.5 146-.5-.5V140h28v5.5l-.5.5Z" style="fill:#373a4d;stroke:none"/>
+    </g>
+</svg>

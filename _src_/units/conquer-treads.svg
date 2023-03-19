@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="213" height="232" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#373a4d;stroke:#373a4d">
+        <path stroke="none" d="M14 49v-7.5l.5-.5h28l.5.5V49Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#181920;stroke:#181920">
+        <path d="m14.5 58-.5-.5V49h29v8.5l-.5.5Z" style="stroke:none"/>
+        <path d="M17 155v-3.5l.5-.5h55l.5.5v3.5Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M17 164v-9h56v9Z" style="stroke:none"/>
+        <path d="M17 173v-9h56v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M17 182v-9h56v9Z" style="stroke:none"/>
+        <path d="M17 191v-9h56v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M17 200v-9h56v9Z" style="stroke:none"/>
+        <path d="M17 209v-9h56v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M17 218v-9h56v9Z" style="stroke:none"/>
+        <path d="m17.5 224-.5-.5V218h56v5.5l-.5.5ZM48 13V8.5l.5-.5h38l.5.5V13Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M48 22v-9h39v9Z" style="stroke:none"/>
+        <path d="m48.5 27-.5-.5V22h39v4.5l-.5.5ZM123 13V8.5l.5-.5h38l.5.5V13Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M123 22v-9h39v9Z" style="stroke:none"/>
+        <path d="m123.5 27-.5-.5V22h39v4.5l-.5.5ZM138 155v-3.5l.5-.5h55l.5.5v3.5Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M138 164v-9h56v9Z" style="stroke:none"/>
+        <path d="M138 173v-9h56v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M138 182v-9h56v9Z" style="stroke:none"/>
+        <path d="M138 191v-9h56v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M138 200v-9h56v9Z" style="stroke:none"/>
+        <path d="M138 209v-9h56v9Z" style="fill:#373a4d;stroke:none"/>
+        <path d="M138 218v-9h56v9Z" style="stroke:none"/>
+        <path d="m138.5 224-.5-.5V218h56v5.5l-.5.5ZM168 49v-7.5l.5-.5h28l.5.5V49Z" style="fill:#373a4d;stroke:none"/>
+        <path d="m168.5 58-.5-.5V49h29v8.5l-.5.5Z" style="stroke:none"/>
+    </g>
+</svg>

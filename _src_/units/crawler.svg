@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#b0bac0;stroke:#b0bac0">
+        <path stroke="none" d="M8 20v-5.5l4.5-4.5H16v6.5L12.5 20Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#6e7080;stroke:#6e7080">
+        <path d="M8 24v-4h4v4Z" style="stroke:none"/>
+        <path d="M8 28.5V24h4.5l3.5 3.5V32h-3.5l-.5.5Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M12.5 24H12v-4h.5l3.5-3.5V16h4v12h-4v-.5Z" style="fill:#bf92f9;stroke:none"/>
+        <path d="m12 32.5.5-.5H20v4h-4.5ZM16 12v-2h.5l2-2H20v4Z" style="stroke:none"/>
+        <path d="M16 16v-4h4v4Zm0 16v-4h4v4Z" style="fill:#665c9f;stroke:none"/>
+        <path d="M20 12V8h.5l2-2h3l2 2h.5v4Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M20 16v-4h8v4Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M20 20v-4h8v4Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M20 28v-8h8v8Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M20 32v-4h8v4Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M20 36v-4h8v4Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M28 12V8h1.5l2 2h.5v2Z" style="stroke:none"/>
+        <path d="M28 16v-4h4v4Z" style="fill:#665c9f;stroke:none"/>
+        <path d="M28 28V16h4v.5l3.5 3.5h.5v4h-.5L32 27.5v.5Z" style="fill:#bf92f9;stroke:none"/>
+        <path d="M28 32v-4h4v4Z" style="fill:#665c9f;stroke:none"/>
+        <path d="M28 36v-4h7.5l.5.5-3.5 3.5Z" style="stroke:none"/>
+        <path d="M32 16.5V10h3.5l4.5 4.5V20h-4.5ZM32 32v-4.5l3.5-3.5H40v4.5l-4 4-.5-.5Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M36 24v-4h4v4Z" style="stroke:none"/>
+    </g>
+</svg>

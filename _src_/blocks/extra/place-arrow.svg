@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="fill:#fff;fill-opacity:.0784;stroke-opacity:.0784;stroke-linecap:round;stroke:#fff">
+        <path stroke="none" d="M26.5 22H26v-.5L43.5 4l.5.5Z" style="stroke:none"/>
+    </g>
+    <g style="fill:#fff;fill-opacity:.7882;stroke-opacity:.7882;stroke-linecap:round;stroke:#fff">
+        <path stroke="none" d="M26 23.5V22h.5l.5.5Z" style="stroke:none"/>
+    </g>
+    <g style="stroke-linecap:round;fill:#fff;stroke:#fff">
+        <path stroke="none" d="M26 24.5v-1L45.5 4h5L70 23.5v1L67.5 27h-7l-6-6h-1l-.5.5v33L50.5 57h-5L43 54.5v-33l-.5-.5h-1l-6 6h-7Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="fill:#fff;fill-opacity:.7882;stroke-opacity:.7882;stroke-linecap:round;stroke:#fff">
+        <path d="m27 26.5-1-1v-1l1 1Z" style="stroke:none"/>
+        <path d="M27 27h-.5l-.5-.5v-1l1 1Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+        <path d="m27 22.5-.5-.5L44 4.5l.5.5Z" style="fill-opacity:.9216;stroke-opacity:.9216;stroke:none"/>
+        <path d="M37.5 27h-2l1-1Z" style="stroke:none"/>
+        <path d="m37 26.5-.5-.5 5-5h.5v1h-.5Z" style="fill-opacity:.9216;stroke-opacity:.9216;stroke:none"/>
+        <path d="m37.5 27-.5-.5 4.5-4.5h.5v.5Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+        <path d="m44 56.5-1-1v-1l1 1Z" style="stroke:none"/>
+        <path d="M44 57h-.5l-.5-.5v-1l1 1Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+        <path d="m44.5 5-1-1h2Zm7 0-1-1H52v.5Zm0 52h-1l2.5-2.5V56h-.5Z" style="stroke:none"/>
+        <path d="m53 5.5-1-1V4h.5l.5.5Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+        <path d="M53 6.5 51.5 5l.5-.5 1 1Z" style="fill-opacity:.9216;stroke-opacity:.9216;stroke:none"/>
+        <path d="M52.5 57h-1l1-1h.5v.5ZM55 7.5l-3-3V4h.5L55 6.5Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+        <path d="M55 8.5 51.5 5l.5-.5 3 3Zm0 14-.5-.5H54v-1h.5l.5.5Z" style="fill-opacity:.9216;stroke-opacity:.9216;stroke:none"/>
+        <path d="m55 23.5-1-1V22h.5l.5.5Zm2-14-5-5V4h.5L57 8.5Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+        <path d="M57 10.5 51.5 5l.5-.5 5 5Zm0 14L54.5 22H54v-1h.5l2.5 2.5Z" style="fill-opacity:.9216;stroke-opacity:.9216;stroke:none"/>
+        <path d="m57 25.5-3-3V22h.5l2.5 2.5Zm2-14-7-7V4h.5l6.5 6.5Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+        <path d="M59 12.5 51.5 5l.5-.5 7 7Zm.5 13.5-.5.5-4.5-4.5H54v-1h.5Z" style="fill-opacity:.9216;stroke-opacity:.9216;stroke:none"/>
+        <path d="M59 27h-.5L54 22.5V22h.5l4.5 4.5Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+        <path d="M60.5 27H59v-.5l.5-.5Z" style="stroke:none"/>
+        <path d="m61 13.5-9-9V4h.5l8.5 8.5Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+        <path d="M61 14.5 51.5 5l.5-.5 9 9Z" style="fill-opacity:.9216;stroke-opacity:.9216;stroke:none"/>
+        <path d="m63 15.5-11-11V4h.5L63 14.5Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+        <path d="M63 16.5 51.5 5l.5-.5 11 11Z" style="fill-opacity:.9216;stroke-opacity:.9216;stroke:none"/>
+        <path d="m65 17.5-13-13V4h.5L65 16.5Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+        <path d="M65 18.5 51.5 5l.5-.5 13 13Z" style="fill-opacity:.9216;stroke-opacity:.9216;stroke:none"/>
+        <path d="m67 19.5-15-15V4h.5L67 18.5Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+        <path d="M67 20.5 51.5 5l.5-.5 15 15Z" style="fill-opacity:.9216;stroke-opacity:.9216;stroke:none"/>
+        <path d="m69 21.5-17-17V4h.5L69 20.5Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+        <path d="m69.5 22-.5.5L51.5 5l.5-.5Z" style="fill-opacity:.9216;stroke-opacity:.9216;stroke:none"/>
+        <path d="M68.5 27h-1l2.5-2.5V26h-.5Zm1.5-3.5-1-1 1-1Z" style="stroke:none"/>
+        <path d="M69.5 27h-1l1-1h.5v.5Z" style="fill-opacity:.0784;stroke-opacity:.0784;stroke:none"/>
+    </g>
+</svg>

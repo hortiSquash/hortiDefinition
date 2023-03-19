@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#6e7080;stroke:#6e7080">
+        <path stroke="none" d="M.5 1V.5H1L19.5 19l10-10h4l5 5h2l8-8h12l6 6h5l5 5h7l5-5h5l6-6h12l8 8h2l5-5h4L151 29.5v4l-5 5v2l8 8v12l-6 6v5l-5 5v7l5 5v5l6 6v12l-8 8v2l5 5v4l-10 10 18.5 18.5v.5h-.5L140.5 141l-10 10h-4l-5-5h-2l-8 8h-12l-6-6h-5l-5-5h-7l-5 5h-5l-6 6h-12l-8-8h-2l-5 5h-4L9 130.5v-4l5-5v-2l-8-8v-12l6-6v-5l5-5v-7l-5-5v-5l-6-6v-12l8-8v-2l-5-5v-4l10-10Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#4a4b53;stroke:#4a4b53">
+        <path d="m19 19.5-10 10v4l5 5v2l-8 8v12l6 6v5l5 5v7l-5 5v5l-6 6v12l8 8v2l-5 5v4L29.5 151h4l5-5h2l8 8h12l6-6h5l5-5h7l5 5h5l6 6h12l8-8h2l5 5h4l10-10 18.5 18.5H.5V1Z" style="stroke:none"/>
+        <path d="M1 .5h158.5V159L141 140.5l10-10v-4l-5-5v-2l8-8v-12l-6-6v-5l-5-5v-7l5-5v-5l6-6v-12l-8-8v-2l5-5v-4L130.5 9h-4l-5 5h-2l-8-8h-12l-6 6h-5l-5 5h-7l-5-5h-5l-6-6h-12l-8 8h-2l-5-5h-4l-10 10Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M13 48.5v11l5 5v4l5 5v13l-5 5v4l-5 5v11l9 9v3l-4.5 4.5L32 142.5l4.5-4.5h3l9 9h11l5-5h4l5-5h13l5 5h4l5 5h11l9-9h3l4.5 4.5 7-7-8.5-8.5.5-.5 8.5 8.5 7-7-4.5-4.5v-3l9-9v-11l-5-5v-4l-5-5v-13l5-5v-4l5-5v-11l-9-9v-3l4.5-4.5L128 17.5l-4.5 4.5h-3l-9-9h-11l-5 5h-4l-5 5h-13l-5-5h-4l-5-5h-11l-9 9h-3L32 17.5l-7 7 8.5 8.5-.5.5-8.5-8.5-7 7 4.5 4.5v3Z" style="fill:#6e7080;stroke:none"/>
+        <path d="M13 59.5v-11l9-9v-3L17.5 32l7-7 8.5 8.5-4 4v3l4.5 4.5L23 55.5v4l9 9v23l-9 9v4L33.5 115l-4.5 4.5v3l8.5 8.5h3l4.5-4.5L55.5 137h4l9-9h23l9 9h4l10.5-10.5 4.5 4.5h3l4-4 8.5 8.5-7 7-4.5-4.5h-3l-9 9h-11l-5-5h-4l-5-5h-13l-5 5h-4l-5 5h-11l-9-9h-3l-4.5 4.5L17.5 128l4.5-4.5v-3l-9-9v-11l5-5v-4l5-5v-13l-5-5v-4Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M23 59.5v-4L33.5 45 29 40.5v-3l8.5-8.5h3l4.5 4.5L55.5 23h4l2.5 2.5v2L55.5 34l8.5 8.5L74.5 32h11L96 42.5l8.5-8.5-6.5-6.5v-2l2.5-2.5h4L115 33.5l4.5-4.5h3l8.5 8.5v3l-4.5 4.5L137 55.5v4l-2.5 2.5h-2l-6.5-6.5-8.5 8.5L128 74.5v11L117.5 96l8.5 8.5 6.5-6.5h2l2.5 2.5v4L126.5 115l4.5 4.5v3l-8.5 8.5h-3l-4.5-4.5-10.5 10.5h-4l-3-3 .5-.5v-1l6.5-6.5-8.5-8.5L85.5 128h-11L64 117.5l-8.5 8.5 6.5 6.5v1l.5.5-3 3h-4L45 126.5l-4.5 4.5h-3l-8.5-8.5v-3l4.5-4.5L23 104.5v-4l3-3 .5.5h1l6.5 6.5 8.5-8.5L32 85.5v-11L42.5 64 34 55.5 27.5 62h-1l-.5.5Z" style="fill:#2e2f34;stroke:none"/>
+        <path d="m25 24.5 7-7 4.5 4.5h3l9-9h11l5 5h4l5 5h13l5-5h4l5-5h11l9 9h3l4.5-4.5L142.5 32l-4.5 4.5v3l9 9v11l-5 5v4l-5 5v13l5 5v4l5 5v11l-9 9v3l4.5 4.5-7 7-8.5-8.5 4-4v-3l-4.5-4.5 10.5-10.5v-4l-2.5-2.5h-2l-6.5 6.5-8.5-8.5L128 85.5v-11L117.5 64l8.5-8.5 6.5 6.5h2l2.5-2.5v-4L126.5 45l4.5-4.5v-3l-8.5-8.5h-3l-4.5 4.5L104.5 23h-4L98 25.5v2l6.5 6.5-8.5 8.5L85.5 32h-11L64 42.5 55.5 34l6.5-6.5v-2L59.5 23h-4L45 33.5 40.5 29h-3l-4 4Zm1 38 .5-.5h1l6.5-6.5 8.5 8.5L32 74.5v-6Zm.5 35.5-.5-.5 6-6v-6L42.5 96l-8.5 8.5-6.5-6.5Z" style="stroke:none"/>
+        <path d="m39.5 80 9.5 9.5 9.5-9.5-9.5-9.5Z" style="fill:#2e2f34;stroke:none"/>
+        <path d="m39.5 80 9.5-9.5 9.5 9.5-9.5 9.5Zm16 46 8.5-8.5L74.5 128h-6l-6 6-.5-.5v-1Z" style="stroke:none"/>
+        <path d="M67 78.5v3L78.5 93h3L93 81.5v-3L81.5 67h-3Z" style="fill:#2e2f34;stroke:none"/>
+        <path d="M67 81.5v-3L78.5 67h3L93 78.5v3L81.5 93h-3Z" style="stroke:none"/>
+        <path d="m70.5 49 9.5 9.5 9.5-9.5-9.5-9.5Zm0 62 9.5 9.5 9.5-9.5-9.5-9.5Z" style="fill:#2e2f34;stroke:none"/>
+        <path d="m70.5 49 9.5-9.5 9.5 9.5-9.5 9.5Zm0 62 9.5-9.5 9.5 9.5-9.5 9.5Zm15 17L96 117.5l8.5 8.5-6.5 6.5v1l-.5.5-6-6Z" style="stroke:none"/>
+        <path d="m101.5 80 9.5 9.5 9.5-9.5-9.5-9.5Z" style="fill:#2e2f34;stroke:none"/>
+        <path d="m101.5 80 9.5-9.5 9.5 9.5-9.5 9.5Z" style="stroke:none"/>
+    </g>
+</svg>

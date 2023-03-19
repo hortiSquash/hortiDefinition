@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="64" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#b0bac0;stroke:#b0bac0">
+        <path stroke="none" d="M21 17v-.5L28.5 9h7L47 20.5l-.5.5h-8l-.5.5 9 9v3l-9 9 .5.5h8l.5.5L35.5 55h-7L21 47.5V47h3.5L35 36.5v-9L24.5 17Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#6e7080;stroke:#6e7080">
+        <path d="M21 17.5V17h3.5l7.5 7.5-.5.5h-3ZM21 47v-.5l7.5-7.5h3l.5.5-7.5 7.5Z" style="stroke:none"/>
+        <path d="M35.5 9h6L58 25.5l-.5.5h-5Zm0 46 17-17h5l.5.5L41.5 55Z" style="fill:#989aa4;stroke:none"/>
+        <path d="m38 21.5.5-.5h8l.5-.5 5.5 5.5h5l.5-.5-4-4 .5-.5h15l.5-.5-5.5-5.5h9l17 17-17 17h-9l5.5-5.5-.5-.5h-15l-.5-.5 4-4-.5-.5h-5L47 43.5l-.5-.5h-8l-.5-.5 9-9v-3Z" style="stroke:none"/>
+        <path d="m48 15.5.5-.5h8l6 6h-8l-.5.5Zm.5 33.5-.5-.5 6-6 .5.5h8l-6 6Z" style="fill:#565666;stroke:none"/>
+        <path d="m51 28.5 3.5 3.5-3.5 3.5.5.5h5l4-4-4-4h-5Z" style="stroke:none"/>
+        <path d="m51 28.5.5-.5h5l4 4-4 4h-5l-.5-.5 3.5-3.5ZM56.5 15h8l5.5 5.5-.5.5h-7Zm0 34 6-6h7l.5.5-5.5 5.5Z" style="fill:#665c9f;stroke:none"/>
+        <path d="m64 25.5 6.5 6.5-6.5 6.5.5.5h14l7-7-7-7h-14Z" style="stroke:none"/>
+        <path d="m64 25.5.5-.5h7l7 7-7 7h-7l-.5-.5 6.5-6.5Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M71.5 25h7l7 7-7 7h-7l7-7Z" style="fill:#665c9f;stroke:none"/>
+        <path d="M73.5 15h6l.5-.5L97.5 32 80 49.5l-.5-.5h-6l17-17Z" style="fill:#565666;stroke:none"/>
+        <path d="m78 12.5.5-.5h6l19 19v2l-19 19h-6l-.5-.5L97.5 32Z" style="stroke:none"/>
+        <path d="m91 18.5.5-.5h9l3 3v10Zm.5 27.5-.5-.5L103.5 33v10l-3 3Z" style="fill:#565666;stroke:none"/>
+    </g>
+</svg>

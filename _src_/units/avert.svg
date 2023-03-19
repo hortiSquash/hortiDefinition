@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#989aa4;stroke:#989aa4">
+        <path stroke="none" d="M7 57.5v-8l5-5v-5l5.5-5.5.5.5v9l3 3 3-3v-4l5.5 5.5-.5.5v2L24.5 52h-6l-3-3-5.5 5.5 3 3-3 3Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#6e7080;stroke:#6e7080">
+        <path d="m10 54.5 5.5-5.5 3 3h4L12 62.5l-2-2 3-3Zm0 23v-3l1-1 2.5 2.5h2l5-5-3.5-3.5 3-3 9.5 9.5-7.5 7.5-3.5-3.5-4 4Z" style="stroke:none"/>
+        <path d="m11 73.5 6-6 3.5 3.5-5 5h-2Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M12 62.5 22.5 52h2l.5-.5 4 4-12 12ZM14.5 82l4-4 3.5 3.5 7.5-7.5-5.5-5.5.5-.5h4l6-6 2.5 2.5 3-3v-4L33.5 51l4.5-4.5.5.5h.5v2.5l4 4v8l3 3v6l-.5.5-5.5-5.5-3.5 3.5 5.5 5.5L26.5 90h-4Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="M18 43.5v-9l-.5-.5 6-6h3l2 2-7.5 7.5v3Z" style="fill:#bf92f9;stroke:none"/>
+        <path d="m18 43.5 3-3v-3l7.5-7.5.5.5v4l-5 5v4l-3 3Zm2 21 5-5 3.5 3.5 5.5-5.5 5 5-2 2-2.5-2.5-6 6h-4l-.5.5Z" style="fill:#665c9f;stroke:none"/>
+        <path d="m24 39.5 4-4 1.5 1.5-4 4Zm1 12 4-4v-2l.5-.5 1.5 1.5 3.5-3.5 3.5 3.5-9 9Z" style="stroke:none"/>
+        <path d="m25 59.5 8.5-8.5 6.5 6.5v4l-1 1-5-5-5.5 5.5Z" style="fill:#bf92f9;stroke:none"/>
+        <path d="M25.5 41 36 30.5v2l2 2-5 5 2.5 2.5-4.5 4.5Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="m28 35.5 1-1v-4l6-6v-8L43.5 8h9l8.5 8.5v8l5.5 5.5h.5v4.5l1 1-1.5 1.5-6.5-6.5v-3l-6-6v-4L49.5 13h-3L42 17.5v4l-6 6v3L29.5 37Z" style="fill:#989aa4;stroke:none"/>
+        <path d="m33 39.5 6-6 3.5 3.5h-2l-5 5Z" style="stroke:none"/>
+        <path d="m34.5 43 6-6h4l3.5-3.5 3.5 3.5h4l6 6-4 4h-2l-6-6h-3l-6 6h-2Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M36 32.5v-5l6-6v4l-3 3 4 4 5-5 5 5 4-4-3-3v-4l6 6v5l-2 2-.5-.5h-1l-3 3h-2L48 33.5 44.5 37h-2L39 33.5l-1 1Z" style="fill:#665c9f;stroke:none"/>
+        <path d="m36.5 69 3.5-3.5 5.5 5.5-3.5 3.5Z" style="stroke:none"/>
+        <path d="m39 28.5 3-3v-4l6-6 6 6v4l3 3-4 4-5-5-5 5Z" style="fill:#bf92f9;stroke:none"/>
+        <path d="M42 21.5v-4l4.5-4.5h3l4.5 4.5v4l-6-6Z" style="fill:#665c9f;stroke:none"/>
+        <path d="m44 43.5 2.5-2.5h3l2.5 2.5-2.5 2.5h-3Z" style="stroke:none"/>
+        <path d="m50.5 71-.5-.5v-6l3-3v-8l4-4V47h.5l.5-.5 4.5 4.5-6.5 6.5v4l3 3 2.5-2.5 6 6h4l.5.5-5.5 5.5 7.5 7.5 3.5-3.5 4 4-8 8h-4L54 74.5l5.5-5.5-3.5-3.5Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="m50.5 71 5.5-5.5 3.5 3.5-5.5 5.5Zm3-34 3-3h1l5.5 5.5-2.5 2.5-5-5Z" style="stroke:none"/>
+        <path d="m57 62.5-1-1v-4l6.5-6.5 8.5 8.5-3.5 3.5-5.5-5.5Z" style="fill:#bf92f9;stroke:none"/>
+        <path d="m57 62.5 5-5 5.5 5.5 3.5-3.5 5 5-4 4-.5-.5h-4l-6-6-2.5 2.5Z" style="fill:#665c9f;stroke:none"/>
+        <path d="m58 34.5 2-2v-2L70.5 41 65 46.5 60.5 42l2.5-2.5Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="m58 46.5 3.5-3.5 3.5 3.5 1.5-1.5.5.5v2l4 4-4 4Z" style="stroke:none"/>
+        <path d="M75 37.5v3l3 3-3 3-3-3v-4l-5-5V30h.5Z" style="fill:#665c9f;stroke:none"/>
+        <path d="m66.5 37 1.5-1.5 4 4-1.5 1.5Z" style="stroke:none"/>
+        <path d="M67 47.5v-2l-.5-.5 5.5-5.5v4l3 3 3-3v-9l.5-.5 5.5 5.5v5l5 5v8l-3 3-3-3 3-3-5.5-5.5-3 3h-6Z" style="fill:#989aa4;stroke:none"/>
+        <path d="m67 55.5 4-4 .5.5h2L84 62.5l-5 5Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="m66.5 74 9.5-9.5 3 3-3.5 3.5 5 5h2l2.5-2.5 1 1v3L81.5 82l-4-4-3.5 3.5Z" style="stroke:none"/>
+        <path d="m67.5 30 2-2h3l6 6-.5.5v9l-3-3v-3Z" style="fill:#bf92f9;stroke:none"/>
+        <path d="M73.5 52h4l3-3 5.5 5.5-3 3 3 3-2 2Z" style="stroke:none"/>
+        <path d="m75.5 71 3.5-3.5 6 6-2.5 2.5h-2Z" style="fill:#989aa4;stroke:none"/>
+    </g>
+</svg>

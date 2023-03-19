@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4" height="48" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="fill:#da7971;fill-opacity:.4784;stroke-opacity:.4784;stroke-linecap:round;stroke:#da7971">
+        <path stroke="none" d="M.5 11V5h3v6Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#fd9e81;stroke:#fd9e81">
+        <path d="M.5 19v-8h3v8Z" style="stroke:none"/>
+        <path d="M.5 29V19h3v10Z" style="fill:#fff;stroke:none"/>
+        <path d="M.5 37v-8h3v8Z" style="stroke:none"/>
+    </g>
+    <g style="fill:#da7971;fill-opacity:.4784;stroke-opacity:.4784;stroke-linecap:round;stroke:#da7971">
+        <path stroke="none" d="M.5 43v-6h3v6Z" style="stroke:none"/>
+    </g>
+</svg>

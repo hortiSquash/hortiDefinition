@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="221" height="223" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#dcc6c6;stroke:#dcc6c6">
+        <path stroke="none" d="M45 111.5v-4l8-8v-4l4.5-4.5.5.5v6l-5 5v4l-6.5 6.5Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#fff;stroke:#fff">
+        <path d="m46.5 113 6.5-6.5v-4l5-5v-6l-.5-.5 4.5-4.5 2 2v13L50.5 115h-2Zm8-54 3-3h4l2.5 2.5 9-9 2.5 2.5-13 13h-2Z" style="stroke:none"/>
+        <path d="M61.5 56 77 40.5l3 3v4L75.5 52 73 49.5l-9 9Zm7.5 58.5v-3l5.5-5.5 4.5 4.5v5l5.5 5.5-3 3h-3Zm4 64v-5l6.5-6.5 8.5 8.5v7l7 7v5l-6 6-5-5v-6Z" style="fill:#dcc6c6;stroke:none"/>
+        <path d="m74.5 106 6-6 4.5 4.5v16l-.5.5-5.5-5.5v-5Zm5 61 18-18 8.5 8.5v11l-4 4-3.5-3.5-4.5 4.5 3.5 3.5-2.5 2.5v10l-7-7v-7Z" style="stroke:none"/>
+        <path d="m92.5 154-.5-.5v-6l2-2 3.5 3.5Zm1.5 19.5 4.5-4.5 3.5 3.5-4.5 4.5Z" style="fill:#dcc6c6;stroke:none"/>
+        <path d="M115 168.5v-11l8.5-8.5 18 18-8.5 8.5v7l-7 7v-10l-2.5-2.5 3.5-3.5-4.5-4.5-3.5 3.5Z" style="stroke:none"/>
+        <path d="m119 172.5 3.5-3.5 4.5 4.5-3.5 3.5Zm4.5-23.5 3.5-3.5 2 2v6l-.5.5Zm2.5 45.5v-5l7-7v-7l8.5-8.5 6.5 6.5v5l-11 11v6l-5 5Z" style="fill:#dcc6c6;stroke:none"/>
+        <path d="m136.5 121-.5-.5v-16l4.5-4.5 6 6-4.5 4.5v5Z" style="stroke:none"/>
+        <path d="m136.5 121 5.5-5.5v-5l4.5-4.5 5.5 5.5v3l-9.5 9.5h-3Zm4.5-73.5v-4l3-3L159.5 56l-2.5 2.5-9-9-2.5 2.5Z" style="fill:#dcc6c6;stroke:none"/>
+        <path d="m145.5 52 2.5-2.5 9 9 2.5-2.5h4l3 3-6 6h-2Zm11.5 49.5v-13l2-2 4.5 4.5-.5.5v6l5 5v4l6.5 6.5-2 2h-2Z" style="stroke:none"/>
+        <path d="M168 95.5v4l8 8v4l-1.5 1.5-6.5-6.5v-4l-5-5v-6l.5-.5Z" style="fill:#dcc6c6;stroke:none"/>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#c2bffb;stroke:#c2bffb">
+        <path stroke="none" d="M.5 3V.5H3Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#e9ebff;stroke:#e9ebff">
+        <path d="M.5 7V3L3 .5h3v2L1.5 7Z" style="stroke:none"/>
+        <path d="M.5 14V7h1L6 2.5v-2h8Z" style="fill:#c2bffb;stroke:none"/>
+        <path d="M.5 26V14L14 .5h12Z" style="stroke:none"/>
+        <path d="M15 31.5H.5V26L26 .5h5.5V15Z" style="fill:#c2bffb;stroke:none"/>
+        <path d="M20 15.5v3l1 1 8-8v-3l-1-1Z" style="fill:#c2bffb;stroke:none"/>
+        <path d="m21 19.5-1-1v-3l8-8 1 1v3Zm6 12H15L31.5 15v12Z" style="stroke:none"/>
+    </g>
+</svg>

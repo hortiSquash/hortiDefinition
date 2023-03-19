@@ -1,1 +1,8 @@
-<svg width="96" height="96" viewBox="0 0 25.4 25.4" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><g style="display:inline"><path style="fill:#fff;fill-opacity:1;stroke-width:.264583" d="m7.673 18.124-1.19-1.19h-.53l-.397.396v.265l1.455 1.455h.265l.397-.397z"/><path style="display:inline;fill:#fff;fill-opacity:1;stroke-width:.264583" d="m20.637 18.124-1.19-1.19h-.53l-.396.396v.265l1.455 1.455h.265l.396-.397z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#fff;stroke:#fff">
+        <path stroke="none" d="m20.5 66 2-2h2l4.5 4.5v2l-2 2Z" style="stroke:none"/>
+    </g>
+    <g style="stroke-linecap:round;fill:#fff;stroke:#fff">
+        <path stroke="none" d="m69.5 66 2-2h2l4.5 4.5v2l-2 2Z" style="stroke:none"/>
+    </g>
+</svg>

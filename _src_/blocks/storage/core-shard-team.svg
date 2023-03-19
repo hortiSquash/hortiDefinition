@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#9d7f7f;stroke:#9d7f7f">
+        <path stroke="none" d="M.5 64V32H8v8H6.5L4 42.5v11L6.5 56H8v8Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#dcc6c6;stroke:#dcc6c6">
+        <path d="M8 40v-8h6.5L27 44.5v7L14.5 64H8v-8h2.5l6.5-6.5v-3L10.5 40Z" style="stroke:none"/>
+        <path d="M32 8V.5h32V8h-8V6.5L53.5 4h-11L40 6.5V8Z" style="fill:#fff;stroke:none"/>
+        <path d="M32 14.5V8h8v2.5l6.5 6.5h3l6.5-6.5V8h8v6.5L51.5 27h-7Z" style="stroke:none"/>
+        <path d="M32 56.5v-17l3.5-3.5 5.5 5.5-2 2v9l4.5 4.5h9l2-2 5.5 5.5-3.5 3.5h-17Z" style="fill:#9d7f7f;stroke:none"/>
+        <path d="M32 88v-6.5L44.5 69h7L64 81.5V88h-8v-2.5L49.5 79h-3L40 85.5V88Z" style="stroke:none"/>
+        <path d="m36 35.5 3.5-3.5h17l7.5 7.5v17L60.5 60 55 54.5l2-2v-9L52.5 39h-9l-2 2Z" style="fill:#fff;stroke:none"/>
+        <path d="M37 37.5 35.5 36l.5-.5 1 1Z" style="stroke:none"/>
+        <path d="M39 39.5 35.5 36l.5-.5 3 3Z" style="stroke:none"/>
+        <path d="M39 52.5v-9l2-2-5.5-5.5.5-.5 5.5 5.5 2-2h9l4.5 4.5v9l-2 2 5.5 5.5-.5.5-5.5-5.5-2 2h-9Z" style="stroke:none"/>
+        <path d="m40 89.5 2.5 2.5h11l2.5-2.5V88h8v7.5H32V88h8Z" style="fill:#9d7f7f;stroke:none"/>
+        <path d="m43.5 45 7.5 7.5 3-3v-4L50.5 42h-4Z" style="stroke:none"/>
+        <path d="m43.5 45 3-3h4l3.5 3.5v4l-3 3Z" style="fill:#fff;stroke:none"/>
+        <path d="M69 51.5v-7L81.5 32H88v8h-2.5L79 46.5v3l6.5 6.5H88v8h-6.5Z" style="stroke:none"/>
+        <path d="M88 40v-8h7.5v32H88v-8h1.5l2.5-2.5v-11L89.5 40Z" style="fill:#fff;stroke:none"/>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#fff;stroke:#fff">
+        <path stroke="none" d="M.5 43v-4h10l4.5 4.5 2.5-2.5h5l3.5 3.5-.5.5h-6l-3 3 3 3h6l.5.5-3.5 3.5h-5L15 52.5 10.5 57H.5v-4h1L4 50.5v-5L1.5 43Z" style="stroke:none"/>
+    </g>
+    <g style="stroke-linecap:round;fill:#fff;stroke:#fff">
+        <path stroke="none" d="M39 10.5V.5h4v1L45.5 4h5L53 1.5v-1h4v10L52.5 15l2.5 2.5v5L51.5 26l-.5-.5v-6l-3-3-3 3v6l-.5.5-3.5-3.5v-5l2.5-2.5Zm2 68v-5l3.5-3.5.5.5v6l3 3 3-3v-6l.5-.5 3.5 3.5v5L52.5 81l4.5 4.5v10h-4v-1L50.5 92h-5L43 94.5v1h-4v-10l4.5-4.5ZM70.5 45l-.5-.5 3.5-3.5h5l2.5 2.5 4.5-4.5h10v4h-1L92 45.5v5l2.5 2.5h1v4h-10L81 52.5 78.5 55h-5L70 51.5l.5-.5h6l3-3-3-3Z" style="stroke:none"/>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#989aa4;stroke:#989aa4">
+        <path stroke="none" d="M.5 1V.5H1l8 8L10.5 7h8L20 8.5 14.5 14l4.5 4.5-.5.5-4.5-4.5L8.5 20 7 18.5v-8L8.5 9Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#6e7080;stroke:#6e7080">
+        <path d="M8.5 9 7 10.5v8L8.5 20l5.5-5.5 4.5 4.5-6 6 9.5 9.5 6-6 5 5-5 5v19L38.5 68h19l5-5 5 5-6 6 9.5 9.5 6-6 4.5 4.5-5.5 5.5 1.5 1.5h8l1.5-1.5 8 8H73L53.5 76h-11L23 95.5H.5V73L20 53.5v-11L.5 23V1Z" style="stroke:none"/>
+        <path d="M1 .5h22L42.5 20h11L73 .5h22.5V23L76 42.5v11L95.5 73v22l-8-8 1.5-1.5v-8L87.5 76 82 81.5 77.5 77l6-6-9.5-9.5-6 6-5-5 5-5v-19L57.5 28h-19l-5 5-5-5 6-6-9.5-9.5-6 6-4.5-4.5L20 8.5 18.5 7h-8L9 8.5Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M7 77.5v8l3.5 3.5h8l1.5-1.5L8.5 76Z" style="stroke:none"/>
+        <path d="M7 85.5v-8L8.5 76 20 87.5 18.5 89h-8Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M12.5 71 25 83.5l9.5-9.5L22 61.5Z" style="stroke:none"/>
+        <path d="m29 29.5-1-1 .5-.5.5.5Z" style="fill:#989aa4;stroke:none"/>
+        <path d="m31 31.5-3-3 .5-.5 2.5 2.5Z" style="fill:#989aa4;stroke:none"/>
+        <path d="m33.5 33-.5.5-5-5 .5-.5Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M61.5 22 74 34.5l9.5-9.5L71 12.5Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M64 64.5 62.5 63l.5-.5 1 1Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M66 66.5 62.5 63l.5-.5 3 3Z" style="fill:#989aa4;stroke:none"/>
+        <path d="m67.5 68-5-5 .5-.5 5 5Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M76 8.5 87.5 20l1.5-1.5v-8L85.5 7h-8Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M76 8.5 77.5 7h8l3.5 3.5v8L87.5 20Zm0 79 5.5-5.5-4.5-4.5.5-.5 4.5 4.5 5.5-5.5 1.5 1.5v8L87.5 87l8 8v.5H95l-8-8-1.5 1.5h-8Z" style="fill:#989aa4;stroke:none"/>
+    </g>
+</svg>

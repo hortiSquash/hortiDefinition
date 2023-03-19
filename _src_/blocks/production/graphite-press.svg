@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#989aa4;stroke:#989aa4">
+        <path stroke="none" d="M.5 1V.5H1l6 6L9.5 4H16v1.5L18.5 8h-5L11 10.5l7 7 1.5-1.5h.5v1.5l6.5 6.5h2l-2 2 4 4 1.5-1.5 3.5 3.5-1.5 1.5 4 4 2-2v2l6.5 6.5H48v.5L46.5 46l7 7 2.5-2.5v-5l2.5 2.5H60v6.5L57.5 57l6 6v.5H63l-6-6-2.5 2.5H48v-1.5L45.5 56h5l2.5-2.5-7-7-1.5 1.5H44v-1.5L37.5 40h-2l2-2-4-4-1.5 1.5-3.5-3.5 1.5-1.5-4-4-2 2v-2L17.5 20H16v-.5l1.5-1.5-7-7L8 13.5v5L5.5 16H4V9.5L6.5 7Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#6e7080;stroke:#6e7080">
+        <path d="M6.5 7 4 9.5V16H.5V1Z" style="stroke:none"/>
+        <path d="M.5 24v-8H4v8Z" style="fill:#3c3837;stroke:none"/>
+        <path d="M.5 28v-4h5L8 21.5v-8l2.5-2.5 7 7-1.5 1.5v7L14.5 28Z" style="stroke:none"/>
+        <path d="M.5 36v-8H4v8Z" style="fill:#3c3837;stroke:none"/>
+        <path d="M.5 40v-4h14l1.5 1.5v7l3.5 3.5h7l1.5 1.5v14h-4v-5L21.5 56h-8L8 50.5v-8L5.5 40Z" style="stroke:none"/>
+        <path d="M.5 48v-8H4v8Z" style="fill:#3c3837;stroke:none"/>
+        <path d="M1 .5h15V4H9.5L7 6.5Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M4 54.5 9.5 60H16v3.5H.5V48H4Z" style="stroke:none"/>
+        <path d="M4 24v-8h1.5L8 18.5v3L5.5 24Zm0 12v-8h1.5L8 30.5v3L5.5 36Zm0 12v-8h1.5L8 42.5v3L5.5 48Z" style="fill:#515151;stroke:none"/>
+        <path d="M4 54.5V48h1.5L8 45.5v5l5.5 5.5h5L16 58.5V60H9.5Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M5.5 28H12v8H5.5L8 33.5v-3ZM11 10.5 13.5 8h8L24 5.5v-5h4v14L26.5 16h-7L18 17.5Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M12 36v-8h2.5l1.5-1.5v11L14.5 36Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M16 4V.5h8V4Z" style="fill:#646567;stroke:none"/>
+        <path d="M16 5.5V4h8v1.5L21.5 8h-3Z" style="fill:#515151;stroke:none"/>
+        <path d="M16 44V20h1.5l6.5 6.5v11L17.5 44Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M16 44.5V44h1.5l6.5-6.5v-2l4.5 4.5h-2L20 46.5V48h-.5Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M16 60v-1.5l2.5-2.5h3l2.5 2.5V60Z" style="fill:#515151;stroke:none"/>
+        <path d="M20 17.5V16h24v1.5L37.5 24h-11Z" style="stroke:none"/>
+        <path d="M20 48v-1.5l6.5-6.5h11l6.5 6.5V48Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M24 63.5h-8V60h8Z" style="fill:#3c3837;stroke:none"/>
+        <path d="M24 35.5v-7l2-2 4 4-1.5 1.5 3.5 3.5 1.5-1.5 4 4-2 2h-7Z" style="stroke:none"/>
+        <path d="m26.5 16 1.5-1.5V12h8v2.5l1.5 1.5Z" style="fill:#989aa4;stroke:none"/>
+        <path d="m26.5 26 2-2h7l4.5 4.5v7l-2 2-4-4 1.5-1.5-3.5-3.5-1.5 1.5Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M26.5 48h11L36 49.5V52h-8v-2.5Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M28 4V.5h8V4Z" style="fill:#646567;stroke:none"/>
+        <path d="M28 5.5V4h8v1.5L33.5 8h-3Z" style="fill:#515151;stroke:none"/>
+        <path d="M30.5 8h3L36 5.5V12h-8V5.5Z" style="stroke:none"/>
+        <path d="M28 58.5V52h8v6.5L33.5 56h-3Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M28 60v-1.5l2.5-2.5h3l2.5 2.5V60Z" style="fill:#515151;stroke:none"/>
+        <path d="M36 63.5h-8V60h8Z" style="fill:#3c3837;stroke:none"/>
+        <path d="M36 14.5V.5h4v5L42.5 8h8l5.5 5.5v8l2.5 2.5h5v4h-14L48 26.5v-7L44.5 16h-7Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M35.5 24h2l6.5-6.5V16h.5l3.5 3.5v.5h-1.5L40 26.5v2Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M40 58.5v5h-4v-14l1.5-1.5h7l1.5-1.5 7 7-2.5 2.5h-8Z" style="stroke:none"/>
+        <path d="M40 4V.5h8V4Z" style="fill:#646567;stroke:none"/>
+        <path d="M40 5.5V4h8v1.5L45.5 8h-3Z" style="fill:#515151;stroke:none"/>
+        <path d="M40 37.5v-11l6.5-6.5H48v24h-1.5Z" style="stroke:none"/>
+        <path d="M40 60v-1.5l2.5-2.5h3l2.5 2.5V60Z" style="fill:#515151;stroke:none"/>
+        <path d="M45.5 8 48 5.5V4h6.5L60 9.5V16h-1.5L56 18.5v-5L50.5 8Z" style="fill:#989aa4;stroke:none"/>
+        <path d="m46.5 46 1.5-1.5v-7l1.5-1.5h14v4h-5L56 42.5v8L53.5 53Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M48 63.5h-8V60h8Z" style="fill:#3c3837;stroke:none"/>
+        <path d="M48 4V.5h15.5V16H60V9.5L54.5 4Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M49.5 28H52v8h-2.5L48 37.5v-11Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M52 36v-8h6.5L56 30.5v3l2.5 2.5Z" style="stroke:none"/>
+        <path d="M56 21.5v-3l2.5-2.5H60v8h-1.5Zm0 12v-3l2.5-2.5H60v8h-1.5Zm0 12v-3l2.5-2.5H60v8h-1.5Z" style="fill:#515151;stroke:none"/>
+        <path d="M63 63.5H48V60h6.5l2.5-2.5Z" style="stroke:none"/>
+        <path d="m57.5 57 2.5-2.5V48h3.5v15Z" style="fill:#b0bac0;stroke:none"/>
+        <path d="M60 24v-8h3.5v8Zm0 12v-8h3.5v8Zm0 12v-8h3.5v8Z" style="fill:#646567;stroke:none"/>
+    </g>
+</svg>

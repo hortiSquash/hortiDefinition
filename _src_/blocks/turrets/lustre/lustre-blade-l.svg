@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#6e7080;stroke:#6e7080">
+        <path stroke="none" d="M64 84.5v-13l9.5-9.5h12l7.5 7.5v8L86.5 71l-.5.5v9l7 7-13 13Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#4a4b53;stroke:#4a4b53">
+        <path d="M74 108.5v-7l3.5-3.5 11 11 1.5-1.5v-10L86.5 94l6.5-6.5 5.5 5.5 5-5L93 77.5v-8l-.5-.5L104 57.5v-5l-7-7v-10l9.5 9.5.5-.5v-17L99.5 20H97V9.5l.5-.5L110 21.5v8l2.5 2.5-.5.5v7l4.5 4.5-.5.5v3l-.5.5-3-3-.5.5v7l4 4-4 4 .5.5h3l3.5 3.5v11l-5.5 5.5h-2l-.5.5v9l-13 13v3l4.5 4.5h6l-6 6h-5l-4-4h-3l-4 4h-4Z" style="stroke:none"/>
+        <path d="m80 100.5 6.5-6.5 3.5 3.5v10l-1.5 1.5Z" style="fill:#869cbe;stroke:none"/>
+        <path d="M93 77.5v10l-7-7v-9l.5-.5Z" style="fill:#fff;stroke:none"/>
+        <path d="M90 13.5v-3L93.5 7h2l2 2-.5.5V20h-.5Z" style="fill:#6e7080;stroke:none"/>
+        <path d="M96.5 20h.5v15.5l-7-7v-15Z" style="fill:#fff;stroke:none"/>
+        <path d="M97 35.5v10l7 7v5L99.5 62l-.5-.5v-3l-9-9v-21Z" style="fill:#6e7080;stroke:none"/>
+        <path d="m103.5 88-5 5-5.5-5.5v-10ZM97 35.5V20h2.5l7.5 7.5v17l-.5.5Z" style="fill:#869cbe;stroke:none"/>
+        <path d="M98 106.5v-3l10-10 .5.5h6l-11 11 5.5 5.5v.5h-6.5Z" style="fill:#6e7080;stroke:none"/>
+        <path d="M101 66.5v10l4.5 4.5h5l.5-.5-5-5v-8l6-6-.5-.5h-5Z" style="stroke:none"/>
+        <path d="M101 76.5v-10l5.5-5.5h5l.5.5-6 6v8l5 5-.5.5h-5Z" style="fill:#6e7080;stroke:none"/>
+        <path d="m103.5 105 11-11h2l3.5 3.5v6l-7.5 7.5H109v-.5Z" style="stroke:none"/>
+        <path d="M119 38.5v7l-.5.5-6.5-6.5v-7l.5-.5Zm0 13v7l-.5.5-6.5-6.5v-7l.5-.5Z" style="fill:#869cbe;stroke:none"/>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#6e7080;stroke:#6e7080">
+        <path stroke="none" d="M18 42.5v-1l5.5-5.5L35 47.5l-6 6Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#4a4b53;stroke:#4a4b53">
+        <path d="M24 76.5v-2l5.5-5.5 8.5 8.5v7l-3 3-3-3 3.5-3.5-6.5-6.5-3.5 3.5Z" style="stroke:none"/>
+        <path d="m24.5 64 9-9 3.5 3.5v1l-4 4L44.5 75l-.5.5v6l3.5 3.5h.5v5h-4.5L38 84.5v-7Z" style="fill:#bb68c3;stroke:none"/>
+        <path d="m26 56.5 9-9-5.5-5.5 2.5-2.5 5.5 5.5h10l.5.5v2l.5.5h1l10 10-.5.5v8l.5.5L49 77.5l-1-1v-4l7-7v-6l-7-7v-4l-1-1L36.5 58l-3-3-4.5 4.5Z" style="stroke:none"/>
+        <path d="m25.5 78 3.5-3.5 6.5 6.5-3.5 3.5ZM32 39.5l.5-.5H48v5.5l.5.5h10l5.5-5.5 2.5 2.5-5.5 5.5 9 9-3 3-4.5-4.5-3 3-10-10h-1l-.5-.5v-2l-.5-.5h-10Z" style="fill:#6e7080;stroke:none"/>
+        <path d="m33 63.5 4-4v7l-.5.5Z" style="stroke:none"/>
+        <path d="m36.5 67 .5-.5v-8l-.5-.5L47 47.5l1 1v4l-7 7v6l7 7v4l1 1 2.5-2.5.5.5v6L48.5 85H48v-7.5l-.5-.5h-1Z" style="fill:#6e7080;stroke:none"/>
+        <path d="M41 65.5v-6l7-7 7 7v6l-7 7Z" style="fill:#2c2d38;stroke:none"/>
+        <path d="M46.5 77h1l.5.5V85h-.5L44 81.5v-6l.5-.5Z" style="stroke:none"/>
+        <path d="M48 90v-5h.5l3.5-3.5v-6l-.5-.5L63 63.5l-4-4v-1l3.5-3.5 9 9L58 77.5v7L52.5 90Z" style="fill:#ffcbdd;stroke:none"/>
+        <path d="m48.5 45-.5-.5V39h15.5l.5.5-5.5 5.5Z" style="stroke:none"/>
+        <path d="M58 84.5v-7l8.5-8.5 5.5 5.5v2L70.5 78 67 74.5 60.5 81l3.5 3.5-3 3Zm5-21L59.5 67l-.5-.5v-7Z" style="fill:#6e7080;stroke:none"/>
+        <path d="M61 47.5 72.5 36l6 6L67 53.5ZM60.5 81l6.5-6.5 3.5 3.5-6.5 6.5Z" style="stroke:none"/>
+    </g>
+</svg>

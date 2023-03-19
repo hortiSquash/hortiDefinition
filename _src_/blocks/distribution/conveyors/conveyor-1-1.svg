@@ -1,94 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   inkscape:export-ydpi="192"
-   inkscape:export-xdpi="192"
-   inkscape:export-filename="/home/bendn/hortiDefinition/_src_/blocks/distribution/router.png"
-   width="32"
-   height="32"
-   viewBox="0 0 8.4666667 8.4666667"
-   version="1.1"
-   id="svg5"
-   sodipodi:docname="conveyor-1-1.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   xml:space="preserve"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
-     id="metadata78"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="px"
-     showgrid="true"
-     inkscape:zoom="16"
-     inkscape:cx="17.1875"
-     inkscape:cy="15.03125"
-     inkscape:window-width="958"
-     inkscape:window-height="1008"
-     inkscape:window-x="953"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"
-     units="px"
-     inkscape:snap-global="true"
-     inkscape:document-rotation="0"
-     inkscape:showpageshadow="0"
-     inkscape:deskcolor="#d1d1d1"><inkscape:grid
-       type="xygrid"
-       id="grid1864"
-       spacingx="0.13229167"
-       spacingy="0.13229167"
-       empspacing="4" /></sodipodi:namedview><defs
-     id="defs2" /><g
-     inkscape:label="Calque 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="display:inline"><path
-       sodipodi:nodetypes="cccccc"
-       id="path1058-4-0-2-8"
-       d="M -3.2000002e-7,6.2177085 V 0 H 8.4666669 v 8.4666669 h -6.217709 z"
-       style="display:inline;fill:#4a4b53;fill-opacity:1;stroke:none;stroke-width:0.23151px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><path
-       sodipodi:nodetypes="ccccccccccccccc"
-       id="path1058-7-7"
-       d="m 6.3499993,2.7781253 9e-7,-1.7197919 0.396875,-0.39687505 h 0.2645833 l 0.396875,0.39687505 -2e-7,1.1906249 1.058333,1.0583336 V 5.1593752 L 7.4083333,6.2177084 V 9.5250006 H 6.3499993 V 5.6885419 L 7.4083333,4.6302087 V 3.8364585 Z"
-       style="display:inline;fill:#6e7080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:transform-center-y="3.7030421"
-       inkscape:transform-center-x="0.0041341149" /><path
-       sodipodi:nodetypes="ccccccccccccccc"
-       id="path1058-7-7-2"
-       d="M 5.679244,1.1640324 7.168628,0.30413724 7.7107693,0.44940357 7.8430609,0.67853943 7.6977946,1.2206808 6.6666831,1.815993 6.2793058,3.2617031 4.6753546,4.1877448 3.2296447,3.8003681 0.36544563,5.4540142 -0.16372137,4.5374701 3.1587493,2.6192407 4.6044598,3.0066182 5.2918676,2.6097431 Z"
-       style="display:inline;fill:#6e7080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:transform-center-y="1.4888883"
-       inkscape:transform-center-x="3.5727975" /><path
-       sodipodi:nodetypes="cccccc"
-       id="path1058-4-8-0-2"
-       d="M 7.4083329,0.39687499 7.4083339,0 h 1.058333 v 1.0583334 h -0.396875 z"
-       style="display:inline;fill:#989aa4;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><path
-       sodipodi:nodetypes="ccccccccc"
-       id="path1058-4-8-3"
-       d="M -3.2000002e-7,6.2177085 V 0 H 1.0583331 v 5.6885418 l 1.7197918,1.7197917 h 5.688542 v 1.0583334 h -6.217708 z"
-       style="display:inline;fill:#989aa4;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /></g><g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Calque 2"
-     style="display:none;opacity:0.5"
-     sodipodi:insensitive="true"><image
-       width="8.4666672"
-       height="8.4666672"
-       preserveAspectRatio="none"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACx jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEtSURBVFhHxZZNDoIwEEYLZ9GlV9G4dm08BRu4 hD9bXRu9igkbvYtmSkmGaQda7LQvIYwRfF+HASyO5+tXIZ6Pu6lkWG+2puoozT4bSQMslivVth/z qSNJABDD1oNDiAfAYgzMGmyiATj55/0ylWAHfOSASABO7iJ6gBA5EDWAj5weEy1AyMrxsVECjMnp 0PX05wS/C0JWiuXced4dgB/wlYOYrpzrxGSAEDHAiQDXd2yAUDEwJuewZoC+rShzJBi6KO8ZAPG/ cheTAWKKXZeUDRB7xdw8WQFiiwFODh7vGZjLmBywAtB/rRLgDjs7IBmCXt7ysN8Vph6QohOA7kDO EGXTNLrIFUJ3IGeIoq5rUypVVZXeny63wftBksFdMNUJCazbMHUI53MgXQilfv+ie5AAa+UnAAAA AElFTkSuQmCC "
-       id="image1833-0"
-       x="-2.9529298e-07"
-       y="0"
-       style="display:inline;image-rendering:pixelated" /></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#989aa4;stroke:#989aa4">
+        <path stroke="none" d="M.5 24V.5H4v21l6.5 6.5h21v3.5H8Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#4a4b53;stroke:#4a4b53">
+        <path d="M4 16V.5h24v1L26.5 3h-1l-9 9h-4l-1 1h-1l-1 1h-1l-1 1h-1l-1 1Z" style="stroke:none"/>
+        <path d="M4 20v-4h1.5l1-1h1l1-1h1l1-1h1l1-1h4l9-9h1L28 1.5 30.5 4 28 6.5v2l3.5 3.5v8L28 23.5V28h-4v-6.5l4-4v-3L24.5 11l-2 2h-1l-3 3h-6l-1 1h-1l-1 1h-1l-1 1h-1l-1 1Z" style="fill:#6e7080;stroke:none"/>
+        <path d="M4 21.5V20h1.5l1-1h1l1-1h1l1-1h1l1-1h6l3-3h1l2-2 3.5 3.5v3l-4 4V28H10.5Z" style="stroke:none"/>
+        <path d="M28 1.5v-1h3.5V4h-1Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M28 8.5v-2L30.5 4h1v8ZM28 28v-4.5l3.5-3.5v8Z" style="stroke:none"/>
+    </g>
+</svg>

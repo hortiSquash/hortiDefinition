@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#92dd7e;stroke:#92dd7e">
+        <path stroke="none" d="M.5 4V.5H12v3l-4 4v8l-4-4v-4Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#3a8f64;stroke:#3a8f64">
+        <path d="M4 7.5v4L.5 8V4Z" style="stroke:none"/>
+        <path d="M4 11.5v9L.5 24V8Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="M.5 28v-4L4 20.5v4Z" style="stroke:none"/>
+        <path d="M8 15.5v1l-4 4v-9Z" style="fill:#6e7080;stroke:none"/>
+        <path d="m8 24.5 4 4v3H.5V28L4 24.5v-4l4-4Z" style="fill:#92dd7e;stroke:none"/>
+        <path d="M11 10.5v-2l.5-.5h5l4.5 4.5v7L16.5 24h-5l-.5-.5v-2l4-4v-3Z" style="fill:#fff;stroke:none"/>
+        <path d="M20 2.5v-2h11.5V12h-2Z" style="fill:#92dd7e;stroke:none"/>
+    </g>
+</svg>

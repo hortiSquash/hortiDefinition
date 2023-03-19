@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="288" height="196" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#989aa4;stroke:#989aa4">
+        <path stroke="none" d="M231 41.5v-13l8.5-8.5h6l7 7h1l.5.5-7 7 3 3v8l-9.5 9.5 9 9-17 17-1-1 .5-.5v-6l4-4v-3l-4-4v-5l7.5-7.5Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#989aa4;stroke:#989aa4">
+        <path d="M231 167.5v-13l8.5-8.5-7.5-7.5v-5l4-4v-3l-4-4v-6l-.5-.5 1-1 17 17-9 9 9.5 9.5v8l-3 3 7 7-.5.5h-1l-6 6h-8Z" style="stroke:none"/>
+        <path d="m232.5 81 17-17-9-9 4-4 9.5 9.5-3.5 3.5 3.5 3.5-15 15v5l-.5-.5h-.5v-.5Zm0 34 5.5-5.5v-.5h.5l.5-.5v5l15 15-3.5 3.5 3.5 3.5-9.5 9.5-4-4 9-9Z" style="fill:#6e7080;stroke:none"/>
+        <path d="M239 113.5v-31l15-15-3.5-3.5 3.5-3.5-9.5-9.5 5.5-5.5v-8l12-12V25h7.5l5.5 5.5v1l.5.5h2.5v.5l4 4v5l4 4v8l-4 4v5l-4.5 4.5h-2l-.5.5v5l4 4v3l-11 11v15l11 11v3l-4 4v5l.5.5h2l4.5 4.5v5l4 4v8l-4 4v5l-4 4v.5h-2.5l-.5.5v1l-5.5 5.5H262v-.5l-12-12v-8l-5.5-5.5 9.5-9.5-3.5-3.5 3.5-3.5Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="M246 88.5v19l2 2 5-5v-13l-5-5Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="M246 107.5v-19l2-2 5 5v13l-5 5Zm1-73 9.5-9.5h5.5v.5l-12 12Zm0 127 3-3 12 12v.5h-5.5Z" style="fill:#6e7080;stroke:none"/>
+        <path d="m254.5 74 8 8h2l5-5-8-8h-2Zm0 48 5 5h2l8-8-5-5h-2Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="m254.5 74 5-5h2l8 8-5 5h-2Zm0 48 8-8h2l5 5-8 8h-2Z" style="fill:#6e7080;stroke:none"/>
+        <path d="M268 36.5v6l4 4v6l-4 4v6l4.5 4.5h2l.5-.5v-34l-.5-.5h-2Zm0 97v6l4 4v6l-4 4v6l4.5 4.5h2l.5-.5v-34l-.5-.5h-2Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="M268 42.5v-6l4.5-4.5h2l.5.5v34l-.5.5h-2l-4.5-4.5v-6l4-4v-6Zm0 97v-6l4.5-4.5h2l.5.5v34l-.5.5h-2l-4.5-4.5v-6l4-4v-6Z" style="fill:#6e7080;stroke:none"/>
+    </g>
+</svg>

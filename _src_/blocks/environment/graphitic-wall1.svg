@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#3c4448;stroke:#3c4448">
+        <path stroke="none" d="M.5 1V.5H3l2 2v1l2 2L10.5 2h2l.5.5-3 3v4l2.5 2.5h1l2 2h1l1.5 1.5V17h-1.5L12 21.5v3l3 3-.5.5h-3l-1-1h-2L4 22.5v-2L5.5 19l1 1h3l3.5-3.5v-3L7.5 8h-1L5 6.5v-1Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#282b34;stroke:#282b34">
+        <path d="M5 5.5v1L6.5 8h1l5.5 5.5v3L11.5 18l-.5-.5v-1l-5-5-3 3v2L5.5 19 4 20.5v2L8.5 27h2l1 1h3l.5-.5 1.5 1.5h2l1.5-1.5v-3l-2-2v-1L16.5 20h-2l-.5-.5 2.5-2.5h2l3.5 3.5v1l1 1v3l.5.5h2l5.5 5.5H.5V1Z" style="stroke:none"/>
+        <path d="M3 .5h28.5V29L29 26.5v-1l-.5-.5h-1l-2-2 2.5-2.5V20h.5l1.5-1.5v-4l-1-1v-1L21.5 5h-1l-3-3h-7L7 5.5l-2-2v-1Z" style="fill:#5b6567;stroke:none"/>
+        <path d="M3 16.5v-2l1-1 6 6-.5.5h-3Z" style="fill:#626f9b;stroke:none"/>
+        <path d="m4 13.5 2-2 5 5v1l.5.5-1.5 1.5Zm6-8 3-3 7 7-1.5 1.5h-3Z" style="fill:#95abd9;stroke:none"/>
+        <path d="M15.5 11h3L20 9.5l.5.5h1l2 2-1.5 1.5v2l4.5 4.5H28v.5L25.5 23H23v-.5l-1-1v-1L18.5 17H18v-1.5L16.5 14h-1l-2-2h-1L10 9.5v-4Z" style="fill:#626f9b;stroke:none"/>
+        <path d="m12 21.5 2-2 .5.5h2l1.5 1.5v1l2 2V26h-2.5l-3-3h-1Z" style="fill:#95abd9;stroke:none"/>
+        <path d="M13.5 23h1l3 3H20v1.5L18.5 29h-2L12 24.5v-3Z" style="fill:#626f9b;stroke:none"/>
+        <path d="M12.5 2h5l3 3h1l7.5 7.5v1l1 1v4L28.5 20H28v-3.5L21.5 10h-1Z" style="stroke:none"/>
+        <path d="M22 15.5v-2l1.5-1.5 4.5 4.5V20h-1.5Z" style="fill:#95abd9;stroke:none"/>
+        <path d="m23.5 26-.5-.5V23h2.5l2 2h1l.5.5v1l2.5 2.5v2.5H31L25.5 26Z" style="fill:#3c4448;stroke:none"/>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#686b7b;stroke:#686b7b">
+        <path stroke="none" d="M.5 7V.5H7L31.5 25v6.5H25Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#24252f;stroke:#24252f">
+        <path d="M25 31.5h-3L.5 10V7Z" style="stroke:none"/>
+        <path d="M22 31.5H6L.5 26V10Z" style="fill:#3f4049;stroke:none"/>
+        <path d="M6 31.5H.5V26Z" style="fill:#686b7b;stroke:none"/>
+        <path d="M7 .5h16L31.5 9v16Z" style="fill:#3f4049;stroke:none"/>
+        <path d="M23 .5h3L31.5 6v3Z" style="stroke:none"/>
+        <path d="M26 .5h5.5V6Z" style="fill:#686b7b;stroke:none"/>
+    </g>
+</svg>

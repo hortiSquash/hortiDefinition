@@ -2,7 +2,7 @@
 
 echo "::group::artifact x$1"
 
-[[ -z $OPTIMIZED ]] && export OPTIMIZED=1 && svgo --folder _src_/ -r -q
+# [[ -z $OPTIMIZED ]] && export OPTIMIZED=1 && svgo --folder _src_/ -r -q
 
 l=$(pwd)
 bash export.sh "$1"

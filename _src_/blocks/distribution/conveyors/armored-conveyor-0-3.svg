@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#665c9f;stroke:#665c9f">
+        <path stroke="none" d="M.5 3V.5H4v1L7.5 5h-4l-2-2Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#6e7080;stroke:#6e7080">
+        <path d="M.5 11V3h1l2 2H4v3.5l4 4v7l-4 4V27h-.5l-2 2h-1v-8L4 17.5v-3Z" style="stroke:none"/>
+        <path d="M4 14.5v3L.5 21V11Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="M4 30.5v1H.5V29h1l2-2h4Z" style="fill:#665c9f;stroke:none"/>
+        <path d="M4 1.5v-1h7l2 2v2l-.5.5h-5Z" style="fill:#8a73c6;stroke:none"/>
+        <path d="M4 8.5V5h8.5l.5-.5V3h3v7.5l4 4v3l-4 4V29h-3v-1.5l-.5-.5H4v-3.5l4-4v-7Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="M11 31.5H4v-1L7.5 27h5l.5.5v2Z" style="fill:#8a73c6;stroke:none"/>
+        <path d="M11 .5h8L16.5 3H13v-.5Z" style="fill:#665c9f;stroke:none"/>
+        <path d="m17 4.5.5.5H20v3.5l4 4v7l-4 4V27h-2.5l-.5.5v1l-.5.5H16v-7.5l4-4v-3l-4-4V3h.5l.5.5Z" style="stroke:none"/>
+        <path d="M19 31.5h-8l2-2V29h3.5Z" style="fill:#665c9f;stroke:none"/>
+        <path d="m17.5 5-.5-.5v-1l-.5-.5L19 .5h9v1L24.5 5Zm-1 24 .5-.5v-1l.5-.5h7l3.5 3.5v1h-9Z" style="fill:#8a73c6;stroke:none"/>
+        <path d="M20 8.5V5h8.5l2-2h1v26h-1l-2-2H20v-3.5l4-4v-7Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="M24.5 5 28 1.5v-1h3.5V3h-1l-2 2Zm0 22h4l2 2h1v2.5H28v-1Z" style="fill:#665c9f;stroke:none"/>
+    </g>
+</svg>

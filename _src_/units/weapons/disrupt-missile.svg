@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39" height="60" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#989aa4;stroke:#989aa4">
+        <path stroke="none" d="m5.5 31-.5-.5v-5L7.5 23H8v4.5l.5.5Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#665c9f;stroke:#665c9f">
+        <path d="m7.5 33-.5.5v4l-.5.5L5 36.5v-6Z" style="stroke:none"/>
+        <path d="m5.5 31 5-5 .5.5v2l2.5 2.5-3 3 3.5 3.5-3.5 3.5H10v-5.5Z" style="fill:#6e7080;stroke:none"/>
+        <path d="M10 35.5V41h-.5l-3-3 .5-.5v-4l.5-.5Z" style="fill:#bf92f9;stroke:none"/>
+        <path d="M8.5 24H8v-3.5l3.5-3.5.5.5v3Z" style="stroke:none"/>
+        <path d="m8.5 28-.5-.5V24h.5l3.5-3.5v-3l-.5-.5 3-3 .5.5v7Z" style="fill:#bf92f9;stroke:none"/>
+        <path d="M10 41.5V41h.5l3.5-3.5 3.5 3.5h4l3.5-3.5 3.5 3.5h.5v.5L23.5 47h-2l-2-2-2 2h-2Zm1-13v-2l-.5-.5 4.5-4.5v-6l4.5 4.5 4-4 .5.5v5l4.5 4.5-.5.5v2L25.5 31l-.5-.5v-1L20.5 25h-2L14 29.5v2Z" style="fill:#4a4b53;stroke:none"/>
+        <path d="m10.5 34 3-3 .5.5v1l4.5 4.5h2l4.5-4.5v-2l3.5 3.5-7 7h-4ZM14 13.5v-3L18.5 6h2l4.5 4.5v3l-1 1v2L19.5 12l-4 4-.5-.5v-1Z" style="fill:#989aa4;stroke:none"/>
+        <path d="m15.5 16 4-4 4 4-4 4Z" style="fill:#6e7080;stroke:none"/>
+        <path d="m27.5 17-.5.5v3l4 4v3l-.5.5-6.5-6.5v-7l.5-.5Z" style="fill:#bf92f9;stroke:none"/>
+        <path d="m25 37.5 3.5-3.5-3-3 2.5-2.5v-2l.5-.5 5 5-4.5 4.5V41h-.5Z" style="fill:#6e7080;stroke:none"/>
+        <path d="M31 20.5v4l-4-4v-3l.5-.5Z" style="stroke:none"/>
+        <path d="M29.5 41H29v-5.5l2.5-2.5.5.5v4l.5.5Z" style="fill:#bf92f9;stroke:none"/>
+        <path d="M34 25.5v6L30.5 28l.5-.5v-5Z" style="fill:#989aa4;stroke:none"/>
+        <path d="m32.5 38-.5-.5v-4l-.5-.5 2-2 .5.5v5Z" style="stroke:none"/>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="97" style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#000;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#000;stroke-dasharray:none;font-weight:400;stroke-width:1;font-family:&quot;Dialog&quot;;font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto">
+    <g style="stroke-linecap:round;fill:#989aa4;stroke:#989aa4">
+        <path stroke="none" d="m24.5 71-.5-.5v-27l4-4v6l4 4v.5h-.5L28 53.5v13l.5.5Z" style="stroke:none"/>
+    </g>
+    <g stroke="none" style="stroke-linecap:round;fill:#b0bac0;stroke:#b0bac0">
+        <path d="M26 29.5v-8l2.5-2.5.5.5v5l.5.5 2.5-2.5v-6l-.5-.5 3-3h.5v19.5l.5.5-3 3H32v-.5Z" style="stroke:none"/>
+        <path d="M32 35.5v.5h-.5L28 39.5v-7l.5-.5Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M28 45.5v-6l3.5-3.5h.5v.5l8.5 8.5 4.5-4.5v14l-13-13Z" style="fill:#6e7080;stroke:none"/>
+        <path d="m28 45.5 4-4 4.5 4.5-4 4H32v-.5Z" style="stroke:none"/>
+        <path d="M28 66.5v-13l3.5-3.5h.5v.5l3.5 3.5-.5.5V63h-.5L32 65.5v4l-.5.5Z" style="fill:#6e7080;stroke:none"/>
+        <path d="m29.5 25-.5-.5v-5l-.5-.5 3-3 .5.5v6Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M32 36.5V36h.5l4-4 5.5 5.5-4.5 4.5Zm0 14V50h.5l4-4 5.5 5.5-4.5 4.5Z" style="fill:#ffa665;stroke:none"/>
+        <path d="m31.5 70 .5-.5v-4l2.5-2.5h.5v5.5l1.5 1.5h1l.5.5-3 3Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M45 22.5v18L36.5 32l4-4-5.5-5.5V13h.5Z" style="fill:#6e7080;stroke:none"/>
+        <path d="m40.5 28-5 5-.5-.5v-10Z" style="fill:#989aa4;stroke:none"/>
+        <path d="M41 59.5v7l.5.5-3.5 3.5-.5-.5h-1L35 68.5v-1l5.5-5.5-5.5-5.5v-2l.5-.5Z" style="stroke:none"/>
+        <path d="m38.5 60-3 3H35v-6.5Z" style="fill:#ffa665;stroke:none"/>
+        <path d="M35 67.5V63h.5l3-3 2 2ZM37.5 42l4.5-4.5 3 3-4.5 4.5Zm0 14 4.5-4.5 3 3-4.5 4.5Z" style="fill:#d06b53;stroke:none"/>
+        <path d="m41.5 67-.5-.5v-7l-.5-.5 4.5-4.5v9Z" style="fill:#989aa4;stroke:none"/>
+    </g>
+</svg>
