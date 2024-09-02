@@ -1,3 +1,126 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e69adf01403814e8f3b71d3f65f4992b553fc7f52c82f08c7edf3837e467ac1
-size 4981
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="copper-wall.svg"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 8.4666667 8.4666667"
+   height="32"
+   width="32">
+  <metadata
+     id="metadata78">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:snap-global="true"
+     units="px"
+     inkscape:current-layer="layer3"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:cy="20.700994"
+     inkscape:cx="13.857567"
+     inkscape:zoom="16"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:pagecheckerboard="0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="namedview7">
+    <inkscape:grid
+       empspacing="4"
+       spacingy="0.13229167"
+       spacingx="0.13229167"
+       id="grid1864"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     style="display:inline"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1">
+    <rect
+       style="display:inline;fill:#8f665b;fill-opacity:1;stroke-width:4.99999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect7925"
+       width="8.4666662"
+       height="8.4666662"
+       x="2.6691163e-07"
+       y="-1.4768372e-07"
+       inkscape:export-filename="C:\Users\Utilisateur\Downloads\unloader.png"
+       inkscape:export-xdpi="767.99982"
+       inkscape:export-ydpi="767.99982" />
+    <path
+       style="display:inline;fill:#c9a58f;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -2.9999988e-8,-1e-7 8.4666658,8.4666658 c 8e-7,-2.8222218 -1.4e-6,-4.0498073 2.1e-6,-8.466665899999997 z"
+       id="path11312"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Utilisateur\Downloads\unloader.png"
+       inkscape:export-xdpi="767.99982"
+       inkscape:export-ydpi="767.99982" />
+    <path
+       style="display:inline;fill:#b28768;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1.984375,1.0583334 -0.9260416,0.9260417 0,4.4979167 0.9260417,0.9260417 h 4.4979167 l 0.9260417,-0.9260417 0,-4.4979167 -0.9260417,-0.9260417"
+       id="path23670"
+       inkscape:export-filename="C:\Users\Utilisateur\Downloads\unloader.png"
+       inkscape:export-xdpi="767.99982"
+       inkscape:export-ydpi="767.99982"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="display:inline;fill:#b28768;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -4.2999999e-7,-1e-7 0.66145835,0 8.4666669,7.8052085 l -4e-6,0.6614583 -0.6614544,10e-8 L 0,0.66145835 -2.9999988e-8,-1e-7"
+       id="path58525"
+       inkscape:export-filename="C:\Users\Utilisateur\Downloads\unloader.png"
+       inkscape:export-xdpi="767.99982"
+       inkscape:export-ydpi="767.99982"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="path6767"
+       d="m 3.0427084,6.3500002 -0.9260417,-0.9260417 0,-2.3812501 0.9260417,-0.9260417 h 2.3812501 l 0.9260417,0.9260417 0,2.3812501 -0.9260417,0.9260417 z"
+       style="display:inline;fill:#c9a58f;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     style="display:none;opacity:0.5"
+     inkscape:label="Calque 2"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <image
+       style="image-rendering:pixelated"
+       id="image854"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAA3NCSVQICAjb4U/gAAAAv0lEQVRI
+ie2WMQ6DMAxFfyPWzmxIiIGr9Sbcp7fpgJDYmLkAC6KQuv4B7C2ZMvzoxfn6sR/v7gUAQFm1cFhh
+203jxxfgxAj9MLsyCgD9MDf18z5DdHF9oqiOa0u82dcDJ0YQdYaMgh7Q80ENIxXQ9FGBBkjMti77
+Czj1cyhie5MzIAMyIB1wqu0oYq2CRIYuI09EGVTA+8HNMeBQgUnX1ABWjH3Rgge2DNmDy4xoviqr
+1jhov3OifZIjhstXsWcshadV1Ma7GQAAAAAASUVORK5CYII=
+"
+       preserveAspectRatio="none"
+       height="8.4666672"
+       width="8.4666672"
+       x="0"
+       y="0" />
+  </g>
+</svg>
