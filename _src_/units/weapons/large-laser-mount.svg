@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 96 140" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
+	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M14.5,71 L30,55.5 L26,51.5 L35,42.5 L35,37.5 L29.5,43 L24,37.5 L37,24.5 L37,15.5 L45,7.5 L45,24.5 L43,26.5 L43,31.5 L45.5,34 L47,34 L47,39.5 L36,50.5 L39,53.5 L34,58.5 L42.5,67 L41.5,67 L39,69.5 L39,70.5 L26.5,83 Z" fill="#6e7080"/>
+		<path d="M50.5,91 L55,86.5 L55,84.5 L59,80.5 L59,79 L63,79 L63,79.5 L81,97.5 L65.5,113 L55.5,103 L50.5,103 L56.5,97 Z" fill="#b0bac0"/>
+		<path d="M17,97.5 L35,79.5 L35,79 L39,79 L39,80.5 L43,84.5 L43,86.5 L37,92.5 L47.5,103 L42.5,103 L32.5,113 Z" fill="#6e7080"/>
+		<path d="M55,49.5 L59,53.5 L62.5,50 L65.5,50 L66,49.5 L66,45.5 L72,51.5 L68,55.5 L82.5,70 L76,76.5 L61,61.5 L58,64.5 L55,61.5 Z" fill="#b0bac0"/>
+		<path d="M53,7.5 L61,15.5 L61,24.5 L74,37.5 L68.5,43 L63,37.5 L63,42.5 L56.5,36 L58.5,36 L59,35.5 L59,29.5 L53,23.5 Z" fill="#b0bac0"/>
+		<path d="M39,69.5 L41.5,67 L42.5,67 L47,71.5 L41.5,77 L49,84.5 L56.5,77 L51,71.5 L55.5,67 L56.5,67 L59,69.5 L59,80.5 L49,90.5 L39,80.5 Z" fill="#ffa665"/>
+		<path d="M55.5,67 L61,61.5 L76,76.5 L70.5,82 L59,70.5 L59,69.5 L56.5,67 Z" fill="#6e7080"/>
+		<path d="M47,29.5 L52,34.5 L52,43.5 L54.5,46 L55,46 L55,61.5 L50,56.5 L50,50.5 L47,47.5 Z" fill="#ffa665"/>
+		<path d="M34,58.5 L47,45.5 L47,47.5 L50,50.5 L50,56.5 L51.5,58 L46.5,58 L40,64.5 Z" fill="#b0bac0"/>
+		<path d="M41.5,97 L47.5,91 L43,86.5 L43,84.5 L49,90.5 L55,84.5 L55,86.5 L50.5,91 L56.5,97 L50.5,103 L47.5,103 Z" fill="#989aa4"/>
+		<path d="M43,26.5 L45,24.5 L45.5,25 L49,21.5 L53,25.5 L53,29.5 L57.5,34 L59,34 L59,35.5 L58.5,36 L56.5,36 L55,34.5 L55,38.5 L52,35.5 L52,34.5 L47,29.5 L47,34 L45.5,34 L43,31.5 Z" fill="#989aa4"/>
+		<path d="M41.5,77 L47,71.5 L42.5,67 L43.5,67 L49,61.5 L49,84.5 Z" fill="#b0bac0"/>
+		<path d="M49,61.5 L54.5,67 L55.5,67 L51,71.5 L56.5,77 L49,84.5 Z" fill="#6e7080"/>
+		<path d="M40,64.5 L46.5,58 L51.5,58 L58,64.5 L55.5,67 L54.5,67 L49,61.5 L43.5,67 L42.5,67 Z" fill="#989aa4"/>
+		<path d="M55,34.5 L55,42.5 L62.5,50 L65.5,50 L66,49.5 L66,45.5 Z" fill="#ffa665"/>
+		<path d="M36,50.5 L47,39.5 L47,45.5 L39,53.5 Z" fill="#989aa4"/>
+		<path d="M37,92.5 L43,86.5 L47.5,91 L41.5,97 Z" fill="#b0bac0"/>
+		<path d="M55,46 L58.5,46 L62.5,50 L59,53.5 L55,49.5 Z" fill="#989aa4"/>
+		<path d="M53,23.5 L59,29.5 L59,34 L57.5,34 L53,29.5 Z" fill="#ffa665"/>
+		<path d="M49,17.5 L53,13.5 L53,25.5 L49,21.5 Z" fill="#6e7080"/>
+		<path d="M45,13.5 L49,17.5 L49,21.5 L45.5,25 L45,24.5 Z" fill="#b0bac0"/>
+		<path d="M52,35.5 L55,38.5 L55,42.5 L58.5,46 L54.5,46 L52,43.5 Z" fill="#b0bac0"/>
+		<path d="M35,74.5 L39,70.5 L39,79 L35,79 Z" fill="#989aa4"/>
+		<path d="M59,70.5 L63,74.5 L63,79 L59,79 Z" fill="#989aa4"/>
+	</g>
+	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
+		<image width="96" style="image-rendering:pixelated" href="data:image/png;base64,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" height="140"/>
+	</g>
+	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
+	</sodipodi:namedview>
+</svg>

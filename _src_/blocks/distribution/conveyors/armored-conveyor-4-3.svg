@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
+	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#0000007b" fill-opacity="123"/>
+		<path d="M0,0 L3,0 L3,1.5 L5.5,4 L8.5,4 L12.5,8 L19.5,8 L23.5,4 L26.5,4 L28,2.5 L28,0 L32,0 L32,32 L28,32 L28,29.5 L26.5,28 L23.5,28 L19.5,24 L12.5,24 L8.5,28 L5.5,28 L3,30.5 L3,32 L0,32 L0,28 L1.5,28 L5,24.5 L5,17.5 L4.5,17 L2.5,17 L0,19.5 L0,10.5 L2.5,13 L4.5,13 L5,12.5 L5,7.5 L1.5,4 L0,4 Z" fill="#0000007b" fill-opacity="123"/>
+		<path d="M3,0 L10.5,0 L14.5,4 L17.5,4 L21.5,0 L28,0 L28,2.5 L26.5,4 L23.5,4 L19.5,8 L12.5,8 L8.5,4 L5.5,4 L3,1.5 Z" fill="#0200007b" fill-opacity="123"/>
+		<path d="M3,30.5 L5.5,28 L8.5,28 L12.5,24 L19.5,24 L23.5,28 L26.5,28 L28,29.5 L28,32 L21.5,32 L17.5,28 L14.5,28 L10.5,32 L3,32 Z" fill="#0200007b" fill-opacity="123"/>
+		<path d="M0,19.5 L2.5,17 L4.5,17 L5,17.5 L5,24.5 L1.5,28 L0,28 Z" fill="#0300007b" fill-opacity="123"/>
+		<path d="M0,4 L1.5,4 L5,7.5 L5,12.5 L4.5,13 L2.5,13 L0,10.5 Z" fill="#0300007b" fill-opacity="123"/>
+		<path d="M20,13.5 L22,11.5 L24,13.5 L24,18.5 L22,20.5 L20,18.5 Z" fill="#0200007b" fill-opacity="123"/>
+	</g>
+	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
+		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAMFBMVEVKS1NmXJ9ucICKc8YAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABaMVjBAAAAsElEQVR4Xo1RwQ3DIAw8UAYIG6B2gUrdf5RGbFAmgHJnt6JppMYP4zvONtghhRVoBUDMwBMRNPnsYXcgsvKoJqGgdYT71iuzCYuuBmjCIB4EcxUabcmKxWKRx2YHvNlsv0TZE96SYaZf8OBLacIHNU4Q19s3sZf4z2lFL5gEGsdR0X+Ez+OC90yiJiVddoLNFFt2/AicDglc7ijAMq2kcUncbOgxDHWgsPgqVk+f9vICq+wpYvSuOsUAAAAASUVORK5CYII=" height="32"/>
+	</g>
+	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
+	</sodipodi:namedview>
+</svg>

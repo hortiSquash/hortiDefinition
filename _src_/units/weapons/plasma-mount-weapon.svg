@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 48 48" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
+	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M15,19.5 L19,15.5 L19,15 L20.5,15 L22.5,17 L26.5,17 L30,20.5 L30,25.5 L24.5,20 L23.5,21 L19,16.5 L19,22.5 L15,26.5 Z" fill="#b0bac0"/>
+		<path d="M19,23.5 L24,28.5 L24,35 L21.5,35 L19,32.5 Z" fill="#b0bac0"/>
+		<path d="M24,22.5 L30,28.5 L30,31.5 L28.5,33 L24,28.5 Z" fill="#6e7080"/>
+		<path d="M19,12 L22.5,12 L24.5,14 L26,14 L26,17 L22.5,17 L20.5,15 L19,15 Z" fill="#6e7080"/>
+		<path d="M19,9.5 L19.5,9 L23.5,9 L26,11.5 L26,14 L24.5,14 L22.5,12 L19,12 Z" fill="#b0bac0"/>
+		<path d="M19,16.5 L19,20.5 L24,25.5 L24,21.5 Z" fill="#84f491"/>
+		<path d="M23.5,21 L24.5,20 L30,25.5 L30,28.5 L24,22.5 L24,21.5 Z" fill="#989aa4"/>
+		<path d="M24,28.5 L28.5,33 L26.5,35 L24,35 Z" fill="#989aa4"/>
+		<path d="M15,15.5 L18.5,12 L19,12 L19,15.5 L15,19.5 Z" fill="#989aa4"/>
+		<path d="M18.5,23 L19,22.5 L19,20.5 L24,25.5 L24,28.5 Z" fill="#62ae7f"/>
+		<path d="M26,14 L26.5,14 L30,17.5 L30,20.5 L26.5,17 L26,17 Z" fill="#989aa4"/>
+	</g>
+	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
+		<image width="48" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABBElEQVR4Xu2WMQrCQBBFc1YPIN5ACy9gJ9bWYm3loewjgwyMLxtMtz/4H0yxZGf5b5NNMgzGGGOM+XB/PEcW50jD8KuTYPBVSZwv13G7O3zVagQifEugSrBHhgw/J5AV19nbnRo+Kneb4VNATqIVfk6izuU63WD44+s0EaklJ8GdD4GlElyrCwyXAkskuFYXGKwKpATvUhbX6gJDbW77iQTPibwAJerBlRaIcQpUCb5CJQXqmBKt74CUAMeUkP+YVeoj1RKQ/aVIqkBKUCAl2CsBBaIYPou9EjB8VOw2w69OoCXBXgkYvgpQgr0SMDwFUoJ9UvwS4HxJ5gQ4zxhjjDHG/DlvchNLmQ9BtCMAAAAASUVORK5CYII=" height="48"/>
+	</g>
+	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
+	</sodipodi:namedview>
+</svg>

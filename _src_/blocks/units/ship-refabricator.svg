@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 96 96" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
+	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M0,0 L96,0 L96,96 L0,96 Z" fill="#2e2f34"/>
+		<path d="M54.5,0 L96,0 L96,41.5 L92,37.5 L92,30.5 L88,26.5 L88,15.5 L80.5,8 L69.5,8 L65.5,4 L58.5,4 Z" fill="#989aa4"/>
+		<path d="M0,54.5 L4,58.5 L4,65.5 L8,69.5 L8,80.5 L15.5,88 L26.5,88 L30.5,92 L37.5,92 L41.5,96 L0,96 Z" fill="#4a4b53"/>
+		<path d="M8,69.5 L12,65.5 L12,58.5 L8.5,55 L11.5,55 L15,51.5 L15,54.5 L19,58.5 L19,65.5 L15,69.5 L15,75.5 L20.5,81 L26.5,81 L30.5,77 L37.5,77 L41.5,81 L44.5,81 L41,84.5 L41,87.5 L37.5,84 L30.5,84 L26.5,88 L16.5,88 L8,79.5 Z" fill="#989aa4"/>
+		<path d="M51.5,15 L55,11.5 L55,8.5 L58.5,12 L65.5,12 L69.5,8 L79.5,8 L88,16.5 L88,26.5 L84,30.5 L84,37.5 L87.5,41 L84.5,41 L81,44.5 L81,41.5 L77,37.5 L77,30.5 L81,26.5 L81,20.5 L75.5,15 L69.5,15 L65.5,19 L58.5,19 L54.5,15 Z" fill="#4a4b53"/>
+		<path d="M0.5,0 L41.5,0 L37.5,4 L30.5,4 L26.5,8 L15.5,8 L12,11.5 Z" fill="#989aa4"/>
+		<path d="M0,0.5 L11.5,12 L8,15.5 L8,26.5 L4,30.5 L4,37.5 L0,41.5 Z" fill="#4a4b53"/>
+		<path d="M84.5,84 L88,80.5 L88,69.5 L92,65.5 L92,58.5 L96,54.5 L96,95.5 Z" fill="#989aa4"/>
+		<path d="M54.5,96 L58.5,92 L65.5,92 L69.5,88 L80.5,88 L84,84.5 L95.5,96 Z" fill="#4a4b53"/>
+		<path d="M39,46.5 L46.5,39 L49.5,39 L57,46.5 L57,49.5 L49.5,57 L46.5,57 L39,49.5 Z" fill="#4a4b53"/>
+		<path d="M77,58.5 L81,54.5 L81,51.5 L84.5,55 L87.5,55 L84,58.5 L84,65.5 L88,69.5 L88,79.5 L84,83.5 L78.5,78 L81,75.5 L81,69.5 L77,65.5 Z" fill="#4a4b53"/>
+		<path d="M12.5,12 L16.5,8 L26.5,8 L30.5,12 L37.5,12 L41,8.5 L41,11.5 L44.5,15 L41.5,15 L37.5,19 L30.5,19 L26.5,15 L20.5,15 L18,17.5 Z" fill="#4a4b53"/>
+		<path d="M51.5,81 L54.5,81 L58.5,77 L65.5,77 L69.5,81 L75.5,81 L77.5,79 L78.5,79 L83.5,84 L79.5,88 L69.5,88 L65.5,84 L58.5,84 L55,87.5 L55,84.5 Z" fill="#989aa4"/>
+		<path d="M8,16.5 L12,12.5 L17,17.5 L17,18.5 L15,20.5 L15,26.5 L19,30.5 L19,37.5 L15,41.5 L15,44.5 L11.5,41 L8.5,41 L12,37.5 L12,30.5 L8,26.5 Z" fill="#989aa4"/>
+		<path d="M37.5,92 L41,88.5 L41,88 L55,88 L55,88.5 L58.5,92 L54.5,96 L41.5,96 Z" fill="#665c9f"/>
+		<path d="M0,41.5 L4,37.5 L7.5,41 L8,41 L8,55 L7.5,55 L4,58.5 L0,54.5 Z" fill="#665c9f"/>
+		<path d="M88,41 L88.5,41 L92,37.5 L96,41.5 L96,54.5 L92,58.5 L88.5,55 L88,55 Z" fill="#bf92f9"/>
+		<path d="M37.5,4 L41.5,0 L54.5,0 L58.5,4 L55,7.5 L55,8 L41,8 L41,7.5 Z" fill="#bf92f9"/>
+		<path d="M4,58.5 L7.5,55 L8.5,55 L12,58.5 L12,65.5 L8,69.5 L4,65.5 Z" fill="#6e7080"/>
+		<path d="M84,58.5 L87.5,55 L88.5,55 L92,58.5 L92,65.5 L88,69.5 L84,65.5 Z" fill="#6e7080"/>
+		<path d="M26.5,8 L30.5,4 L37.5,4 L41,7.5 L41,8.5 L37.5,12 L30.5,12 Z" fill="#6e7080"/>
+		<path d="M55,7.5 L58.5,4 L65.5,4 L69.5,8 L65.5,12 L58.5,12 L55,8.5 Z" fill="#6e7080"/>
+		<path d="M26.5,88 L30.5,84 L37.5,84 L41,87.5 L41,88.5 L37.5,92 L30.5,92 Z" fill="#6e7080"/>
+		<path d="M55,87.5 L58.5,84 L65.5,84 L69.5,88 L65.5,92 L58.5,92 L55,88.5 Z" fill="#6e7080"/>
+		<path d="M41,8 L55,8 L55,11.5 L51.5,15 L44.5,15 L41,11.5 Z" fill="#665c9f"/>
+		<path d="M4,30.5 L8,26.5 L12,30.5 L12,37.5 L8.5,41 L7.5,41 L4,37.5 Z" fill="#6e7080"/>
+		<path d="M84,30.5 L88,26.5 L92,30.5 L92,37.5 L88.5,41 L87.5,41 L84,37.5 Z" fill="#6e7080"/>
+		<path d="M8,41 L11.5,41 L15,44.5 L15,51.5 L11.5,55 L8,55 Z" fill="#bf92f9"/>
+		<path d="M81,44.5 L84.5,41 L88,41 L88,55 L84.5,55 L81,51.5 Z" fill="#665c9f"/>
+		<path d="M41,84.5 L44.5,81 L51.5,81 L55,84.5 L55,88 L41,88 Z" fill="#bf92f9"/>
+		<path d="M0,0 L0.5,0 L12,11.5 L15.5,8 L16.5,8 L12.5,12 L18,17.5 L17,18.5 L17,17.5 L12,12.5 L8,16.5 L8,15.5 L11.5,12 L0,0.5 Z" fill="#6e7080"/>
+		<path d="M77.5,79 L78.5,78 L84,83.5 L88,79.5 L88,80.5 L84.5,84 L96,95.5 L96,96 L95.5,96 L84,84.5 L80.5,88 L79.5,88 L83.5,84 L78.5,79 Z" fill="#6e7080"/>
+		<path d="M79.5,8 L80.5,8 L88,15.5 L88,16.5 Z" fill="#6e7080"/>
+		<path d="M8,79.5 L8,80.5 L15.5,88 L16.5,88 Z" fill="#6e7080"/>
+	</g>
+	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
+		<image width="96" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAE70lEQVR4Xu2bPXIdNxAGeSI50Smk0KlihS4fwWdQpFKiRPfwuRzJNa6CueyHnw8z2F2o3gQdcWeA7Y74+Pjyx59//fz67cfW/P3lHxfcsyMvHz7+/nPnCJQ6C/ftxn8Bdo1AmV64dyf+D7BbBEqMwv278CbAlRHsnB4UGIX7Ce93FQ8BrojAl29BiV64twXveQXVAGdG4EuPoMxZuG8E73s2zQBnRODLqlCqCveo8N5n0g0wimA/4/M9+KIqnz99d8E9Krx3D3ueXmYYBmgdMnvR464ZbIZiVbznzWJz9KMiBeAh3osedymU5ylWxXueB5unXAU5QDkketECX54cn6VYFe95XmwPBY+4LcAslDuC81cxG0EOcFy8ewTOXc1MBClAbeGuEfj8XdSc1RgG6C2qRXj32/smfFaFe1S4R4V7vDt77uQAHCDHCLxsDe4fwflZuG8E52twpgd9kXAAwyLwkj14RgvOeeHeFpzrwdkWdEWWBODlFHgO4fNRuJ/weQXuqEFXJByAl3o26IvQFwkF4GWeFTpT/WWARdCZ6i8DLILOVH8ZYBF0pvrLAIugM9VfBlgEnan+MsAi6Ez1NwxQPn7mUEZ4hc5m/TUDlGFlCS/1LNCZx181AIdHS54xAp15/T0E4BDhgmeMQGcRfxnAAZ1F/GUAB3QW8ZcBHNBZxF8GcEBnEX8ZwAGdRfxlAAd0FvGXARzQWcTfmwDluzUcag0/o/wCxSsRytfmqwH4BScOU/jd8vnS/PkV8A69CPzfhTcBKJ8RKHw3+btHoPxjhBdKJ7WhHeXvEmHkj0wHOEbgRc6Gsltw7mxa8lv+wgFKBF7kTCh5BOfPpCW/5y8cwOBFzoJyVbjnLOhM9fdLBKDUWbjvDOhM9bd9AMr0wr2roTPVXwZYBJ2p/jLAIuhM9ZcBFkFnqr/tAxiUOQv3nQGdqf5+iQAGpapwz1nQmeovFCB/EXvFzqO3kb9QgPwo4i3lXLpr+QsFyA/jHjmeP/JH8uPoILzDEenj6FY5/kGB4neLwJ9fAe9Qk9+KUNzlnySdUHhPPiMcveUf5R3QWcRfBnBAZxF/GcABnUX8ZQAHdBbxlwEc0FnEXwZwQGcRfxnAAZ1F/GUAB3QW8fcQoLeEw88ov0BnXn/VALUlHHxm+QU68/hrBjgu4VDKf4XOZv11AxgcSPmP0JnqLwMsgs5UfxlgEXSm+ssAi6Az1V8GWASdqf4ywCLoTPWXARZBZ6q/cICM0Jev+AsHMHgpBe4gfD4K9xM+r0BXNXgOWRLA4OV6cLYF57xwbwvO9bDfcOmqBs8gywIYvGQNzozg/CzcN4LzNcqzSgTuJ8MAo88yCC9bu/gs3KPCPSrc09vZi6C4GwZQF10Fv+BE+PwV1CKozqQAMwvPhLJbcO4KjhFmXMkBZhevhpJHcP4KlI+fyVSAlRHKZVscn6VcFe95Xjy7pgOsiMCXb1Gep1gV73kebN7jxxVg9pAjfOkRNkOxKt7zZrE5rx93gJlDCnxZFYpV4R4V3ruHPU8vM35CAWbhi6rwfxdUuEeF945g+yj9tgAGX3YEpc7CfSN43xXYXoq/LYDBl25BmV64twXvuRLbT/m3BTD48oQSo3A/4f3OwM7ZJsAICozC/XfBCNsGMCjRC/fezTHC1gEMypyF+3ahRNg+gEGpKtyzGxbhX3aXtrvDCHnFAAAAAElFTkSuQmCC" height="96"/>
+	</g>
+	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
+	</sodipodi:namedview>
+</svg>

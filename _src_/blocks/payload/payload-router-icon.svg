@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 96 96" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
+	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M0,0 L96,0 L96,96 L0,96 Z" fill="#4a4b53"/>
+		<path d="M1,0 L96,0 L96,95.5 L84.5,84 L88,80.5 L88,15.5 L80.5,8 L15.5,8 L12,11.5 L1,0.5 Z" fill="#b0bac0"/>
+		<path d="M0,0 L1,0 L1,1.5 L11.5,12 L8,15.5 L8,80.5 L15.5,88 L80.5,88 L84,84.5 L95.5,96 L0,96 Z" fill="#6e7080"/>
+		<path d="M34,26.5 L37.5,23 L39.5,23 L63,46.5 L63,49.5 L39.5,73 L37.5,73 L34,69.5 L34,67.5 L53.5,48 L34,28.5 Z" fill="#6e7080"/>
+		<path d="M55,26.5 L58.5,23 L60.5,23 L84,46.5 L84,49.5 L60.5,73 L58.5,73 L55,69.5 L55,67.5 L74.5,48 L55,28.5 Z" fill="#6e7080"/>
+		<path d="M13,26.5 L16.5,23 L17.5,23 L18,22.5 L42,46.5 L42,49.5 L18,73.5 L17.5,73 L16.5,73 L13,69.5 L13,67.5 L32.5,48 L13,28.5 Z" fill="#6e7080"/>
+		<path d="M8,73 L17.5,73 L23,78.5 L23,88 L16.5,88 L8,79.5 Z" fill="#b0bac0"/>
+		<path d="M73,8 L79.5,8 L88,16.5 L88,23 L78.5,23 L73,17.5 Z" fill="#6e7080"/>
+		<path d="M76,75.5 L78.5,73 L88,73 L88,79.5 L84,83.5 Z" fill="#6e7080"/>
+		<path d="M12.5,12 L16.5,8 L23,8 L23,17.5 L20,20.5 L20,19.5 Z" fill="#6e7080"/>
+		<path d="M73,78.5 L76,75.5 L76,76.5 L83.5,84 L79.5,88 L73,88 Z" fill="#b0bac0"/>
+		<path d="M8,16.5 L12,12.5 L20,20.5 L17.5,23 L8,23 Z" fill="#b0bac0"/>
+		<path d="M76,75.5 L76,76.5 L83.5,84 L79.5,88 L80.5,88 L84,84.5 L95.5,96 L96,96 L96,95.5 L84.5,84 L88,80.5 L88,79.5 L84,83.5 Z" fill="#989aa4"/>
+		<path d="M1,0.5 L1,1.5 L11.5,12 L8,15.5 L8,16.5 L12,12.5 L20,20.5 L20,19.5 L12.5,12 L16.5,8 L15.5,8 L12,11.5 Z" fill="#989aa4"/>
+		<path d="M79.5,8 L80.5,8 L88,15.5 L88,16.5 Z" fill="#989aa4"/>
+		<path d="M8,79.5 L8,80.5 L15.5,88 L16.5,88 Z" fill="#989aa4"/>
+	</g>
+	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
+		<image width="96" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAFR0lEQVR4Xu3dMa70xBaFUcYHIfNADIFhIGIGQEzEzECF1KhZv8+usl22r1sOVoQ/9/XZEmTvfffTz7/8/ceffz0u8l0b4Nfffv/mHzzO8e8AzwjX+W+AZ4Rr/G+AZ4TzfTPAM8K5Fgd4RjhPOcAzwjniAL0R2j/z+Xff//DjR/C7Ru8zojtA9SO94zd+yF35XVq6z6ihAfyRkeM3fshd+V1Lto4wPMDrR0aP3/ghd+V3VbaM8AwwwO9K1o4wPMDzr6Bxa0YYGmDphSMj+CF35XeNWLrZku4A6UW9EfyQu/K7RqXbDQ9goDSCH3JXftca3ku7B2iqEfyQu/K71vBWmjJA4wh+xN15l1HeSdMGaF4j+Md/Cm8zwhtp6gCNf/Sn8T493kdTB/CP/VTeKPFGmjaAf+Sn804V76TuAP6w1jw76i7vHOHBtWsAn+09P8L3fdV3jvLg2jyAz400Pb7nq75zDQ+uTQP4zBKbHvslNj32S2xm8+A6bICqrdhW7BLbit1MHlyHDlD1S+wS24pdYjuLB9emARqfS2wrdoltxS6xncGDa/MAjc8mthW7xLZil9ju5cG1a4DG5xPbil1iW7FLbPfw4No9QGOT2FbsEtuKXWK7lQfXlAEau8S2YpfYVuwS2y08uKYN0NgmthW7xLZil9iu5cE1dYDGPrGt2CW2FbvEdg0PrukDNL4jsa3YJbYVu8R2lAfXIQM0viexrdglthW7xHaEB9dhAzS+K7Gt2CW2FbvEtseD69ABGt+X2FbsEtuKXWKbeHAdPkDjOxPbil1iW7FLbCseXKcM0PjexLZil9hW7BLbJR5cpw3Q+O7EtmKX2FbsElt5cJ06QOP7E9uKXWJbsUts33lwnT5A428kthW7xLZil9i+eHBdMkDj7yS2FbvEtmKX2DYeXJcN0PhbiW3FLrGt2CW2HlyXDtD4exW7xLZil9hW7Dy4ngEG2VbsPLguHcDfSmwrdoltxS6x9eC6bAB/J7Gt2CW2FbvEtvHgumQAfyOxrdglthW7xPbFg+v0AXx/YluxS2wrdontOw+uUwfw3YltxS6xrdgltvLgOm0A35vYVuwS24pdYrvEg+uUAXxnYluxS2wrdoltxYPr8AF8X2JbsUtsK3aJbeLBdegAviuxrdglthW7xLbHg+uwAXxPYluxS2wrdontCA+uQwbwHYltxS6xrdgltqM8uKYPYJ/YVuwS24pdYruGB9fUAWwT24pdYluxS2zX8uCaNoBdYluxS2wrdontFh5cUwawSWwrdoltxS6x3cqDa/cAPp/YVuwS24pdYruHB9euAXw2sa3YJbYVu8R2Lw+uzQP4XGJbsUtsK3aJ7QweXJsG8JnEtmKX2FbsEttZPLgOHcAusa3YJbYVu5k8uA4bwKbHfolNj/0Sm9k8uDYN0PjcSNPje77qO9fw4No8QOOzvedH+L6v+s5RHly7BmjWPDvqLu8c4cHVHcCg4g9/Ou9U8U6aNkDjH/mpvFHijTR1gMY/9tN4nx7vo+kDNP7Rn6J9m/8LwT3eRocM0PjH3937t60ZwbvosAEaP+Ku/K5mdAQ7PQMM8LteRkawUXeAkf8Tgoofcld+17s0wsjtugOMvmiJH3JXfpeWRhi92dAAa174zg+5K79ryfsIa241PMDaFzd+yF35XZV2n7U3WjXA2hH8kLvyuyqnDLBmBD/krvyuJaf8K2jtCH7IXfldOuU/wkt6P+KH3JXf9W7p+KP3aXYN8OjrjfAMcII0wjPASaoRngFOtDTCM8DJHOEZ4ALvIzwDXOQ1wjPAhdoI/wAtxYcKmQpQ8wAAAABJRU5ErkJggg==" height="96"/>
+	</g>
+	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
+	</sodipodi:namedview>
+</svg>

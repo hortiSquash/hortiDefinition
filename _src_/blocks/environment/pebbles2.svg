@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
+	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M4,18.5 L6.5,16 L11.5,16 L15.5,20 L16.5,20 L17.5,21 L18.5,21 L20,22.5 L20,25.5 L18.5,27 L17.5,27 L16.5,28 L8.5,28 L6,25.5 L6,24.5 L4,22.5 Z" fill="#5e5d62"/>
+		<path d="M16,9.5 L19.5,6 L20.5,6 L21.5,5 L25.5,5 L28,7.5 L28,11.5 L26.5,13 L25.5,13 L24.5,14 L23.5,14 L22.5,15 L21.5,15 L20.5,16 L18.5,16 L16,13.5 Z" fill="#5e5d62"/>
+		<path d="M4,6.5 L6.5,4 L7.5,4 L8.5,3 L10.5,3 L13,5.5 L13,7.5 L12,8.5 L12,9.5 L9.5,12 L6.5,12 L4,9.5 Z" fill="#5e5d62"/>
+	</g>
+	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
+		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA/ElEQVR4XsWSOw7DIBQEfUh3UVKk4P43cESBROZ9MZCMNN1jd2X5OEApxXU7LKTbYSHdDgtfz/fV/OmAvriX9x63vppXnh3B+2p6CB9q8k2Dd5T3KnykyTeZr2a9FfAB5U86Ul5ln4AP6Ex5lX0CL5Tl3q0l+wRWMIutu0j2Cc7z8SULKQs8a17IjgF9XsjoAG8Es7YN4AhmuAMYpAVmwy37XAGLvfI7I5gt4AHLLFlkyXwBD1jkyTLLbQNGh1QFKwZkh6isHBCNUOGA2REsNYsb9YADZkYwP6Rf+vcBHMLwSGanYDmHsESTmcOweMSlMDzjUhiecTksiJzlA6cz6qj+HPfNAAAAAElFTkSuQmCC" height="32"/>
+	</g>
+	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
+	</sodipodi:namedview>
+</svg>
