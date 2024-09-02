@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
+	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#0000007b" fill-opacity="123"/>
+		<path d="M4,0 L10.5,0 L13,2.5 L13,4.5 L12.5,5 L7.5,5 L4,1.5 Z" fill="#0300007b" fill-opacity="123"/>
+		<path d="M19,2.5 L21.5,0 L28,0 L28,1.5 L24.5,5 L19.5,5 L19,4.5 Z" fill="#0300007b" fill-opacity="123"/>
+		<path d="M4,30.5 L7.5,27 L12.5,27 L13,27.5 L13,29.5 L10.5,32 L4,32 Z" fill="#0300007b" fill-opacity="123"/>
+		<path d="M19,27.5 L19.5,27 L24.5,27 L28,30.5 L28,32 L21.5,32 L19,29.5 Z" fill="#0300007b" fill-opacity="123"/>
+		<path d="M10.5,0 L21.5,0 L19,2.5 L19,3 L13,3 L13,2.5 Z" fill="#0200007b" fill-opacity="123"/>
+		<path d="M10.5,32 L13,29.5 L13,29 L19,29 L19,29.5 L21.5,32 Z" fill="#0200007b" fill-opacity="123"/>
+		<path d="M0,29 L1.5,29 L3.5,27 L7.5,27 L4,30.5 L4,32 L0,32 Z" fill="#0200007b" fill-opacity="123"/>
+		<path d="M24.5,27 L28.5,27 L30.5,29 L32,29 L32,32 L28,32 L28,30.5 Z" fill="#0200007b" fill-opacity="123"/>
+		<path d="M0,0 L4,0 L4,1.5 L7.5,5 L3.5,5 L1.5,3 L0,3 Z" fill="#0200007b" fill-opacity="123"/>
+		<path d="M24.5,5 L28,1.5 L28,0 L32,0 L32,3 L30.5,3 L28.5,5 Z" fill="#0200007b" fill-opacity="123"/>
+	</g>
+	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
+		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAMFBMVEVKS1NucICctmTO14oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7VeUvAAAAoklEQVR4Xq2Ruw3DMAxEj3TjUt7A8ATZf4pMIGiDuHSKSOFHouEuQHwFRRwp6YGkDQvQdgCUgBcYKtKQLBVDq8nNJkbWiJpzgdYyo1iLqaGO9C8ZAQTO2GAclwomP94z5sOy3tGiZVwJuGEo/8UI/W4MjDB8XKdB8U83UpDEowFygwi8yg4/T0wPmVotjPWEkiposyXLRPvBTr07CA0wo3LUL6YgKLjJRZkZAAAAAElFTkSuQmCC" height="32"/>
+	</g>
+	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
+	</sodipodi:namedview>
+</svg>

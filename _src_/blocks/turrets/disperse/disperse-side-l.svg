@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 128 128" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
+	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M89,89.5 L99,79.5 L99,70.5 L94,65.5 L94,60.5 L100,54.5 L100,50.5 L103,47.5 L117,61.5 L117,67.5 L113,71.5 L113,80 L111.5,80 L93,98.5 L89,94.5 Z" fill="#4a4b53"/>
+		<path d="M99,101.5 L113,87.5 L117,91.5 L117,98.5 L111,104.5 L111,108.5 L105.5,114 L99,114 Z" fill="#4a4b53"/>
+		<path d="M93,98.5 L111.5,80 L113,80 L113,87.5 L99,101.5 L99,114 L96.5,114 L93,110.5 Z" fill="#6e7080"/>
+	</g>
+	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
+		<image width="128" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAACrUlEQVR4Xu3YQYrcMBgF4T5fssw9hhwhN+/QAwJTSGrJY6Nnd33wNiFWL+rfJI+HJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEnSDT2fz+n9+v3n+Rr/fGQKw0DvVuLvPQKFYaDeGH/PESgMA/XG8HuOQGEYqDdG5/j3a1MYBuqNwWvjN5zCMFBvjN0av9tOYRioNUZ+N35fpjAMVBvjjo7veACBGIhj1NnxPYVhoCPjl3kAwRj96PhlHkAohj8jfpkHEIjxzzyA1/j7WozxPYAPw/gewIdhfA/gwzC+B/BhGP/sI+DvazGGP/sI+PtajNE5BvzJXu8pDIPXxpB7Vt5SGMZujUFntn1HYRi6NUYdHd9RGAZqjWFHx3cUhoFaY9jR8R2FYaDWGHZ0fEdhGKg1hh0d31EYBmqNYUfHdxSGgVpj2NHxHYVhoNYYdnR8R2EYqDWGHR3fURgGqo1RR/b199/3+JbCMBDHsCMr8T2AC2CgI+N7ABfAQEfG9wAugIGOjO8BXAADMezIGN0DuJAz43sAF3BmfA/gAs6MX/6uBxCMYUfG0LXxGw8gFEO9G0PXxm/KPIBAjNQbQ9fGbzj+vhZjoNYYujZ+Uxt/X4sxUG0MXRu/aY2/r8UYiGPo2vhNb/x9Ldb7ZyBD18Zv3o2/r8XKP88YiqFr4zcj4+9rse1/0pwd3wMItD2A1xi6NkadGX9fi80eAIPOzP8ICjRzAAw6s/K+woweAIPObPu+wpx9AHxfYRiI4X9yAHzbAwjEQAy/9wD4rgcQioEY3gO4OQZieA/g5hiI4T2Am2MghvcAbo6BGH7PAfBNDyAYAzH87AHwPU5hGKh1BAxdG9+pTWEYqHUEjM3x+9YUhoG2Gz0AftebJEmSJEmSJEmSJD0e/wEOPvVh9CC9iwAAAABJRU5ErkJggg==" height="128"/>
+	</g>
+	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
+	</sodipodi:namedview>
+</svg>
