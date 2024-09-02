@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 96 96" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
+	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M24,38.5 L38.5,24 L57.5,24 L72,38.5 L72,57.5 L57.5,72 L38.5,72 L24,57.5 Z" fill="#ffd6b8"/>
+		<path d="M35,45.5 L45.5,35 L50.5,35 L61,45.5 L61,50.5 L50.5,61 L45.5,61 L35,50.5 Z" fill="#ffffff"/>
+	</g>
+	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
+		<image width="96" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAABy0lEQVR4Xu3RUW7DIBQFUe9/RV1Jt5N+VYpGCYZnwH4wR5q/xnDpcUiSJEmSJEmSJEmSJEnSJK/fn1fP+H0V8PF6xXP0AR+tdzxPb/hYo+K5OuY9/n88f2t8nFnxHlvio8yO99kKH+OueK8t8BHujvdbGsc/Jd5zSRz9tHjfpXBsuG/4d8F47yVwZLgz/PtgvH9qHBeuFn8XjDtS4qhwrfj7YNyTDgeFiuJ3AnFPOhzU3FX8XmPckw4HNdULv9sQ96TDQdX1xu9Xxj3pcFBVo/CcirgnHQ46bTSedxL3pMNBxWbhuYW4Jx0OKjYLzy3EPelwULFZeG4h7kmHg4rNwnMLcU86HFRsFp5biHvS4aBis/DcQtyTDgedNhrPO4l70uGgqkbhORVxTzocVF1v/H5l3JMOBzXVC7/bEPekw0HNXcXvNcY96XBQqCh+JxD3pMNB4Vrx98G4JyWOCleLvwvGHalxXLgz/PtgvP8SODLcN/y7YLz3Ujj2afG+S+Lop8R7Lo3j74732wIf4a54r63wMWbH+2yJjzIr3mNrfJzR8Xwd8/4JPFdv+Fi943n6gI/WK56jAj7e1fh9SZIkSZIkSZIkSZIkSRrlD3X941fmTZGdAAAAAElFTkSuQmCC" height="96"/>
+	</g>
+	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
+	</sodipodi:namedview>
+</svg>

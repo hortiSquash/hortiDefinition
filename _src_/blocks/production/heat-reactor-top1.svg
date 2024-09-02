@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 96 96" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
+	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M85,63.5 L88,60.5 L88,59 L90.5,59 L96,53.5 L96,69.5 L89,76.5 L85,72.5 Z" fill="#feb380"/>
+		<path d="M85,23.5 L89,19.5 L96,26.5 L96,42.5 L90.5,37 L88,37 L88,35.5 L85,32.5 Z" fill="#feb380"/>
+		<path d="M61.5,25 L71.5,15 L82.5,15 L86,18.5 L84.5,20 L76.5,20 L76,19.5 L67,28.5 L63.5,25 Z" fill="#feb380"/>
+		<path d="M70.5,48 L74.5,44 L77.5,44 L80.5,41 L84,41 L84,55 L80.5,55 L77.5,52 L74.5,52 Z" fill="#feb380"/>
+		<path d="M84,41 L90,41 L90,55 L84,55 Z" fill="#ea8878"/>
+		<path d="M90,41 L91.5,41 L96,45.5 L96,50.5 L91.5,55 L90,55 Z" fill="#feb380"/>
+		<path d="M72.5,28 L82,28 L82,31.5 L80,33.5 L80,37 L75,37 L75,30.5 Z" fill="#feb380"/>
+		<path d="M72.5,68 L75,65.5 L75,59 L80,59 L80,62.5 L82,64.5 L82,68 Z" fill="#feb380"/>
+		<path d="M65.5,21 L71.5,15 L76,19.5 L70,25.5 Z" fill="#feb380"/>
+		<path d="M65.5,75 L70,70.5 L76,76.5 L71.5,81 Z" fill="#feb380"/>
+		<path d="M64.5,48 L68.5,44 L74.5,44 L70.5,48 L74.5,52 L68.5,52 Z" fill="#ea8878"/>
+		<path d="M80,59 L88,59 L88,60.5 L85,63.5 L85,68 L82,68 L82,64.5 L80,62.5 Z" fill="#ea8878"/>
+		<path d="M92,8.5 L96,4.5 L96,19.5 L92,15.5 Z" fill="#feb380"/>
+		<path d="M92,80.5 L96,76.5 L96,91.5 L92,87.5 Z" fill="#feb380"/>
+		<path d="M80,33.5 L82,31.5 L82,28 L85,28 L85,32.5 L88,35.5 L88,37 L80,37 Z" fill="#ea8878"/>
+		<path d="M69.5,65 L71,63.5 L71,55.5 L74.5,59 L75,59 L75,65.5 L72.5,68 Z" fill="#ea8878"/>
+		<path d="M69.5,31 L72.5,28 L75,30.5 L75,37 L74.5,37 L71,40.5 L71,32.5 Z" fill="#ea8878"/>
+		<path d="M75.5,15 L82.5,15 L86,18.5 L84.5,20 L80.5,20 Z" fill="#feb380"/>
+		<path d="M75.5,81 L80.5,76 L84.5,76 L86,77.5 L82.5,81 Z" fill="#feb380"/>
+		<path d="M61.5,71 L63.5,71 L67,67.5 L70,70.5 L65.5,75 Z" fill="#ea8878"/>
+		<path d="M61.5,25 L65.5,21 L70,25.5 L67,28.5 L63.5,25 Z" fill="#ea8878"/>
+		<path d="M71.5,15 L75.5,15 L80.5,20 L76.5,20 Z" fill="#ea8878"/>
+		<path d="M71.5,81 L76.5,76 L80.5,76 L75.5,81 Z" fill="#ea8878"/>
+	</g>
+	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
+		<image width="96" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAC1UlEQVR4Xu2VQW7DMAwE8+wee+x/+qs+oi0M2AA7lUTKkiMj3AH20ISUgtnCfjyEEEIIIbLx/fn+w8/Ek9jkq4BFHPJVwAKsfBWwABWwGBWwGBWwGBWwGBWwGBXQwSbo6+PtTyiwV+aZnZRYSVeWwO/E4/9/6ZUl8PP0UObVJfCz1FBiKZESeK4IQImlcCfCyG4aav/Js+SPnPHyeI+Ts+J4xshZLwuf56USuBOBZzCcTwnFl0rgThQKL4U7aaH8I5zrgbJr4V5aZsrfoOhWuJuWWfI3KLkV7gpg3wmtlN4hkfA+YeiR2jNrwzvFDt8LntjoHMN7xQ7le2KjcwzvFYZoAdG5UninMETEcqY1WwrvFIaIVM548wzvFIaIUM4wnGd4pzBEZHKG4TzDO4XBiuR3Z6B8FeAwU/6BCuhgtvwDFXADVMAk+EjhS5gvY+7av0UnlB8pQNInQfE9BaiEBhRXE1gL91r7vDs9lNaSVwt3vTP4G9JCYZ64WrjvncPfkRLK8qS1wjO8s/hbUkJZnrRWeIZ3Fn9LWijME1cL971z+DtSQ2mevFK4653B35AeivMEMtxr7fNu0QFl9hbA88QJKDVaAM8RA/QWwF37t3gipUIE2P5z+dkM9DgKcjw++PkIfGTxe2Gwz3B+dwbKVwEOtRepDWcYzjO8UxgiMjnDcJ7hncIQkckZb57hncIQEcqZ1mwpvFMYolKjc6XwTrFDqZ7Y6BzDe8UO5Xtio3MM7xWGHqk9sza8U4CoUBUwyCGPn5+Bklvhbkrsf++MEii5Fe6mg/JnlEDJtXAvFRRuMyqIokvhTkoo3sofEcUzGM6npiV/RBjPGDnr5WnJHxE344w0UFYp3IkwspsOCi/Fe2dI9iCU2Su/p4ToXDoo8yr50dmUPEN+dD4tV8uP7oiJqIDFqIDFqIDFqIDFqIDFqIDFqIAboAJugAq4ASpACCGEWMgvKsWowMQduFIAAAAASUVORK5CYII=" height="96"/>
+	</g>
+	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
+	</sodipodi:namedview>
+</svg>

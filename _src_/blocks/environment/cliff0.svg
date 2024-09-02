@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 64 64" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
+	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M14,42.5 L16.5,40 L18.5,40 L19.5,41 L20.5,41 L21.5,42 L24.5,42 L25.5,41 L27.5,41 L24,37.5 L24,36.5 L23,35.5 L23,33.5 L20.5,31 L19.5,31 L16.5,28 L18.5,26 L19.5,26 L20,25.5 L20,23.5 L21.5,22 L19.5,22 L18,20.5 L19,19.5 L19,18.5 L23.5,14 L24.5,14 L26.5,12 L27.5,12 L28.5,11 L33.5,11 L36.5,8 L38.5,8 L40.5,10 L42.5,10 L44,8.5 L46.5,11 L48.5,11 L50.5,13 L51.5,13 L52.5,14 L53.5,14 L54.5,15 L55.5,15 L57,16.5 L57,17.5 L59,19.5 L59,21.5 L60,22.5 L60,24.5 L61,25.5 L61,27.5 L62,28.5 L62,29.5 L63,30.5 L63,36.5 L62,37.5 L62,38.5 L60.5,40 L63,42.5 L63,45.5 L62,46.5 L62,47.5 L59.5,50 L57.5,50 L56,51.5 L56,52.5 L53.5,55 L51.5,55 L50.5,56 L44.5,56 L43.5,55 L42.5,55 L41.5,54 L39.5,54 L37.5,52 L28.5,52 L27.5,51 L25.5,51 L24.5,50 L22.5,50 L19.5,47 L18.5,47 Z" fill="#ffffff"/>
+		<path d="M10.5,35 L13.5,32 L15.5,32 L18.5,35 L14.5,39 Z" fill="#ffffff"/>
+	</g>
+	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
+		<image width="64" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABS0lEQVR4Xu3PQW7DMAwEwPz/0y18CCAMika2JWsVcI42xV2+XqWUUkopIX4a/vt67fFvf/1vv32N9ugevt+Gh4xgRiRLj2ZeFMvOZPZSlnuSXR5noVXs9QhLrGa/qQxPYMdpDE5i1ykMTWPfoQxLZOfhDExj32kMTmLX4QxMY9/hDExj3+EMTGTnIQxJZvfbDEhn/9sM2IE33GZAOvsPYUg6+w9jUCp7d+tZ0s6ksnMXlxyceXMujX0/ckHL2YMzaez7kQtazh6cSWPfLi45ONNyNoldu51Z0s4msedpZ5YYnsCO01lgJbvdcmZxO7uSvS5z8Vvv3Ep2PM2FO/Km01y4G++5xKU78ZbLXLwL77jF5ensP4xBqew9lGFp7DuFoSns+QhLPM0+S1luNvO34SFXuXcrHnOW+7bmcZ/4/mt4aMvZUkoppZT//AJlY37vgW7QwAAAAABJRU5ErkJggg==" height="64"/>
+	</g>
+	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
+	</sodipodi:namedview>
+</svg>

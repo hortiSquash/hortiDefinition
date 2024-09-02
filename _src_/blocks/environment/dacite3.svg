@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
+	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#9192a6"/>
+		<path d="M16,21.5 L20.5,17 L21.5,17 L22.5,16 L24.5,16 L28,19.5 L28,21.5 L27,22.5 L27,23.5 L24.5,26 L23.5,26 L22.5,27 L21.5,27 L20.5,28 L18.5,28 L16,25.5 Z" fill="#c1c4cb"/>
+		<path d="M4,22.5 L6.5,20 L9.5,20 L12,22.5 L12,25.5 L9.5,28 L6.5,28 L4,25.5 Z" fill="#c1c4cb"/>
+		<path d="M1,2.5 L2.5,1 L5.5,1 L8.5,4 L4,8.5 L1,5.5 Z" fill="#c1c4cb"/>
+	</g>
+	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
+		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAoUlEQVR4Xu2UQQqAIBBFvf+uDtE9gnYdqigQ8uWMFTpGuXgg+L/zFjKu64elJs4fxmkOYLAUuwCHW0qoAhYS7xZguATv+IQe6+EbgUANmkATaALfFbi6VbMLcKWnJLIKcChhfiObAIdJsCcKpIpaVoPdqABLUlnLSrB/EmCB3M1r3X8JsGcqwI4qoD3K3NP8kahA7FHekzvZI6KAFU2gusAKlZyDymlJeBMAAAAASUVORK5CYII=" height="32"/>
+	</g>
+	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
+	</sodipodi:namedview>
+</svg>
