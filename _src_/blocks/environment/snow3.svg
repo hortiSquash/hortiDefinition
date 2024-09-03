@@ -7,13 +7,13 @@
 		<path d="M19.5,14 L21.5,12 L29.5,12 L31.5,14 L29.5,16 L21.5,16 Z" fill="#ffffff"/>
 		<path d="M19.5,6 L21.5,4 L26.5,4 L28.5,6 L26.5,8 L21.5,8 Z" fill="#ffffff"/>
 		<path d="M23,28.5 L24.5,27 L27.5,27 L28.5,28 L29.5,28 L31,29.5 L29.5,31 L26.5,31 L25.5,30 L24.5,30 Z" fill="#ffffff"/>
-		<path d="M0,12.5 L1.5,11 L2.5,11 L1,12.5 L1,14.5 L2.5,16 L1.5,16 L0,14.5 Z" fill="#e1e9f0fe" fill-opacity="254"/>
-		<path d="M6.5,9 L7.5,8 L8.5,8 L7.5,9 Z" fill="#e1e9f0"/>
-		<path d="M4.5,10 L5.5,9 L6.5,9 L5.5,10 Z" fill="#e1e9f0"/>
-		<path d="M2.5,11 L3.5,10 L4.5,10 L3.5,11 Z" fill="#e1e9f0"/>
+		<path d="M0,12.5 L1.5,11 L2.5,11 L1,12.5 L1,14.5 L2.5,16 L1.5,16 L0,14.5 Z" fill="#e2eaf1" fill-opacity="254"/>
+		<path d="M6.5,9 L7.5,8 L8.5,8 L7.5,9 Z" fill="#e2eaf1" fill-opacity="254"/>
+		<path d="M4.5,10 L5.5,9 L6.5,9 L5.5,10 Z" fill="#e2eaf1" fill-opacity="254"/>
+		<path d="M2.5,11 L3.5,10 L4.5,10 L3.5,11 Z" fill="#e2eaf1" fill-opacity="254"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
-		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAwklEQVR4Xu2TQQrDMAwE8/9f5thbXtAWHQRlaltax3ZoycBAiW1pLt32x/G60o0fVnsHTAmowXvm8IAI3v+/ALMG75lRwJNDSOGNZC0gXPxJ4X1aBkiLHQ5V9ICuxQYHqlqAtJwDSmaQA7ikpkIqgAsiFTzAfnxFcLBiBr/Lf8Fy74DfDlDhe7Mr4AycJQWMgDNTAaPg3FSAAt9mHBLAN4qnAni3xzDAJDxvSXieCui1hd+ZGmC2sPPpAS7x78sCar4BcN0o5kB9e3wAAAAASUVORK5CYII=" height="32"/>
+		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAxUlEQVR4Xu2TSwoCMRAFc/9b6k5XegGVHmjQIp9+mSSiTEG5mCTdtTGdLrfnN038sNojYEpACd4zhwe04P3/CzBL8J5ZDThf7w8OIXyjmg2ILH6H7xU/AtTFDocqbgG9iw0OVE3qcg7IGUEO4JKSCqEALmipsAXYTy6CgxUj+N3s33ClR8BvB6jwvdkVsAfOkgJGwJmhgFFwbihAgW8jDgngG8VdAbzbYzPAJDyvSXgeCui1ht+ZGmDWsPPpAS7x78sCSr4AZ9wo/jWlEXYAAAAASUVORK5CYII=" height="32"/>
 	</g>
 	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>

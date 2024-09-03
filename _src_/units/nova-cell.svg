@@ -2,13 +2,14 @@
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
 		<path d="M23,38.5 L26.5,35 L29.5,35 L33,38.5 L33,41.5 L28,46.5 L23,41.5 Z" fill="#ffffff"/>
 		<path d="M23,41.5 L23,45.5 L28,50.5 L33,45.5 L33,41.5 L28,46.5 Z" fill="#dcc6c6"/>
+		<path d="M32,23.5 L32,27.5 L37,32.5 L37,28.5 Z" fill="#ffffff"/>
 		<path d="M21,26.5 L24,23.5 L24,27.5 L21,30.5 Z" fill="#ffffff"/>
 		<path d="M32,23.5 L35,26.5 L35,30.5 L32,27.5 Z" fill="#ffffff"/>
 		<path d="M19,28.5 L21,26.5 L21,30.5 L19,32.5 Z" fill="#dcc6c6"/>
 		<path d="M35,26.5 L37,28.5 L37,32.5 L35,30.5 Z" fill="#dcc6c6"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
-		<image width="56" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAYAAACohjseAAAA0klEQVR4Xu3XUQrCMBBF0e5/YV2Fe9HmIzBeEhIxQqbeA/5kZso8FNsehyRJkiRJkiRpmeeFZzTTs6Wy+Mzys31bqUvPLP5J7xYe5xl3Hi4de8ss61spC8aArPfEgFuHjAFZG0kVkOezvp3/uRXLrbiGpHflT7XeCgK25cVkFftSYihifyoM08O5NBikh3NpMEgP59JgkB7OpcFXp5bUj2Z8faLtH65HaoBWyFjjXBoxRAzJc86lwjD8sD+d6wvrhiy19EqIVsh6fiu3+VlK0t94Aa8ibPeyCntEAAAAAElFTkSuQmCC" height="56"/>
+		<image width="56" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAYAAACohjseAAAAxklEQVR4Xu3XQQrDMAwF0dz/YDlF79I2C4GYxtilLlhmHmRjSUF/Fec4JEmSJEmSJEnTPN94RiM9S7oWH1l+tG8psfTI4t/0LuFxnnnn7tK595plfSnXgjkg6y054NIhc0DWekoF5PmoX+f/bsZyM94h6VN8CgLrpTFcYF9JDEXsL4VhWjhXBoO0cK4MBmnhXBkM0sK5MvjrdKf01Yy/T7T85bonAtyFzDXOlZFD5JA851wpDMOH/SUx1FbhwtbhwtbhJGlLL3WtVQ+oX9cDAAAAAElFTkSuQmCC" height="56"/>
 	</g>
 	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>

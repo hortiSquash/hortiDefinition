@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 96 96" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
-		<path d="M0,0 L96,0 L96,96 L0,96 Z" fill="#4a4b53"/>
+		<path d="M0,0 L96,0 L96,96 L0,96 Z" fill="#2e2f34"/>
+		<path d="M0,7.5 L7.5,0 L88.5,0 L96,7.5 L96,88.5 L88.5,96 L7.5,96 L0,88.5 Z" fill="#2e2f34"/>
 		<path d="M0,0 L7.5,0 L0,7.5 Z" fill="#6e7080"/>
 		<path d="M88.5,0 L96,0 L96,7.5 Z" fill="#6e7080"/>
 		<path d="M0,88.5 L7.5,96 L0,96 Z" fill="#6e7080"/>
 		<path d="M88.5,96 L96,88.5 L96,96 Z" fill="#6e7080"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
-		<image width="96" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAABPklEQVR4Xu3dvU3EQBhF0a0PQvpAlEDni4TEyv72h2Tsm5zgJOOZ5N0CfPn8+r4+8/b+wQJz163LPDD+Mea+LwPMx6wxd34YYD5irbn3LsC8zDEeBpiXONYuwPzIOX4DzEPOJUBMgJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQMwvzUO3f8qLcL6/3W8BRDjPdvNdABGON/e+CyDCcebOTwOIsN7c998AIqwzd936AWses50AZWnOAAAAAElFTkSuQmCC" height="96"/>
+		<image width="96" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAABPklEQVR4Xu3dvU3EQBhF0a0IEupClEDni4TEyv72h2Tsm5zgJOOZ5N0CfPn8+r4+8/b+wQJz163LPDD+Mea+LwPMx6wxd34YYD5irbn3LsC8zDEeBpiXONYuwPzIOX4DzEPOJUBMgJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQEyAmAAxAWICxASICRATICZATICYADEBYgLEBIgJEBMgJkBMgJgAMQFiAsQEiAkQEyAmQMwvzUO3f8qLcL6/3W8BRDjPdvNdABGON/e+CyDCcebOTwOIsN7c998AIqwzd936AQv+nPmBRZTqAAAAAElFTkSuQmCC" height="96"/>
 	</g>
 	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>

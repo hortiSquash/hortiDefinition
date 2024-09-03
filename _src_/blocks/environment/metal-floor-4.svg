@@ -6,6 +6,8 @@
 		<path d="M0,4.5 L0,10.5 L5.5,16 L0,21.5 L0,27.5 L11.5,16 Z" fill="#60616b"/>
 		<path d="M20.5,16 L32,4.5 L32,10.5 L26.5,16 L32,21.5 L32,27.5 Z" fill="#60616b"/>
 		<path d="M4.5,32 L16,20.5 L27.5,32 L21.5,32 L16,26.5 L10.5,32 Z" fill="#60616b"/>
+		<path d="M26.5,16 L32,10.5 L32,21.5 Z" fill="#8b8f9f"/>
+		<path d="M10.5,32 L16,26.5 L21.5,32 Z" fill="#8b8f9f"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
 		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABFklEQVR4Xs2WMQ7CMBAE81SoeQoFT+CpIEfCSiZ7d75LJFxMY+9OtkAWy/P1/pDb/SFhzoI9r7/woCI50zMHVGTMRfmGOyAj5b2VI+GABqWU85z3HstokPII9hUttw7IFEZgT/HL9gHZogXzim1+N6AiONs9DKiKeK9gxxyQFfJcQX8f4F1SUoXerb+/A7y8agR99O4eIoYYzkKP8h1eQoZVaQT2Lc9hQKZswZ7Xn28AS17Zg33LM8+PkCEVrkAfvf9/iHiY+XglS+QAlhVXdOQAlhTsnOnO84eEIQU/ZsGeYjeAlwp+JIJ9xTqAhwrK+RGe894jHECpJee9lSPuAMoiKXNRvmEOoGREVunJASxHEsKe1/8Cw7H/0N/WL6QAAAAASUVORK5CYII=" height="32"/>

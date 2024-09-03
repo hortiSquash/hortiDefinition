@@ -1,12 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 36 26" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
 		<path d="M0,0 L36,0 L36,26 L0,26 Z" fill="#989aa4"/>
+		<path d="M11.5,1 L20.5,1 L26.5,7 L34.5,7 L36,8.5 L36,17.5 L34.5,19 L26.5,19 L20.5,25 L11.5,25 L21.5,15 L28.5,15 L30.5,13 L28.5,11 L21.5,11 Z" fill="#989aa4"/>
 		<path d="M0,0 L7.5,0 L20.5,13 L7.5,26 L0,26 L0,25.5 L7.5,18 L12.5,18 L16,14.5 L16,11.5 L12.5,8 L7.5,8 L0,0.5 Z" fill="#6e7080"/>
 		<path d="M14.5,7 L17.5,7 L21.5,11 L22.5,11 L24.5,13 L22.5,15 L21.5,15 L17.5,19 L14.5,19 L20.5,13 Z" fill="#565666"/>
 		<path d="M22.5,11 L28.5,11 L30.5,13 L28.5,15 L22.5,15 L24.5,13 Z" fill="#6e7080"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
-		<image width="36" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAaCAYAAADfcP5FAAAA7UlEQVR4Xt3XywrCMBCF4XnKPoIoRHHnBRdi6VpwJa59z9pTrLSHSYxpJxQH/o3YyecFqrLZnusvCcLcH8/okqe5mAFaLep9WB1ROqpboiA4KaubPaq/REFw9iheoiA4W5SygAFadijl4ijUcnUQtz7Jbl95d1DdCxh0Ka/i3FGKYtEWXMYIrlnwia9NKfgOhTJF8QOxWaGSQcgCNQqEfCjE37ku3tFvUtAUqP8GjcWgUSAfhp/3S8kgCwxKAllhUBDEnz03OSZ06+DDuaw3Vz5cKd/PD+Vwzg6DmRUGMysMJhaDzDEY5XAu6x/FF12o3bjJsMyhAAAAAElFTkSuQmCC" height="26"/>
+		<image width="36" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAaCAYAAADfcP5FAAAAzElEQVR4Xt2VTQrCQAxGe8oewWXxCB5DXHvPShaV+JxJMz9xBj94m5IvedBCl+162y2WX+f+eH5JEM6foeeLcyyhBEl1LPR8UfQSSpBcL4eed4dLKEGsbgo97woXDJdiebgUiyVS63p5w24Np0I5QqX4wEuUVLWQECHVJCTkpAR+cwfcoekq1EPqv4VaZYQmoZwM50qoFoqQEaqEomQEU4jvnnSXsX4dPE68/8OPY56wOFRGwjKPE6ubQs+7MpWMZCoZyVQyEh4nnI/OC6btM06UDW+uAAAAAElFTkSuQmCC" height="26"/>
 	</g>
 	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>

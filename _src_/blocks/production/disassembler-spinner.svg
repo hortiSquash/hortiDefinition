@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 96 96" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M64,40.5 L64.5,40 L68.5,40 L73.5,35 L76.5,35 L77,35.5 L77,60.5 L76.5,61 L73.5,61 L68.5,56 L64.5,56 L64,55.5 Z" fill="#b0bac0"/>
 		<path d="M19,35.5 L19.5,35 L22.5,35 L27.5,40 L31.5,40 L32,40.5 L32,55.5 L31.5,56 L27.5,56 L22.5,61 L19.5,61 L19,60.5 L19,52 L24.5,52 L28.5,48 L24.5,44 L19,44 Z" fill="#6e7080"/>
 		<path d="M64,40.5 L64.5,40 L68.5,40 L73.5,35 L76.5,35 L77,35.5 L77,44 L71.5,44 L67.5,48 L71.5,52 L77,52 L77,60.5 L76.5,61 L73.5,61 L68.5,56 L64.5,56 L64,55.5 Z" fill="#b0bac0"/>
 		<path d="M35,19.5 L35.5,19 L44,19 L44,25.5 L48,29.5 L52,25.5 L52,19 L60.5,19 L61,19.5 L61,22.5 L56,27.5 L56,31.5 L55.5,32 L40.5,32 L40,31.5 L40,27.5 L35,22.5 Z" fill="#b0bac0"/>

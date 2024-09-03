@@ -2,6 +2,7 @@
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
 		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#60616b"/>
 		<path d="M0,0 L6.5,0 L32,25.5 L32,32 L25.5,32 L0,6.5 Z" fill="#858999"/>
+		<path d="M0,6.5 L0,25.5 L6.5,32 L25.5,32 Z" fill="#60616b"/>
 		<path d="M25.5,0 L32,0 L32,6.5 Z" fill="#858999"/>
 		<path d="M0,25.5 L6.5,32 L0,32 Z" fill="#858999"/>
 	</g>

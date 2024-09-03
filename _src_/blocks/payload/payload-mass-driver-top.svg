@@ -22,7 +22,7 @@
 		<path d="M77,85.5 L81,81.5 L81,81.5 L95.5,96 L87.5,96 Z" fill="#4a4b53"/>
 		<path d="M65.5,22 L65.5,22 L71,16.5 L79.5,25 L74,30.5 Z" fill="#989aa4"/>
 		<path d="M16.5,71 L22,65.5 L22,65.5 L30.5,74 L30.5,74 L25,79.5 Z" fill="#4a4b53"/>
-		<path d="M38.5,35 L44.5,29 L51.5,29 L57.5,35 Z" fill="#00000001" fill-opacity="1"/>
+		<path d="M38.5,35 L44.5,29 L51.5,29 L57.5,35 Z" fill="#000000" fill-opacity="1"/>
 		<path d="M10.5,19 L14.5,15 L15,15 L15,15.5 L20.5,21 L20.5,21 L16.5,25 Z" fill="#d4816b"/>
 		<path d="M71,79.5 L75,75.5 L75,75.5 L80.5,81 L81,81 L81,81.5 L77,85.5 Z" fill="#d4816b"/>
 		<path d="M15,14.5 L19,10.5 L25,16.5 L21,20.5 L21,20.5 L15.5,15 L15,15 Z" fill="#ffd37f"/>
@@ -33,12 +33,12 @@
 		<path d="M70,69.5 L74,65.5 L74,65.5 L79.5,71 L75.5,75 L75,75 L75,74.5 Z" fill="#989aa4"/>
 		<path d="M0,0 L0.5,0 L15,14.5 L15,15 L14.5,15 L0,0.5 Z" fill="#6e7080"/>
 		<path d="M81,81 L81.5,81 L96,95.5 L96,96 L95.5,96 L81,81.5 Z" fill="#6e7080"/>
-		<path d="M31,22.5 L36.5,17 L37.5,17 L32,22.5 L32,23.5 Z" fill="#00000001" fill-opacity="1"/>
+		<path d="M31,22.5 L36.5,17 L37.5,17 L32,22.5 L32,23.5 Z" fill="#000000" fill-opacity="1"/>
 		<path d="M15,15 L15.5,15 L21,20.5 L21,21 L20.5,21 L15,15.5 Z" fill="#eab678"/>
-		<path d="M17,36.5 L22.5,31 L23.5,32 L22.5,32 L17,37.5 Z" fill="#00000001" fill-opacity="1"/>
+		<path d="M17,36.5 L22.5,31 L23.5,32 L22.5,32 L17,37.5 Z" fill="#000000" fill-opacity="1"/>
 		<path d="M75,75 L75.5,75 L81,80.5 L81,81 L80.5,81 L75,75.5 Z" fill="#eab678"/>
-		<path d="M58.5,79 L64.5,73 L65,73.5 L59.5,79 Z" fill="#00000001" fill-opacity="1"/>
-		<path d="M44.5,67 L44.5,67 L51.5,67 L51.5,67 Z" fill="#00000001" fill-opacity="1"/>
+		<path d="M58.5,79 L64.5,73 L65,73.5 L59.5,79 Z" fill="#000000" fill-opacity="1"/>
+		<path d="M44.5,67 L44.5,67 L51.5,67 L51.5,67 Z" fill="#000000" fill-opacity="1"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
 		<image width="96" style="image-rendering:pixelated" href="data:image/png;base64,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" height="96"/>

@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
-		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#321d1a7b" fill-opacity="123"/>
-		<path d="M14,23.5 L15.5,22 L16.5,22 L17.5,21 L18.5,21 L19.5,20 L24.5,20 L27,22.5 L27,25.5 L26,26.5 L26,27.5 L24.5,29 L19.5,29 L18.5,28 L15.5,28 L14,26.5 Z" fill="#472d227b" fill-opacity="123"/>
-		<path d="M8,6.5 L10,4.5 L10,3.5 L11.5,2 L13.5,2 L14.5,1 L16.5,1 L19,3.5 L19,7.5 L14.5,12 L10.5,12 L9,10.5 L9,9.5 L8,8.5 Z" fill="#472d227b" fill-opacity="123"/>
+		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#321d1a"/>
+		<path d="M14,23.5 L15.5,22 L16.5,22 L17.5,21 L18.5,21 L19.5,20 L24.5,20 L27,22.5 L27,25.5 L26,26.5 L26,27.5 L24.5,29 L19.5,29 L18.5,28 L15.5,28 L14,26.5 Z" fill="#472d22"/>
+		<path d="M8,6.5 L10,4.5 L10,3.5 L11.5,2 L13.5,2 L14.5,1 L16.5,1 L19,3.5 L19,7.5 L14.5,12 L10.5,12 L9,10.5 L9,9.5 L8,8.5 Z" fill="#472d22"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
-		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAjklEQVR4Xu3TOw6EMAxF0awDiYaexptg/zuiQEJRLrZjAuKjSLeacd6pSDIOt5b4k9YyT1v8y8gH9t08nmk5AKejxqMAR68EuPgvgPdaKiC6wUujMMAzOwsQGDxwc4D2OuDWAbcXA5Uf+RmA04YRA7jIiicBgFuHFa86YK9LCJAKg09iQF7NurQAlX0fWAEU5cSVyTuVbgAAAABJRU5ErkJggg==" height="32"/>
+		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAApklEQVR4Xu3UTQ5FQBBFYeuQmJib2IT9r4jUoEVO6L79g5AafJP3lHtGunno1zd1/EG1TOOO/+XICjiOEp9VyQEcPMMbxTcCOHSFd4pkAEdieKv4TwDvVMkAwzHi8zmqA/hsLinAcLjFuJED7uIBHuAB/wrgh0r5YDUJ4OAZ3gRVARxJ4b0pDuDLFXyH8YDHAngfFAcYjsTwNqgKII6mxk3TgBIesAFoF8DRNBfLugAAAABJRU5ErkJggg==" height="32"/>
 	</g>
 	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>

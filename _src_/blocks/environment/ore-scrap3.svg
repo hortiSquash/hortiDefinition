@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M4,8.5 L8.5,4 L26.5,4 L28,5.5 L28,15.5 L26.5,17 L25.5,17 L25,17.5 L25,18.5 L23.5,20 L25.5,20 L28,22.5 L28,26.5 L25.5,29 L19.5,29 L18,27.5 L18,24.5 L22.5,20 L11.5,20 L7,24.5 L4,21.5 Z" fill="#9b928b"/>
 		<path d="M4,12.5 L5.5,11 L6.5,11 L10,7.5 L12,9.5 L12,10.5 L14,12.5 L15.5,11 L16.5,11 L17,10.5 L17,9.5 L18,8.5 L18,7.5 L19,6.5 L19,5.5 L20.5,4 L26.5,4 L28,5.5 L28,11.5 L26.5,13 L25.5,13 L24.5,14 L23.5,14 L22.5,15 L21.5,15 L20.5,16 L11.5,16 L10.5,17 L9.5,17 L8.5,18 L7.5,18 L6.5,19 L5.5,19 L4,20.5 Z" fill="#9b928b"/>
 		<path d="M4,20.5 L5.5,19 L6.5,19 L7.5,18 L8.5,18 L9.5,17 L10.5,17 L11.5,16 L20.5,16 L21.5,15 L22.5,15 L23.5,14 L24.5,14 L25.5,13 L26.5,13 L28,11.5 L28,15.5 L26.5,17 L25.5,17 L25,17.5 L25,18.5 L23.5,20 L11.5,20 L7,24.5 L4,21.5 Z" fill="#666666"/>
 		<path d="M4,8.5 L8.5,4 L20.5,4 L19,5.5 L19,6.5 L18,7.5 L18,8.5 L17,9.5 L17,10.5 L16.5,11 L15.5,11 L14,12.5 L12,10.5 L12,9.5 L10,7.5 L6.5,11 L5.5,11 L4,12.5 Z" fill="#e0b28d"/>
@@ -7,7 +8,7 @@
 		<path d="M19.5,23 L22.5,20 L25.5,20 L28,22.5 L28,26 L25.5,26 L24.5,25 L22.5,25 L21.5,24 L20.5,24 Z" fill="#9b928b"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
-		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABJklEQVR4Xu2WMQ6CQBBFvac9N7AzsTbGEG0ptaaw8Qoew5uokIC7b2aXHVnQwuI1w85/32DCLsqyXLhstocop/rqwf16vfS4nVcePC8GFJJ/gckLVMedx/2yf1h47cQQPjGYUN5CX7AAw1OgTIM+tQCDU6AoBH3iT8NgN5xz7cwQ5gIM4HPtTAxTAS7PVoBL5BNxx2ABLuSkKIrvFGjEHbMWcMWzFqA0WoADhqUGp5D6MZpEbPkaZhN3mAswYAzm+wADXFIuINX7c85X2c65LwaUunJDAcr7EtwXA62E5QqmSD24LwJZwnIHbM5TSLgvAgkvpXzuyl0onqxAg1YgVIa7IozkKODCXRGmEZN3UBRA7InBGBRhT+hHiEFuhl6hGOTm5ws8AfsNYrHNlCeUAAAAAElFTkSuQmCC" height="32"/>
+		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA0UlEQVR4Xu2RMQ6EMAwEeW0+c6Kh5Rf3In4CShEJje04BCs0GWmbi71jccsymTgc//V8kn37mWG3C8u9UKiFDhOWt4QyLfSosLglFFmhS8Diezl/12a80CfwivmuzdRCn8Arptyas0KfoKWwR1xCn4ALkUkpfXNAFpfQJ+Dym9zFQw+gNOwAlj0NXSqUDhMXIsUldFSJFOew34UFvWX8G/luQmmE/PURfK9BKcN5kx55nqeQ4U4Y/GoUDz/AOoZ7YVBqhXthUKSFO+FQOFQ+6eUC8E+ncayktb8AAAAASUVORK5CYII=" height="32"/>
 	</g>
 	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>

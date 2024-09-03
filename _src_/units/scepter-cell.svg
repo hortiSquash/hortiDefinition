@@ -1,22 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 128 128" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
 		<path d="M54,72.5 L57.5,76 L61.5,72 L66.5,72 L70.5,76 L74,72.5 L74,76.5 L70,80.5 L70,84.5 L64,90.5 L58,84.5 L58,80.5 L54,76.5 Z" fill="#ffffff"/>
+		<path d="M104,64.5 L111,71.5 L111,85.5 L104,92.5 Z" fill="#ffffff"/>
 		<path d="M17,71.5 L24,64.5 L24,87.5 L17,80.5 Z" fill="#ffffff"/>
 		<path d="M104,64.5 L111,71.5 L111,80.5 L104,87.5 Z" fill="#ffffff"/>
 		<path d="M58,84.5 L64,90.5 L70,84.5 L70,91.5 L65.5,96 L62.5,96 L58,91.5 Z" fill="#dbc5c5"/>
+		<path d="M57.5,60 L64,53.5 L70.5,60 L67.5,63 L60.5,63 Z" fill="#dbc5c5"/>
 		<path d="M57.5,60 L60,57.5 L62.5,60 L65.5,60 L68,57.5 L70.5,60 L67.5,63 L60.5,63 Z" fill="#dbc5c5"/>
 		<path d="M17,80.5 L17,85.5 L24,92.5 L24,87.5 Z" fill="#dbc5c5"/>
 		<path d="M104,87.5 L111,80.5 L111,85.5 L104,92.5 Z" fill="#dbc5c5"/>
+		<path d="M102,50.5 L105,47.5 L110.5,53 L107.5,56 Z" fill="#ffffff"/>
 		<path d="M60,57.5 L64,53.5 L68,57.5 L65.5,60 L62.5,60 Z" fill="#ffffff"/>
 		<path d="M20,50.5 L23,47.5 L26,50.5 L23,53.5 Z" fill="#ffffff"/>
 		<path d="M102,50.5 L105,47.5 L108,50.5 L105,53.5 Z" fill="#ffffff"/>
 		<path d="M54,76.5 L58,80.5 L58,84.5 L54,80.5 Z" fill="#dbc5c5"/>
 		<path d="M70,80.5 L74,76.5 L74,80.5 L70,84.5 Z" fill="#dbc5c5"/>
-		<path d="M105,53.5 L108,50.5 L110.5,53 L107.5,56 Z" fill="#dbc5c5"/>
 		<path d="M17.5,53 L20,50.5 L23,53.5 L20.5,56 Z" fill="#dbc5c5"/>
+		<path d="M105,53.5 L108,50.5 L110.5,53 L107.5,56 Z" fill="#dbc5c5"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
-		<image width="128" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAC20lEQVR4Xu3aAW7iMBRF0e5/X13FLIZiFEfmEkNK8fdP5h7pSQM48bOdaTvqfH1JkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJkqTTuCz4vn7nkPtYSx+yfCKH3EeWrjhOz3H/Ko5L5d/396WEOE77cB/r/nJcCrUcHwKO0+/w8NM+BCyYsuRBcV/T7m36gnCkr1KH2dv0BRf18I/2EPA9vYGHX3GcToiHThyvE6nfQ3sO8T1W7+FP0cTPeb0Ojgf8KrxeJ8BD7oXX6UR42AzHS5J2u/5Afcv1y2n9N/f6XkRG43wBKdbX6ZWSzeHflY/IaJwvINXtdXo4/LV4VEbjfAFZlb1Nry284IKGZjTOF5A77JMKyy64oKEZjfMF5AE7pcCSDS5oaEbjfAHZxF5TsRxwQUMzGucLSBe7TcNiwAUNzR6XDo7bUoYFp4vdpmEx4IKGpu3UVFyV95/h+KJ9v/wxOF1tx6lYDLigoWGnpub63itb1zSvo9PV9pyKxYALGpqtTny9B69p7hudrtppOhYDLigqn8b7R6WL5zANiwEXFJLyq91PWe71MEdQungO07AYcEEhqb/f/6vmPg9zBKWL5zANiwEXFJL2P3m8C/d4mCMoXTyHaVgMuKCQtIf3zkOwcf3DHEHp4jlM82KDuaCQ1F6feADKvS4bcwRlU+2VwotN5oJCsrNbV3v4xWVjjqA8YLfpnv1N49gZtnq9kmWDt3qlfgC42Rw7y12pHXj9LG0n7jPHTsNi7UPAsbPwwXwm0+a2nRiOnYrl6oZz3Cx8MHuybW7bKe3hVyyZqWjbqSd772zdNmUty17Ez3n9LFl7dV1L3pXm57NwI0t6h5+4Nz/Op5RcknkjX4bXz9J0uu1rerXokowbuSu8fpalz7qn+gMeci+8TifCw2Y4XifEQ/fw/0MeviRJkiRJkiRJkiRJkiRJkiRJkiRJkiRJOooflf1zrkIxmJYAAAAASUVORK5CYII=" height="128"/>
+		<image width="128" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAACgklEQVR4Xu3aUU4jMRBFUfa/L1Yxi2HUEjWqXHU7cUCucs89kj/oPIenckNAyceHJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEmSJEm6ja9vvK45W84xSm9ZvpEt58jSgTmNcX6BuVb+fH5+HYuY02s4x5gvcy1EOd4EzGkOD7/tTcCCLUtuinNtO9v2BWGn31LbzLZ9wW9x+LvdBLymN/DwA3O6IR46Ma8bidfQK1u8xuo9/Cua+Dj3a3M84GeL+3UDPOSrxX26ER42F/OSpLccf13zmuZsO8P494rXNWfLOUbp7Yo3tN0sc+FtSje21TxZ9sCM5nCeB2ZaYMnAnOZwnoG5UiyXMas5nGfGbBkWy5jtgB0Dcx2wY8ZsGRbLmF3l6nuzHzF/uLq+AvtlzJZhsYzZVc6+f+41crYnX1sp9yJmy7BYxuwq7JC/fgX3PD77OrkDMVuGxTJmV2GPn+Lzr8IeGbNlWCxjdpXjrd3fUvk2MbtkzJZhsYzZVeL9/Z+q/pwA+2TMlmGxjNlV8oc83tXhgyLslDFbhsUyZlfhJ31mcT+ffxX2ypgtMxowsyv91g3A512JvUJ1rwejITO72qjbSIfDP7DXoUu3f0Y/acxWOOv1TJcBn/VqfQNw2MxWeSj1Au6vkjtxzsyWYbF8EzBbhTfmSKfh5k5czJZiuRg4c1V4Y17pNtzcqe3hB5bsVDR3utK9d7dup7qWZS/i49xfpWuvoY6FOch8E/B61958rLVupXnAzxb3V+nWZ0qn4jzgZ4v7q3Tqsj0e8tXiPt0ID5uLed0QD93D/w95+JIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkaRd/AcBMHOZojRHuAAAAAElFTkSuQmCC" height="128"/>
 	</g>
 	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>

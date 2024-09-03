@@ -1,12 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
-		<path d="M12,13.5 L12.5,14 L16,10.5 L20,14.5 L20,18.5 L17.5,16 L14.5,16 L12,18.5 Z" fill="#ffffff8a" fill-opacity="138"/>
-		<path d="M12,10 L12.5,10 L16,6.5 L19.5,10 L20,10 L20,14.5 L16,10.5 L12.5,14 L12,13.5 Z" fill="#ffffffc9" fill-opacity="201"/>
-		<path d="M12,7.5 L16,3.5 L20,7.5 L20,10 L19.5,10 L16,6.5 L12.5,10 L12,10 Z" fill="#ffffffee" fill-opacity="238"/>
-		<path d="M8,17.5 L12,13.5 L12,18.5 L8,22.5 Z" fill="#ffffff52" fill-opacity="82"/>
-		<path d="M20,14.5 L20.5,14 L24,17.5 L24,22.5 L20,18.5 Z" fill="#ffffff52" fill-opacity="82"/>
-		<path d="M20,10 L20.5,10 L24,13.5 L24,17.5 L20.5,14 L20,14.5 Z" fill="#ffffff8a" fill-opacity="138"/>
-		<path d="M8,13.5 L11.5,10 L12,10 L12,13.5 L8,17.5 Z" fill="#ffffff8a" fill-opacity="138"/>
+		<path d="M8,13.5 L11.5,10 L12,10 L12,7.5 L16,3.5 L20,7.5 L20,10 L20.5,10 L24,13.5 L24,22.5 L17.5,16 L14.5,16 L8,22.5 Z" fill="#ffffff" fill-opacity="138"/>
+		<path d="M12,13.5 L12.5,14 L16,10.5 L20,14.5 L20,18.5 L17.5,16 L14.5,16 L12,18.5 Z" fill="#ffffff" fill-opacity="138"/>
+		<path d="M12,10 L12.5,10 L16,6.5 L19.5,10 L20,10 L20,14.5 L16,10.5 L12.5,14 L12,13.5 Z" fill="#ffffff" fill-opacity="201"/>
+		<path d="M12,7.5 L16,3.5 L20,7.5 L20,10 L19.5,10 L16,6.5 L12.5,10 L12,10 Z" fill="#ffffff" fill-opacity="238"/>
+		<path d="M8,17.5 L12,13.5 L12,18.5 L8,22.5 Z" fill="#ffffff" fill-opacity="82"/>
+		<path d="M20,14.5 L20.5,14 L24,17.5 L24,22.5 L20,18.5 Z" fill="#ffffff" fill-opacity="82"/>
+		<path d="M20,10 L20.5,10 L24,13.5 L24,17.5 L20.5,14 L20,14.5 Z" fill="#ffffff" fill-opacity="138"/>
+		<path d="M8,13.5 L11.5,10 L12,10 L12,13.5 L8,17.5 Z" fill="#ffffff" fill-opacity="138"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
 		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAApklEQVR4Xu2O0Q3DIAwFmTFjsVmW6QqkrWhELnZaG0Q/4pP4Mfa9l1IQdFBKebwe51P4hP+lBMOnlkDoWt+8EkL4oQT3h6OE7yW4P5RnQBZC+TLvhlDDWUCd8b6LJqgNa2finB4XShBn6h99ZiBcGCC8ww59ZiD+tcC+R58ZSFWxUOC9yz0zEF5KhQILd8xYhdb9r3hknhsVr8h7d6JH0nMbBEFwHzZp0EQNRPsHZwAAAABJRU5ErkJggg==" height="32"/>

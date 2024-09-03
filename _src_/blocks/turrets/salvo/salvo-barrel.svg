@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 64 64" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
+	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M23.5,18 L24,17.5 L24,10.5 L30.5,4 L32,4 L32,11.5 L28,15.5 L28,17.5 L32,21.5 L32,25 L30.5,25 Z" fill="#8f665b"/>
+		<path d="M32,4 L33.5,4 L40,10.5 L40,17.5 L40.5,18 L33.5,25 L32,25 L32,21.5 L36,17.5 L36,15.5 L32,11.5 Z" fill="#c8a58f"/>
+		<path d="M32,36 L33.5,36 L44,25.5 L46,27.5 L46,31.5 L35.5,42 L32,38.5 Z" fill="#c8a58f"/>
+		<path d="M18,27.5 L20,25.5 L30.5,36 L32,36 L32,38.5 L28.5,42 L18,31.5 Z" fill="#8f665b"/>
+		<path d="M32,33.5 L36,29.5 L36,22.5 L40.5,18 L45,22.5 L45,24.5 L33.5,36 L32,36 Z" fill="#8aa3f4"/>
+		<path d="M19,22.5 L23.5,18 L28,22.5 L28,29.5 L32,33.5 L32,36 L30.5,36 L19,24.5 Z" fill="#6874c4"/>
+		<path d="M32,38.5 L35.5,42 L46,31.5 L46,36.5 L33.5,49 L32,49 Z" fill="#8aa3f4"/>
+		<path d="M18,31.5 L18,36.5 L30.5,49 L32,49 L32,38.5 L28.5,42 Z" fill="#6874c4"/>
+		<path d="M18,36.5 L18,41.5 L30.5,54 L32,54 L32,49 L30.5,49 Z" fill="#c0c3d4"/>
+		<path d="M32,49 L33.5,49 L46,36.5 L46,41.5 L33.5,54 L32,54 Z" fill="#f4f4f4"/>
+		<path d="M18,41.5 L18,45.5 L30.5,58 L32,58 L32,54 L30.5,54 Z" fill="#8f665b"/>
+		<path d="M32,54 L33.5,54 L46,41.5 L46,45.5 L33.5,58 L32,58 Z" fill="#c8a58f"/>
+		<path d="M28,22.5 L30.5,25 L32,25 L32,33.5 L28,29.5 Z" fill="#8aa3f4"/>
+		<path d="M32,25 L33.5,25 L36,22.5 L36,29.5 L32,33.5 Z" fill="#6874c4"/>
+		<path d="M28,15.5 L32,11.5 L32,21.5 L28,17.5 Z" fill="#c8a58f"/>
+		<path d="M32,11.5 L36,15.5 L36,17.5 L32,21.5 Z" fill="#8f665b"/>
+	</g>
+	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
+		<image width="64" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACAklEQVR4Xu2UQWoDMQxFc8/uSw/QU3STQ5Teo9AueoAeJfsWFQTmxbbkgRJJ8Ye/GGuQeW9CTqednZ2dG+T8+PAj/Xo7/5Xz0lH4VsDdSGjhKaC8BML3BJSVQPCZgHISCO0RUEYCgVlCs9yXLgRmCcxyX7oQmPCWBO5LF0Lzy/OZ5b50IThhR+dlBRDQmnNfuliA1pz70sUCtObclypPz59XgIQcnWtfXi85JQi8lgJaWD4TXsv9odPCWxI88KkkENwjgSV4GgkE7tUSQOBeeW+YELZXARgJ0LlV3hsmhO1VISiA81l5b6gQmCWMNWd5X6joVyXUDNCat9VfC+8NEf65EWwEaM0JH1YCBYwkEMya9+DTCOhJIJw1J3g6AZaE0fkMPp2AmQQ+e+BDChAIQrM9CUfg5R3ef/MoFKHZnoRV+NACViUcgQ8vYEXCEfgUAjwSpATtlfAhBbx/fF8J8EggLEtw6eUSVMARCQT2wIcWsCJBzgWK4BZ8eAEeCXqmcCvwKQTMJLTPLaQXPqQAAaOAkYSRgF4JLhVRvP/m0Z82BVgSCOyBDy1gVQKhPfDhBaxIILgHPqQAyREJZeA1qxJKwWtWJJSD13gkSAldAl7jkUDwMvAaS0JpeM1MQnl4zUjCXcBrKEFK8LLwGksA3y+ZkQC+VzoUwPnOzs7Ozs7/5xfA5U/1VSFTGAAAAABJRU5ErkJggg==" height="64"/>
+	</g>
+	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
+	</sodipodi:namedview>
+</svg>

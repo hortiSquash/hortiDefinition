@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
-		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#321d1a7b" fill-opacity="123"/>
-		<path d="M4,7.5 L5.5,6 L14.5,6 L16,7.5 L16,8.5 L17,9.5 L17,14.5 L15.5,16 L12.5,16 L11.5,15 L10.5,15 L8.5,13 L7.5,13 L6.5,12 L5.5,12 L4,10.5 Z" fill="#472d227b" fill-opacity="123"/>
-		<path d="M19,20.5 L20.5,19 L23.5,19 L24.5,18 L27.5,18 L29,19.5 L29,22.5 L27.5,24 L26.5,24 L24.5,26 L21.5,26 L19,23.5 Z" fill="#472d227b" fill-opacity="123"/>
+		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#321d1a"/>
+		<path d="M4,7.5 L5.5,6 L14.5,6 L16,7.5 L16,8.5 L17,9.5 L17,14.5 L15.5,16 L12.5,16 L11.5,15 L10.5,15 L8.5,13 L7.5,13 L6.5,12 L5.5,12 L4,10.5 Z" fill="#472d22"/>
+		<path d="M19,20.5 L20.5,19 L23.5,19 L24.5,18 L27.5,18 L29,19.5 L29,22.5 L27.5,24 L26.5,24 L24.5,26 L21.5,26 L19,23.5 Z" fill="#472d22"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
-		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAhklEQVR4Xu3SQQqAIBBGYc8RtGnfZi7R/W/UQgjy5Yw5JgnCW4X9H2RB1uXTAh+1bQJm3YFj35T4vtkN4CLjhN7/gLdGX0DKDK4opUCMo42BGKcbA5IxeEzJAGLV61IIeBoHyH1GF8D7p1EPcHQCSRzlungAeTJ4xgVI/u+88gJmEzAbHzgBdhbAt+vRMwwAAAAASUVORK5CYII=" height="32"/>
+		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAlklEQVR4Xu3ROwqAMBBFUdch2NjbuAn3vyJlikC4JiajY/wwxWkkw7tgNw/9+qSOH1rzAA9IBizTWIV3Z+wCOFLCe63vB1yNeF+A4EAJ7zWSAQGHcnincRgQcJD4XqMqQHC0eUBgOS7UAdb+H1D6ZeYBHEyJ35sGcCgnvvGA5gG8MQ0QHMwNB+YBonZc3BKg4QEe8HjABvLIvPMJyw7HAAAAAElFTkSuQmCC" height="32"/>
 	</g>
 	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>

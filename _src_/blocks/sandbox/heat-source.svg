@@ -1,13 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
 		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#6e7080"/>
+		<path d="M5,12.5 L12.5,5 L19.5,5 L27,12.5 L27,19.5 L19.5,27 L12.5,27 L5,19.5 Z" fill="#6e7080"/>
 		<path d="M8,0 L24,0 L24,1.5 L20,5.5 L19.5,5 L12.5,5 L12,5.5 L8,1.5 Z" fill="#989aa4"/>
-		<path d="M26.5,12 L30.5,8 L32,8 L32,24 L30.5,24 L26.5,20 L27,19.5 L27,12.5 Z" fill="#989aa4"/>
 		<path d="M0,8 L1.5,8 L5.5,12 L5,12.5 L5,19.5 L5.5,20 L1.5,24 L0,24 Z" fill="#4a4b53"/>
+		<path d="M26.5,12 L30.5,8 L32,8 L32,24 L30.5,24 L26.5,20 L27,19.5 L27,12.5 Z" fill="#989aa4"/>
 		<path d="M8,30.5 L12,26.5 L12.5,27 L19.5,27 L20,26.5 L24,30.5 L24,32 L8,32 Z" fill="#4a4b53"/>
 		<path d="M11.5,11 L14.5,8 L17.5,8 L24,14.5 L24,17.5 L21,20.5 L18.5,18 L20.5,16 L16,11.5 L14,13.5 Z" fill="#4a4b53"/>
 		<path d="M8,14.5 L11,11.5 L13.5,14 L11.5,16 L16,20.5 L18,18.5 L20.5,21 L17.5,24 L14.5,24 L8,17.5 Z" fill="#989aa4"/>
 		<path d="M0,0 L8,0 L8,1.5 L8.5,2 L2,8.5 L1.5,8 L0,8 Z" fill="#6e7080"/>
+		<path d="M23.5,2 L24,1.5 L24,0 L32,0 L32,8 L30.5,8 L30,8.5 Z" fill="#6e7080"/>
 		<path d="M0,24 L1.5,24 L2,23.5 L8.5,30 L8,30.5 L8,32 L0,32 Z" fill="#6e7080"/>
 		<path d="M23.5,30 L30,23.5 L30.5,24 L32,24 L32,32 L24,32 L24,30.5 Z" fill="#6e7080"/>
 		<path d="M20,5.5 L23.5,2 L30,8.5 L26.5,12 Z" fill="#ffd37f"/>

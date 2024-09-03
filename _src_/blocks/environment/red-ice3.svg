@@ -2,7 +2,10 @@
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
 		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#ffefe9"/>
 		<path d="M0,26.5 L26.5,0 L32,0 L32,14.5 L14.5,32 L0,32 Z" fill="#f6d4ca"/>
+		<path d="M0,14.5 L14.5,0 L26.5,0 L0,26.5 Z" fill="#ffefe9"/>
+		<path d="M14.5,32 L32,14.5 L32,26.5 L26.5,32 Z" fill="#ffefe9"/>
 		<path d="M0,0 L14.5,0 L0,14.5 Z" fill="#f6d4ca"/>
+		<path d="M7,25.5 L14.5,18 L18.5,18 L19,18.5 L19,22.5 L11.5,30 L7.5,30 L7,29.5 Z" fill="#ffefe9"/>
 		<path d="M26.5,32 L32,26.5 L32,32 Z" fill="#f6d4ca"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">

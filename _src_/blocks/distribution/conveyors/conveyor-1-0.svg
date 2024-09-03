@@ -1,12 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
 		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#4a4b53"/>
+		<path d="M4,0 L28,0 L28,1.5 L30.5,4 L32,4 L32,28 L24,28 L24,23.5 L28,19.5 L28,12.5 L24.5,9 L25.5,8 L26.5,8 L28.5,6 L26.5,4 L21.5,4 L17.5,8 L14.5,8 L10.5,4 L4,4 Z" fill="#4a4b53"/>
 		<path d="M0,0 L4,0 L4,21.5 L10.5,28 L32,28 L32,32 L8.5,32 L0,23.5 Z" fill="#989aa4"/>
 		<path d="M4,4 L10.5,4 L14.5,8 L17.5,8 L21.5,4 L26.5,4 L28.5,6 L26.5,8 L25.5,8 L24.5,9 L28,12.5 L28,19.5 L24,23.5 L24,28 L20,28 L20,21.5 L24,17.5 L24,14.5 L21.5,12 L12.5,12 L8.5,8 L4,8 Z" fill="#6e7080"/>
 		<path d="M28,0 L32,0 L32,4 L30.5,4 L28,1.5 Z" fill="#989aa4"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
-		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAyElEQVR4Xu3OsQ1CMQxF0cwHJXsgRkCZAlGzZ5A7eLEj27H9CyhuAz9+pz2er/HZ6XxJDfca/oAPosO9cgB1OIASAdfbXQyPSOG71XsTQDqiGZfemwHcEe0499YF4A7h/1z4hgXgB9rjq/CeGbCLwFsuQBbCBMhAmAHacFxCpAEoHC8HUH/AbwNwvBSAw6UAHJXGqXAAjq7GqQmwi8Dh1TjFAnYQlnGqjRGLcAEiEWZA7z0U4QJEItwADSKjL8ARiAlQjZjGqxFvNCbfLp+moN0AAAAASUVORK5CYII=" height="32"/>
+		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAzElEQVR4Xu2OsQ0CMQwAMx+U7IEYgTEQNXuC3CD+3o7i2A4FWLrmP/Zdu90fz08Ox1Mp9DV+4EI29C0PEL4eIJgB58vVhEcsuNfbdwVYR0bk1r47QDsyKtd2pwK0Q/yvwR01gA9Gj/fgPXdANIK3pgKqIlwBFRHugFEotyLKAgTKlwcI/4DfDqB8aQDFSwMoteRCegClPbmwC4hGUNyTC2pAJMIjF5oM5ZGIqYDMiOmArIhQQEZEOECG8krofg8fVkHvZvi4Ajp3w4VsXog8kl04p7yyAAAAAElFTkSuQmCC" height="32"/>
 	</g>
 	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>

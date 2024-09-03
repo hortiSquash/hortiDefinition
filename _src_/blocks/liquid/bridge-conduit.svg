@@ -6,6 +6,7 @@
 		<path d="M0.5,0 L11.5,0 L16,4.5 L20.5,0 L32,0 L32,11.5 L27.5,16 L32,20.5 L32,31.5 L27.5,27 L28,26.5 L28,24.5 L24,20.5 L24,11.5 L28,7.5 L28,5.5 L26.5,4 L24.5,4 L20.5,8 L11.5,8 L7.5,4 L5.5,4 L5,4.5 Z" fill="#b0bac0"/>
 		<path d="M11.5,14 L13.5,12 L16.5,12 L20,15.5 L20,18.5 L18,20.5 Z" fill="#ffffff"/>
 		<path d="M0,11.5 L4.5,16 L0,20.5 Z" fill="#b0bac0"/>
+		<path d="M27.5,16 L32,11.5 L32,20.5 Z" fill="#989aa4"/>
 		<path d="M11.5,32 L16,27.5 L20.5,32 Z" fill="#b0bac0"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">

@@ -1,9 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
-		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#0000007b" fill-opacity="123"/>
+		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#60616b"/>
+		<path d="M0,7 L1.5,7 L3,5.5 L3,3.5 L6.5,0 L27.5,0 L30,2.5 L30,4.5 L32,6.5 L32,25.5 L29.5,23 L27.5,23 L24.5,20 L20.5,20 L20,19.5 L20,13.5 L15.5,9 L13.5,9 L9,4.5 L5,8.5 L5,11.5 L11.5,18 L13.5,18 L18,22.5 L18,24.5 L25.5,32 L6.5,32 L0,25.5 Z" fill="#60616b"/>
+		<path d="M5,8.5 L9,4.5 L13.5,9 L15.5,9 L20,13.5 L20,19.5 L20.5,20 L24.5,20 L27.5,23 L29.5,23 L32,25.5 L32,32 L25.5,32 L18,24.5 L18,22.5 L13.5,18 L11.5,18 L5,11.5 Z" fill="#858999"/>
+		<path d="M0,0 L6.5,0 L3,3.5 L3,5.5 L1.5,7 L0,7 Z" fill="#858999"/>
+		<path d="M0,25.5 L6.5,32 L0,32 Z" fill="#858999"/>
+		<path d="M27.5,0 L32,0 L32,6.5 L30,4.5 L30,2.5 Z" fill="#858999"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
-		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAMFBMVEWFiZlgYWtgYWtgYWtgYWtgYWtgYWtgYWtgYWtgYWtgYWtgYWtgYWtgYWtgYWtgYWvHrAOSAAAAlklEQVR4Xl2R3RHAIAiDIdcB7P5D6gaWPwHLi0fuE2JkInopaxKIuHoaKowmsAgdkMLdhjCrH5ARm1YKDNm5RMqSK9oVEkN3jskth0nhjCnrgSjh3gNR4TJvM/rzTOiIb2mIC1yhHR/JPHGyhsCjOVVEraRgm9Y/wm3fcNUqIV6EzCrsouJ0BBWnI2iJG4KWuCGoNB35AMRyG2LiaACkAAAAAElFTkSuQmCC" height="32"/>
+		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA4ElEQVR4XtXXMQ4CMQwF0RwVas5BwRE4LchIkZbBsU0cB1G8Zkn2T7m06+3+0JzOlxLcaXxQOd6ZATxcRQ3goUr/E2D9lvUWwB/7AS8wq/FBx/GqCDWAo8TzGVMBK2PSAdmIJQGZCDVAcCCC74gYBggORPAdHjNAcMDD+x43QHDEwrueUIDg0AjvecIBgmMa3vF8FXDE4e0BguPbAwQDNLxzlA4QHNTwTrckQHBQwztia4AW87OAHrEsQHAg4vVNyBdlcMBjfpTO4ojF/SyfxaGR0r9mfLfmI2B3hBqwM+IJxUFFUmB/hC0AAAAASUVORK5CYII=" height="32"/>
 	</g>
 	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>

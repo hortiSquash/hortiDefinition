@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 64 64" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
 		<path d="M0,0 L64,0 L64,64 L0,64 Z" fill="#2f2d39"/>
+		<path d="M0,9.5 L9.5,0 L54.5,0 L64,9.5 L64,54.5 L54.5,64 L9.5,64 L0,54.5 Z" fill="#2f2d39"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
 		<image width="64" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAA5ElEQVR4Xu2bMQrDMBAE/aGQOv9/WAIBgTUII7u7m12YZpEEO7V9HBt5vz7finDHo/DRanDPrfCxqnDXVvhIdbjvMrzcBe5chpe6wb1TeLgr3P0PD3VHPX6gHj+IABY2IoCFjQhgYSMCWNiIABY2IoCFjQhgYSMCWNiIABY2IoCFjQhgYSMCWNiIABY2IoCFjQhgYSMCWNiIABY2IoCFjQhgYSMCWNiIABY2IoCFjQgwfzF+/mVAJ2EaP8JDXeHuKTzcDe5dhpe6wJ2X4eXqcN9W+EhVuOtW+Fg1uOdR+GgVuGOVHzALJVnFQjxsAAAAAElFTkSuQmCC" height="64"/>

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
 		<path d="M8,10.5 L10.5,8 L21.5,8 L24,10.5 L24,21.5 L21.5,24 L10.5,24 L8,21.5 Z" fill="#ffffff"/>
-		<path d="M8,9.5 L9.5,8 L10.5,8 L8,10.5 Z" fill="#ffffff70" fill-opacity="112"/>
-		<path d="M21.5,8 L22.5,8 L24,9.5 L24,10.5 Z" fill="#ffffff70" fill-opacity="112"/>
-		<path d="M8,21.5 L8,22.5 L9.5,24 L10.5,24 Z" fill="#ffffff70" fill-opacity="112"/>
-		<path d="M21.5,24 L24,21.5 L24,22.5 L22.5,24 Z" fill="#ffffff70" fill-opacity="112"/>
+		<path d="M8,9.5 L9.5,8 L10.5,8 L8,10.5 Z" fill="#ffffff" fill-opacity="112"/>
+		<path d="M21.5,8 L22.5,8 L24,9.5 L24,10.5 Z" fill="#ffffff" fill-opacity="112"/>
+		<path d="M8,21.5 L8,22.5 L9.5,24 L10.5,24 Z" fill="#ffffff" fill-opacity="112"/>
+		<path d="M21.5,24 L24,21.5 L24,22.5 L22.5,24 Z" fill="#ffffff" fill-opacity="112"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
 		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAbklEQVR4Xu3VMQ7AMAzDwDw5/19UeOUUtgUKFLoH0Nq8VlXVgSQ73mbnlgmxLDwfwaLFnsagxZ7GoMWexqDFnsagxZ7GoMWexqDFnsagxZ7GoMWexqDFnsagxZ7GoMWelq+f0ZgQywfeOV5Vv3cBKKfnxtHjk3IAAAAASUVORK5CYII=" height="32"/>

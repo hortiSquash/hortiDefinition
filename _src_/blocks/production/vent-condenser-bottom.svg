@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 96 96" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
 		<path d="M0,0 L96,0 L96,96 L0,96 Z" fill="#2f2d39"/>
+		<path d="M15.5,30 L30,15.5 L37.5,23 L58.5,23 L66,15.5 L80.5,30 L73,37.5 L73,58.5 L80.5,66 L66,80.5 L58.5,73 L37.5,73 L30,80.5 L15.5,66 L23,58.5 L23,37.5 Z" fill="#2f2d39"/>
 		<path d="M25,79.5 L27,77.5 L30,80.5 L37.5,73 L58.5,73 L66,80.5 L69,77.5 L71,79.5 L65,85.5 L65,87.5 L59.5,82 L56.5,82 L53.5,79 L42.5,79 L39.5,82 L36.5,82 L31,87.5 L31,85.5 Z" fill="#989aa4"/>
 		<path d="M8.5,31 L10.5,31 L16.5,25 L18.5,27 L15.5,30 L23,37.5 L23,58.5 L15.5,66 L18.5,69 L16.5,71 L10.5,65 L8.5,65 L14,59.5 L14,56.5 L17,53.5 L17,42.5 L14,39.5 L14,36.5 Z" fill="#989aa4"/>
 		<path d="M73,37.5 L80.5,30 L77.5,27 L79.5,25 L85.5,31 L87.5,31 L82,36.5 L82,39.5 L79,42.5 L79,53.5 L82,56.5 L82,59.5 L87.5,65 L85.5,65 L79.5,71 L77.5,69 L80.5,66 L73,58.5 Z" fill="#4a4b53"/>

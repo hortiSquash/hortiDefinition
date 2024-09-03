@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 140 140" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M56,106.5 L66,96.5 L66,92.5 L70,88.5 L74,92.5 L74,96.5 L84,106.5 L84,109.5 L77,116.5 L77,126.5 L70,133.5 L63,126.5 L63,116.5 L56,109.5 Z" fill="#ffffff"/>
 		<path d="M60,102.5 L66,96.5 L66,92.5 L70,88.5 L74,92.5 L74,96.5 L80,102.5 L80,104.5 L77,107.5 L77,116.5 L70,123.5 L63,116.5 L63,107.5 L60,104.5 Z" fill="#ffffff"/>
+		<path d="M86,97.5 L92.5,91 L102,100.5 L102,104.5 L91,115.5 L86,110.5 Z" fill="#ffffff"/>
+		<path d="M79,51.5 L80,50.5 L85,55.5 L85,58.5 L96,69.5 L96,73.5 L94.5,75 L90.5,75 L79,63.5 Z" fill="#ffffff"/>
 		<path d="M42,96.5 L47.5,91 L54,97.5 L54,110.5 L52,112.5 L46,106.5 L46,103.5 L42,99.5 Z" fill="#ffffff"/>
 		<path d="M86,97.5 L92.5,91 L98,96.5 L98,99.5 L94,103.5 L94,106.5 L88,112.5 L86,110.5 Z" fill="#ffffff"/>
 		<path d="M63,116.5 L70,123.5 L77,116.5 L77,126.5 L70,133.5 L63,126.5 Z" fill="#dcc6c6"/>
@@ -12,9 +15,11 @@
 		<path d="M44,69.5 L55,58.5 L55,55.5 L60,50.5 L61,51.5 L61,55 L59.5,55 L55,59.5 L55,62.5 L47,70.5 L47,75 L45.5,75 L44,73.5 Z" fill="#dcc6c6"/>
 		<path d="M56,106.5 L60,102.5 L60,104.5 L63,107.5 L63,116.5 L56,109.5 Z" fill="#dcc6c6"/>
 		<path d="M77,107.5 L80,104.5 L80,102.5 L84,106.5 L84,109.5 L77,116.5 Z" fill="#dcc6c6"/>
+		<path d="M64.5,77 L67,74.5 L70,77.5 L73,74.5 L75.5,77 L70,82.5 Z" fill="#ffffff"/>
+		<path d="M79,78.5 L79.5,78 L81.5,78 L86,82.5 L86,87.5 L79,80.5 Z" fill="#ffffff"/>
 		<path d="M66.5,79 L69,76.5 L70,77.5 L71,76.5 L73.5,79 L70,82.5 Z" fill="#ffffff"/>
-		<path d="M57,79.5 L58.5,78 L60.5,78 L61,78.5 L61,80.5 L57,84.5 Z" fill="#ffffff"/>
 		<path d="M79,78.5 L79.5,78 L81.5,78 L83,79.5 L83,84.5 L79,80.5 Z" fill="#ffffff"/>
+		<path d="M57,79.5 L58.5,78 L60.5,78 L61,78.5 L61,80.5 L57,84.5 Z" fill="#ffffff"/>
 		<path d="M54,82.5 L57,79.5 L57,84.5 L54,87.5 Z" fill="#dcc6c6"/>
 		<path d="M83,79.5 L86,82.5 L86,87.5 L83,84.5 Z" fill="#dcc6c6"/>
 		<path d="M64.5,77 L67,74.5 L69,76.5 L66.5,79 Z" fill="#dcc6c6"/>

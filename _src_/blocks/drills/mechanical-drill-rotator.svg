@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 64 64" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
+		<path d="M44,27.5 L47.5,24 L56.5,24 L60,27.5 L60,36.5 L56.5,40 L47.5,40 L44,36.5 Z" fill="#c9a58f"/>
 		<path d="M24,14.5 L26.5,12 L37.5,12 L40,14.5 L40,16.5 L36.5,20 L27.5,20 L24,16.5 Z" fill="#c9a58f"/>
 		<path d="M12,26.5 L14.5,24 L16.5,24 L20,27.5 L20,36.5 L16.5,40 L14.5,40 L12,37.5 Z" fill="#8f665b"/>
 		<path d="M44,27.5 L47.5,24 L49.5,24 L52,26.5 L52,37.5 L49.5,40 L47.5,40 L44,36.5 Z" fill="#c9a58f"/>
@@ -14,7 +15,7 @@
 		<path d="M28,10.5 L30.5,8 L33.5,8 L36,10.5 L36,12 L28,12 Z" fill="#8f665b"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
-		<image width="64" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAB8klEQVR4Xu3YUU7DMBBF0e6Tf8RO+Owq2EB2waqglYgUTqax3bpBE3yl+9XMi98Ikaan02AwGOzE9P72VaNz6bmUqi6/0Ji8BOWqNCcllmrVvHRYaPb8+vJLPz/0Aiy/tQTz0mEhS6vXm5cOC1lYvd68dMxFPj/OTR5qAZar9RALsFSr5qXDQq2alw4LtWpeSixVqzlpuZS5ZwnG5CcoGercYDAY/Am+mCxdvsA4txfLf5yeb6lzRabCb3i+wf1ozNO4PiJ9cpSWcO1UTTBcKr/rX4LFa5dgTohDamk1rzcWVs+r5q1wYHa+gYXVvN5YWOdzeP6HFhDd4Jbm9cbCujyLPe5awNYNIs3rjedRz2Mf81Y4ULqBmtcbz6Oexz7mrXCgdAM1rzeeRz2Pfcxb4UDpBmpebzyPeh77mLfCAZfgDdS83lhYt8rfvYDlEiys5vXGwrpV/qEFzFpYzeuNhdXzqnkhDtUuwJxnYenaBZhzk+m/vwzNBCHhEpzbi9ryzg0Gg8GfEDw5Qp1Lz/URackKjclLUK5Kc1JiqVbNS4eFWjUvHRZq1bx0+LW5xUN8jY3eHWo8zPd4X0x8g1OvNy8dFrKwer156bDQ1hK87rALiJbg54dfQK3mpcRStZqTlqnwG+MNjclPUDLUucFgMHgW3wktqnSEa7EoAAAAAElFTkSuQmCC" height="64"/>
+		<image width="64" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAB2UlEQVR4Xu3Xy23DMBBFUfeZfZBOsnQVaSBdpKpkRUA5+pC0KRlDzAXuyppHvlnY1u2WJElyEd+fH78tOjcFlqzpfGgs16o5IbFUr+aFw0LF+/vbP/186gVY/mgJ5oXDQpZWnzcvHBaysPq8eeEoRX6+7l1OtQDLtTrFAizVq3nhsFCv5oXDQr2aFxJLtWpOaCxX0/kpsOSeziVJkrwEX0yWLl9gnLuK5Ren91vqXBOG7JV/1RL85Ri6BIdr5a9egsWHLsEhtbSaNxoLq/dV81Y4UCwHWFjNG42FtdzD+z+1gK0D9jRvNBbW5V3s8dACjg7Y0rzReB/1PvYxb4UDtQPUvNF4H/U+9jFvhQO1A9S80Xgf9T72MW+FA7UD1LzReB/1PvYxb4UDLsED1LzRWFiPyj+8gOUSLKzmjcbCelT+qQUULazmjcbC6n3VvE0cal2AOWdh6dYFmHOIw7UlOH82Fh9avmDI3hKcu4pTyydJkozGX449nZsCS9Z0PjSWa9WckFiqV/PCYaFezQuHhXo1Lxz+be5xir+xW+8OLU7zP94XE9/g1OfNC4eFLKw+b144LHS0BJ+bdgFbS/Dz6RfQqnkhsVSr5oTGcjWdnwJL7ulckiTJWfwB9cKQOC4KoCcAAAAASUVORK5CYII=" height="64"/>
 	</g>
 	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>

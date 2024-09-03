@@ -2,6 +2,9 @@
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
 		<path d="M0,0 L32,0 L32,32 L0,32 Z" fill="#6e7080"/>
 		<path d="M8,11.5 L11.5,8 L20.5,8 L24,11.5 L24,20.5 L20.5,24 L17.5,21 L13.5,21 L11,18.5 L11,14.5 Z" fill="#989aa4"/>
+		<path d="M4.5,24 L4.5,24 L8,20.5 L8,11.5 L11,14.5 L11,18.5 L13.5,21 L17.5,21 L20.5,24 L11.5,24 L8,27.5 L8,27.5 Z" fill="#6e7080"/>
+		<path d="M0,8 L4,8 L4,24 L0,24 Z" fill="#6e7080"/>
+		<path d="M28,8 L32,8 L32,24 L28,24 Z" fill="#6e7080"/>
 		<path d="M8,4 L24,4 L24,4.5 L20.5,8 L11.5,8 L8,4.5 Z" fill="#4a4b53"/>
 		<path d="M4,8 L4.5,8 L8,11.5 L8,20.5 L4.5,24 L4,24 Z" fill="#4a4b53"/>
 		<path d="M24,11.5 L27.5,8 L28,8 L28,24 L27.5,24 L24,20.5 Z" fill="#4a4b53"/>
@@ -10,8 +13,11 @@
 		<path d="M24,27.5 L27.5,24 L32,24 L32,27.5 L27.5,32 L24,32 Z" fill="#989aa4"/>
 		<path d="M0,4.5 L4.5,0 L8,0 L8,4.5 L4.5,8 L0,8 Z" fill="#989aa4"/>
 		<path d="M24,0 L27.5,0 L32,4.5 L32,8 L27.5,8 L24,4.5 Z" fill="#989aa4"/>
+		<path d="M4.5,8 L4.5,8 L8,4.5 L8,4.5 L11.5,8 L8,11.5 L8,11.5 Z" fill="#6e7080"/>
+		<path d="M20.5,8 L24,4.5 L24,4.5 L27.5,8 L27.5,8 L24,11.5 Z" fill="#6e7080"/>
 		<path d="M20.5,24 L20.5,24 L24,20.5 L27.5,24 L27.5,24 L24,27.5 L24,27.5 Z" fill="#6e7080"/>
 		<path d="M0,0 L4.5,0 L0,4.5 Z" fill="#6e7080"/>
+		<path d="M27.5,32 L32,27.5 L32,32 Z" fill="#6e7080"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
 		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABEElEQVR4Xu2Wuw3CMBQAPR+U7IEYgTEiavYEOZIj+3hfRxFNimvs5/MREUS5P56fnuX1HuB+Fs9XrGHpQBb66NwCOCQNz0AfvWsAN6XBWeiju3CRXK63XdBHzID2KSiNEnkKagAfJeUePE+/GcDD2QiesyKG17BdwjVLIMFzllsMkAZ5iQfPa141oB+mPIrlDAVUKM1CH+9zA+oapRkkXzpgT4TmSwfMRli+M+AMSAfMRHi+dEA2wvOZAdyz4MWViFMN4HoE6fKG5hUDuJZBurwhuf//h4QLWgQv8eB5+t2APoLyKN7lbkCF0iz0kfVLyMUePsos9NG9vQXcPDqg7Q+vIYeOCuj3f34HrOEZPN8XQ/LCGN+Wn3oAAAAASUVORK5CYII=" height="32"/>
