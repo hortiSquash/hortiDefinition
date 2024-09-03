@@ -57,7 +57,7 @@ render 128 icon.svg icon.png &
 cd _src_
 shopt -s globstar
 for i in **/*.svg; do
-    while [ "$(jobs -r | wc -l)" -ge 10 ]; do sleep .1; done
+    # while [ "$(jobs -r | wc -l)" -ge 10 ]; do sleep .1; done
     [[ $i == *"template"* ]] && continue
     r_path="${i%.svg}.png" # the folder relative to sprites_override, or _original_: units/gamma.png
     base="${r_path##*/}"
@@ -71,9 +71,9 @@ for i in **/*.svg; do
             -z "$no_outline" &&
             (($r_path == *"turrets"* && $base != *"heat"* && $r_path != *"bases"* && $base != *"top"* && $base != *"liquid"*) ||
             (-n $(grep -F "$r_path" "$root_path/manual_outline"))) ]]; then
-            (render "$(multiplied_size "$r_path")" "$i" "$output_path" && outline "$output_path") &
+            (render "$(multiplied_size "$r_path")" "$i" "$output_path" && outline "$output_path")
         else
-            render "$(multiplied_size "$r_path")" "$i" "$output_path" &
+            render "$(multiplied_size "$r_path")" "$i" "$output_path"
         fi
 
         echo -e "[${size_multiplier}] $r_path"
