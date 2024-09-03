@@ -31,8 +31,8 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v3
-        # with:
-        #   lfs: true
+        with:
+          lfs: true
 
       - name: create changelog
         id: changelog
