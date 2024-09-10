@@ -1,12 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 64 64" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
-		<path d="M13,35.5 L16.5,32 L27.5,32 L28,32.5 L28,43.5 L27.5,44 L16.5,44 L13,40.5 Z" fill="#ffffff"/>
-		<path d="M36,32.5 L36.5,32 L47.5,32 L51,35.5 L51,40.5 L47.5,44 L36.5,44 L36,43.5 Z" fill="#ffffff"/>
+		<path d="M16.5,32 L16,32.5 L15.5,33 L15,33.5 L14.5,34 L14,34.5 L13.5,35 L13,35.5 L13,36 L13,36.5 L13,37 L13,37.5 L13,38 L13,38.5 L13,39 L13,39.5 L13,40 L13,40.5 L13.5,41 L14,41.5 L14.5,42 L15,42.5 L15.5,43 L16,43.5 L16.5,44 L28,44 L28,43.5 L28,43 L28,42.5 L28,42 L28,41.5 L28,41 L28,40.5 L28,40 L28,39.5 L28,39 L28,38.5 L28,38 L28,37.5 L28,37 L28,36.5 L28,36 L28,35.5 L28,35 L28,34.5 L28,34 L28,33.5 L28,33 L28,32.5 L28,32 Z " fill="#ffffff"/>
+		<path d="M16.5,32 L16,32.5 L15.5,33 L15,33.5 L14.5,34 L14,34.5 L13.5,35 L13,35.5 L13,36 L13,36.5 L13,37 L13,37.5 L13,38 L13,38.5 L13,39 L13,39.5 L13,40 L13,40.5 L13.5,41 L14,41.5 L14.5,42 L15,42.5 L15.5,43 L16,43.5 L16.5,44 L28,44 L28,43.5 L28,43 L28,42.5 L28,42 L28,41.5 L28,41 L28,40.5 L28,40 L28,39.5 L28,39 L28,38.5 L28,38 L28,37.5 L28,37 L28,36.5 L28,36 L28,35.5 L28,35 L28,34.5 L28,34 L28,33.5 L28,33 L28,32.5 L28,32 Z " fill="#ffffff"/>
+		<path d="M36,32 L36,32.5 L36,33 L36,33.5 L36,34 L36,34.5 L36,35 L36,35.5 L36,36 L36,36.5 L36,37 L36,37.5 L36,38 L36,38.5 L36,39 L36,39.5 L36,40 L36,40.5 L36,41 L36,41.5 L36,42 L36,42.5 L36,43 L36,43.5 L36,44 L47.5,44 L48,43.5 L48.5,43 L49,42.5 L49.5,42 L50,41.5 L50.5,41 L51,40.5 L51,40 L51,39.5 L51,39 L51,38.5 L51,38 L51,37.5 L51,37 L51,36.5 L51,36 L51,35.5 L50.5,35 L50,34.5 L49.5,34 L49,33.5 L48.5,33 L48,32.5 L47.5,32 Z " fill="#ffffff"/>
+		<path d="M36,32 L36,32.5 L36,33 L36,33.5 L36,34 L36,34.5 L36,35 L36,35.5 L36,36 L36,36.5 L36,37 L36,37.5 L36,38 L36,38.5 L36,39 L36,39.5 L36,40 L36,40.5 L36,41 L36,41.5 L36,42 L36,42.5 L36,43 L36,43.5 L36,44 L47.5,44 L48,43.5 L48.5,43 L49,42.5 L49.5,42 L50,41.5 L50.5,41 L51,40.5 L51,40 L51,39.5 L51,39 L51,38.5 L51,38 L51,37.5 L51,37 L51,36.5 L51,36 L51,35.5 L50.5,35 L50,34.5 L49.5,34 L49,33.5 L48.5,33 L48,32.5 L47.5,32 Z " fill="#ffffff"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
 		<image width="64" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAmUlEQVR4Xu3OIQIDIAwEwf7/060fURIBakcfGz6fJEmSJEmSJEmSJEmSg++S7+X+xPdP+ZkJG3I/YeMJPzFlR+6n7Fzl8Q1bcr9h6xoPb9iS+w1b13h4w5bcb9i6xsMbtuR+w9Y1Ht6wJfcbtq7x8IYtud+wdZXHp+zI/ZSdJ/zEhA25n7DxlJ858b3cn/g+SZIkSZIkSf75AbepOww95qQVAAAAAElFTkSuQmCC" height="64"/>
 	</g>
-	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+	<sodipodi:namedview inkscape:pagecheckerboard="true" showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
 	</sodipodi:namedview>
 </svg>

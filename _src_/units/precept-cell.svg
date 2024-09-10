@@ -1,15 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 120 120" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
-		<path d="M94,79.5 L99,74.5 L106,81.5 L106,83.5 L102,87.5 Z" fill="#ffffff"/>
-		<path d="M16,79.5 L21,74.5 L26,79.5 L21,84.5 Z" fill="#ffffff"/>
-		<path d="M94,79.5 L99,74.5 L104,79.5 L99,84.5 Z" fill="#ffffff"/>
-		<path d="M14,81.5 L16,79.5 L21,84.5 L18,87.5 L14,83.5 Z" fill="#dcc6c6"/>
-		<path d="M99,84.5 L104,79.5 L106,81.5 L106,83.5 L102,87.5 Z" fill="#dcc6c6"/>
+		<path d="M21,74.5 L20.5,75 L20,75.5 L19.5,76 L19,76.5 L18.5,77 L18,77.5 L17.5,78 L17,78.5 L16.5,79 L16,79.5 L15.5,80 L15,80.5 L14.5,81 L14,81.5 L14,82 L14,82.5 L14,83 L14,83.5 L14.5,84 L15,84.5 L15.5,85 L16,85.5 L16.5,86 L17,86.5 L17.5,87 L18,87.5 L18.5,87 L19,86.5 L19.5,86 L20,85.5 L20.5,85 L21,84.5 L21.5,84 L22,83.5 L22.5,83 L23,82.5 L23.5,82 L24,81.5 L24.5,81 L25,80.5 L25.5,80 L26,79.5 L25.5,79 L25,78.5 L24.5,78 L24,77.5 L23.5,77 L23,76.5 L22.5,76 L22,75.5 L21.5,75 L21,74.5 Z " fill="#dcc6c6"/>
+		<path d="M99,74.5 L98.5,75 L98,75.5 L97.5,76 L97,76.5 L96.5,77 L96,77.5 L95.5,78 L95,78.5 L94.5,79 L94,79.5 L94.5,80 L95,80.5 L95.5,81 L96,81.5 L96.5,82 L97,82.5 L97.5,83 L98,83.5 L98.5,84 L99,84.5 L99.5,85 L100,85.5 L100.5,86 L101,86.5 L101.5,87 L102,87.5 L102.5,87 L103,86.5 L103.5,86 L104,85.5 L104.5,85 L105,84.5 L105.5,84 L106,83.5 L106,83 L106,82.5 L106,82 L106,81.5 L105.5,81 L105,80.5 L104.5,80 L104,79.5 L103.5,79 L103,78.5 L102.5,78 L102,77.5 L101.5,77 L101,76.5 L100.5,76 L100,75.5 L99.5,75 L99,74.5 Z " fill="#dcc6c6"/>
+		<path d="M21,74.5 L20.5,75 L20,75.5 L19.5,76 L19,76.5 L18.5,77 L18,77.5 L17.5,78 L17,78.5 L16.5,79 L16,79.5 L16.5,80 L17,80.5 L17.5,81 L18,81.5 L18.5,82 L19,82.5 L19.5,83 L20,83.5 L20.5,84 L21,84.5 L21.5,84 L22,83.5 L22.5,83 L23,82.5 L23.5,82 L24,81.5 L24.5,81 L25,80.5 L25.5,80 L26,79.5 L25.5,79 L25,78.5 L24.5,78 L24,77.5 L23.5,77 L23,76.5 L22.5,76 L22,75.5 L21.5,75 L21,74.5 Z " fill="#ffffff"/>
+		<path d="M99,74.5 L98.5,75 L98,75.5 L97.5,76 L97,76.5 L96.5,77 L96,77.5 L95.5,78 L95,78.5 L94.5,79 L94,79.5 L94.5,80 L95,80.5 L95.5,81 L96,81.5 L96.5,82 L97,82.5 L97.5,83 L98,83.5 L98.5,84 L99,84.5 L99.5,84 L100,83.5 L100.5,83 L101,82.5 L101.5,82 L102,81.5 L102.5,81 L103,80.5 L103.5,80 L104,79.5 L103.5,79 L103,78.5 L102.5,78 L102,77.5 L101.5,77 L101,76.5 L100.5,76 L100,75.5 L99.5,75 L99,74.5 Z " fill="#ffffff"/>
+		<path d="M16,79.5 L15.5,80 L15,80.5 L14.5,81 L14,81.5 L14,82 L14,82.5 L14,83 L14,83.5 L14.5,84 L15,84.5 L15.5,85 L16,85.5 L16.5,86 L17,86.5 L17.5,87 L18,87.5 L18.5,87 L19,86.5 L19.5,86 L20,85.5 L20.5,85 L21,84.5 L20.5,84 L20,83.5 L19.5,83 L19,82.5 L18.5,82 L18,81.5 L17.5,81 L17,80.5 L16.5,80 L16,79.5 Z " fill="#dcc6c6"/>
+		<path d="M104,79.5 L103.5,80 L103,80.5 L102.5,81 L102,81.5 L101.5,82 L101,82.5 L100.5,83 L100,83.5 L99.5,84 L99,84.5 L99.5,85 L100,85.5 L100.5,86 L101,86.5 L101.5,87 L102,87.5 L102.5,87 L103,86.5 L103.5,86 L104,85.5 L104.5,85 L105,84.5 L105.5,84 L106,83.5 L106,83 L106,82.5 L106,82 L106,81.5 L105.5,81 L105,80.5 L104.5,80 L104,79.5 Z " fill="#dcc6c6"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
 		<image width="120" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAA1klEQVR4Xu3RUQqDMBAEUO9/ME/Ru1jEBuqg5qsmpu9BfmQXh9lpAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACoWz7yO9ce0VsJ+YiwHXlEbxmyyDn2sq8i55rKcCnn2WRPKeebyFBncu/fZT9ncu9Wr3le1leTe2yyp1T6zb1blJ/Xjpx77GVfRfabez+XAY6OnDscy96y124O/H3knOfa1XGbHHiVIZqGGUD22EWfXYUZQJd9dhVmAPoEAAAAAAAAAAAAAAAAAAAY0BvH9lPlKraJwgAAAABJRU5ErkJggg==" height="120"/>
 	</g>
-	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+	<sodipodi:namedview inkscape:pagecheckerboard="true" showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
 	</sodipodi:namedview>
 </svg>

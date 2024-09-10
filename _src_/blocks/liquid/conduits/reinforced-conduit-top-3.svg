@@ -1,15 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
-		<path d="M11,8.5 L11.5,8 L16.5,8 L21,12.5 L21,19.5 L16.5,24 L11.5,24 L11,23.5 L11,21.5 L15,17.5 L15,14.5 L11,10.5 Z" fill="#ffffff"/>
-		<path d="M0,0 L12,0 L12,2.5 L2.5,12 L0,12 Z" fill="#92dd7e"/>
-		<path d="M20,0 L32,0 L32,12 L29.5,12 L20,2.5 Z" fill="#92dd7e"/>
-		<path d="M0,20 L2.5,20 L12,29.5 L12,32 L0,32 Z" fill="#92dd7e"/>
-		<path d="M20,29.5 L29.5,20 L32,20 L32,32 L20,32 Z" fill="#92dd7e"/>
+		<path d="M11,8 L11,8.5 L11,9 L11,9.5 L11,10 L11,10.5 L11.5,11 L12,11.5 L12.5,12 L13,12.5 L13.5,13 L14,13.5 L14.5,14 L15,14.5 L15,15 L15,15.5 L15,16 L15,16.5 L15,17 L15,17.5 L14.5,18 L14,18.5 L13.5,19 L13,19.5 L12.5,20 L12,20.5 L11.5,21 L11,21.5 L11,22 L11,22.5 L11,23 L11,23.5 L11,24 L16.5,24 L17,23.5 L17.5,23 L18,22.5 L18.5,22 L19,21.5 L19.5,21 L20,20.5 L20.5,20 L21,19.5 L21,19 L21,18.5 L21,18 L21,17.5 L21,17 L21,16.5 L21,16 L21,15.5 L21,15 L21,14.5 L21,14 L21,13.5 L21,13 L21,12.5 L20.5,12 L20,11.5 L19.5,11 L19,10.5 L18.5,10 L18,9.5 L17.5,9 L17,8.5 L16.5,8 Z " fill="#ffffff"/>
+		<path d="M11,8 L11,8.5 L11,9 L11,9.5 L11,10 L11,10.5 L11.5,11 L12,11.5 L12.5,12 L13,12.5 L13.5,13 L14,13.5 L14.5,14 L15,14.5 L15,15 L15,15.5 L15,16 L15,16.5 L15,17 L15,17.5 L14.5,18 L14,18.5 L13.5,19 L13,19.5 L12.5,20 L12,20.5 L11.5,21 L11,21.5 L11,22 L11,22.5 L11,23 L11,23.5 L11,24 L16.5,24 L17,23.5 L17.5,23 L18,22.5 L18.5,22 L19,21.5 L19.5,21 L20,20.5 L20.5,20 L21,19.5 L21,19 L21,18.5 L21,18 L21,17.5 L21,17 L21,16.5 L21,16 L21,15.5 L21,15 L21,14.5 L21,14 L21,13.5 L21,13 L21,12.5 L20.5,12 L20,11.5 L19.5,11 L19,10.5 L18.5,10 L18,9.5 L17.5,9 L17,8.5 L16.5,8 Z " fill="#ffffff"/>
+		<path d="M0,0 L0,0.5 L0,1 L0,1.5 L0,2 L0,2.5 L0,3 L0,3.5 L0,4 L0,4.5 L0,5 L0,5.5 L0,6 L0,6.5 L0,7 L0,7.5 L0,8 L0,8.5 L0,9 L0,9.5 L0,10 L0,10.5 L0,11 L0,11.5 L0,12 L2.5,12 L3,11.5 L3.5,11 L4,10.5 L4.5,10 L5,9.5 L5.5,9 L6,8.5 L6.5,8 L7,7.5 L7.5,7 L8,6.5 L8.5,6 L9,5.5 L9.5,5 L10,4.5 L10.5,4 L11,3.5 L11.5,3 L12,2.5 L12,2 L12,1.5 L12,1 L12,0.5 L12,0 Z " fill="#92dd7e"/>
+		<path d="M20,0 L20,0.5 L20,1 L20,1.5 L20,2 L20,2.5 L20.5,3 L21,3.5 L21.5,4 L22,4.5 L22.5,5 L23,5.5 L23.5,6 L24,6.5 L24.5,7 L25,7.5 L25.5,8 L26,8.5 L26.5,9 L27,9.5 L27.5,10 L28,10.5 L28.5,11 L29,11.5 L29.5,12 L32,12 L32,11.5 L32,11 L32,10.5 L32,10 L32,9.5 L32,9 L32,8.5 L32,8 L32,7.5 L32,7 L32,6.5 L32,6 L32,5.5 L32,5 L32,4.5 L32,4 L32,3.5 L32,3 L32,2.5 L32,2 L32,1.5 L32,1 L32,0.5 L32,0 Z " fill="#92dd7e"/>
+		<path d="M0,20 L0,20.5 L0,21 L0,21.5 L0,22 L0,22.5 L0,23 L0,23.5 L0,24 L0,24.5 L0,25 L0,25.5 L0,26 L0,26.5 L0,27 L0,27.5 L0,28 L0,28.5 L0,29 L0,29.5 L0,30 L0,30.5 L0,31 L0,31.5 L0,32 L12,32 L12,31.5 L12,31 L12,30.5 L12,30 L12,29.5 L11.5,29 L11,28.5 L10.5,28 L10,27.5 L9.5,27 L9,26.5 L8.5,26 L8,25.5 L7.5,25 L7,24.5 L6.5,24 L6,23.5 L5.5,23 L5,22.5 L4.5,22 L4,21.5 L3.5,21 L3,20.5 L2.5,20 Z " fill="#92dd7e"/>
+		<path d="M29.5,20 L29,20.5 L28.5,21 L28,21.5 L27.5,22 L27,22.5 L26.5,23 L26,23.5 L25.5,24 L25,24.5 L24.5,25 L24,25.5 L23.5,26 L23,26.5 L22.5,27 L22,27.5 L21.5,28 L21,28.5 L20.5,29 L20,29.5 L20,30 L20,30.5 L20,31 L20,31.5 L20,32 L32,32 L32,31.5 L32,31 L32,30.5 L32,30 L32,29.5 L32,29 L32,28.5 L32,28 L32,27.5 L32,27 L32,26.5 L32,26 L32,25.5 L32,25 L32,24.5 L32,24 L32,23.5 L32,23 L32,22.5 L32,22 L32,21.5 L32,21 L32,20.5 L32,20 Z " fill="#92dd7e"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
 		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA+0lEQVR4XrXUQYoDMQxE0Zx8DjH3y1kyTIPBvJYtqYk/1MZ8qbTy6/f98+nklaCfpT+QoJ+lP5Cgn6U1YNkK53Ypy5ZkOL9KSXR5FfdESSWXdnGf2Qoue4p7Swe45J/PAr0I928PcHhg8YxuhD3hAQ7NWCr6Ebe+avnAUtGP6HbesFT0j2DpjO4xLB7oHcPigd4xLB7oHcPigd4RLJ3R/ToWiv6W7qdgmehHLH/C7AjLRD/i1ufD7ggLZ3Qj7FkesDrC0oFehPvTA1ZHPMG95QO+cYT7TCpc0kPcE6UkXWIT51cpi5dcxLldWvI1kKCfpT+QoJ+lP5Cgn+UPiKFDqzdPyRMAAAAASUVORK5CYII=" height="32"/>
 	</g>
-	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+	<sodipodi:namedview inkscape:pagecheckerboard="true" showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
 	</sodipodi:namedview>
 </svg>

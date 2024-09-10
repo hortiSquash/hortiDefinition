@@ -1,19 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
-		<path d="M9.5,8 L16.5,8 L24.5,16 L16.5,24 L9.5,24 L17.5,16 Z" fill="#ffffff"/>
-		<path d="M0,4.5 L4.5,0 L8,0 L8,2.5 L2.5,8 L0,8 Z" fill="#6e7080"/>
-		<path d="M24,0 L27.5,0 L32,4.5 L32,8 L29.5,8 L24,2.5 Z" fill="#6e7080"/>
-		<path d="M0,24 L2.5,24 L8,29.5 L8,32 L4.5,32 L0,27.5 Z" fill="#6e7080"/>
-		<path d="M24,29.5 L29.5,24 L32,24 L32,27.5 L27.5,32 L24,32 Z" fill="#6e7080"/>
-		<path d="M0,0 L4.5,0 L0,4.5 Z" fill="#4a4b53"/>
-		<path d="M27.5,0 L32,0 L32,4.5 Z" fill="#4a4b53"/>
-		<path d="M0,27.5 L4.5,32 L0,32 Z" fill="#4a4b53"/>
-		<path d="M27.5,32 L32,27.5 L32,32 Z" fill="#4a4b53"/>
+		<path d="M9.5,8 L10,8.5 L10.5,9 L11,9.5 L11.5,10 L12,10.5 L12.5,11 L13,11.5 L13.5,12 L14,12.5 L14.5,13 L15,13.5 L15.5,14 L16,14.5 L16.5,15 L17,15.5 L17.5,16 L17,16.5 L16.5,17 L16,17.5 L15.5,18 L15,18.5 L14.5,19 L14,19.5 L13.5,20 L13,20.5 L12.5,21 L12,21.5 L11.5,22 L11,22.5 L10.5,23 L10,23.5 L9.5,24 L16.5,24 L17,23.5 L17.5,23 L18,22.5 L18.5,22 L19,21.5 L19.5,21 L20,20.5 L20.5,20 L21,19.5 L21.5,19 L22,18.5 L22.5,18 L23,17.5 L23.5,17 L24,16.5 L24.5,16 L24,15.5 L23.5,15 L23,14.5 L22.5,14 L22,13.5 L21.5,13 L21,12.5 L20.5,12 L20,11.5 L19.5,11 L19,10.5 L18.5,10 L18,9.5 L17.5,9 L17,8.5 L16.5,8 Z " fill="#ffffff"/>
+		<path d="M9.5,8 L10,8.5 L10.5,9 L11,9.5 L11.5,10 L12,10.5 L12.5,11 L13,11.5 L13.5,12 L14,12.5 L14.5,13 L15,13.5 L15.5,14 L16,14.5 L16.5,15 L17,15.5 L17.5,16 L17,16.5 L16.5,17 L16,17.5 L15.5,18 L15,18.5 L14.5,19 L14,19.5 L13.5,20 L13,20.5 L12.5,21 L12,21.5 L11.5,22 L11,22.5 L10.5,23 L10,23.5 L9.5,24 L16.5,24 L17,23.5 L17.5,23 L18,22.5 L18.5,22 L19,21.5 L19.5,21 L20,20.5 L20.5,20 L21,19.5 L21.5,19 L22,18.5 L22.5,18 L23,17.5 L23.5,17 L24,16.5 L24.5,16 L24,15.5 L23.5,15 L23,14.5 L22.5,14 L22,13.5 L21.5,13 L21,12.5 L20.5,12 L20,11.5 L19.5,11 L19,10.5 L18.5,10 L18,9.5 L17.5,9 L17,8.5 L16.5,8 Z " fill="#ffffff"/>
+		<path d="M4.5,0 L4,0.5 L3.5,1 L3,1.5 L2.5,2 L2,2.5 L1.5,3 L1,3.5 L0.5,4 L0,4.5 L0,5 L0,5.5 L0,6 L0,6.5 L0,7 L0,7.5 L0,8 L2.5,8 L3,7.5 L3.5,7 L4,6.5 L4.5,6 L5,5.5 L5.5,5 L6,4.5 L6.5,4 L7,3.5 L7.5,3 L8,2.5 L8,2 L8,1.5 L8,1 L8,0.5 L8,0 Z " fill="#6e7080"/>
+		<path d="M24,0 L24,0.5 L24,1 L24,1.5 L24,2 L24,2.5 L24.5,3 L25,3.5 L25.5,4 L26,4.5 L26.5,5 L27,5.5 L27.5,6 L28,6.5 L28.5,7 L29,7.5 L29.5,8 L32,8 L32,7.5 L32,7 L32,6.5 L32,6 L32,5.5 L32,5 L32,4.5 L31.5,4 L31,3.5 L30.5,3 L30,2.5 L29.5,2 L29,1.5 L28.5,1 L28,0.5 L27.5,0 Z " fill="#6e7080"/>
+		<path d="M0,24 L0,24.5 L0,25 L0,25.5 L0,26 L0,26.5 L0,27 L0,27.5 L0.5,28 L1,28.5 L1.5,29 L2,29.5 L2.5,30 L3,30.5 L3.5,31 L4,31.5 L4.5,32 L8,32 L8,31.5 L8,31 L8,30.5 L8,30 L8,29.5 L7.5,29 L7,28.5 L6.5,28 L6,27.5 L5.5,27 L5,26.5 L4.5,26 L4,25.5 L3.5,25 L3,24.5 L2.5,24 Z " fill="#6e7080"/>
+		<path d="M29.5,24 L29,24.5 L28.5,25 L28,25.5 L27.5,26 L27,26.5 L26.5,27 L26,27.5 L25.5,28 L25,28.5 L24.5,29 L24,29.5 L24,30 L24,30.5 L24,31 L24,31.5 L24,32 L27.5,32 L28,31.5 L28.5,31 L29,30.5 L29.5,30 L30,29.5 L30.5,29 L31,28.5 L31.5,28 L32,27.5 L32,27 L32,26.5 L32,26 L32,25.5 L32,25 L32,24.5 L32,24 Z " fill="#6e7080"/>
+		<path d="M0,0 L0,0.5 L0,1 L0,1.5 L0,2 L0,2.5 L0,3 L0,3.5 L0,4 L0,4.5 L0.5,4 L1,3.5 L1.5,3 L2,2.5 L2.5,2 L3,1.5 L3.5,1 L4,0.5 L4.5,0 Z " fill="#4a4b53"/>
+		<path d="M27.5,0 L28,0.5 L28.5,1 L29,1.5 L29.5,2 L30,2.5 L30.5,3 L31,3.5 L31.5,4 L32,4.5 L32,4 L32,3.5 L32,3 L32,2.5 L32,2 L32,1.5 L32,1 L32,0.5 L32,0 Z " fill="#4a4b53"/>
+		<path d="M0,27.5 L0,28 L0,28.5 L0,29 L0,29.5 L0,30 L0,30.5 L0,31 L0,31.5 L0,32 L4.5,32 L4,31.5 L3.5,31 L3,30.5 L2.5,30 L2,29.5 L1.5,29 L1,28.5 L0.5,28 L0,27.5 Z " fill="#4a4b53"/>
+		<path d="M32,27.5 L31.5,28 L31,28.5 L30.5,29 L30,29.5 L29.5,30 L29,30.5 L28.5,31 L28,31.5 L27.5,32 L32,32 L32,31.5 L32,31 L32,30.5 L32,30 L32,29.5 L32,29 L32,28.5 L32,28 L32,27.5 Z " fill="#4a4b53"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
 		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA2UlEQVR4Xs3XSwrCUBBE0axPh+5DXII7VxASypMPxHSrF94kqdStYd5wOl8eea63+9sZDmKfvmFL3jHAEdMAQ50DcsRrgC+r5CP25ojVl5Ycxf7J44MO+YiexQF+VM3M9035yEfOxwZm21CcmG1DcWK2DcWJ2TYUJ2bbUJyYbUNxYrYNxYnZFpQmZstRmJgtR2FithyFidlyFCZmy1GYmC1HYWK2HIWJ2V189HNwkNU/om+MmPl80DlCz+qAjhH2T56fX0z+4mq2NcLCvdiX8tmApREW7sU+fU/XcXsyIOrQGwAAAABJRU5ErkJggg==" height="32"/>
 	</g>
-	<sodipodi:namedview showgrid="true" units="px" inkscape:snap-global="true">
+	<sodipodi:namedview inkscape:pagecheckerboard="true" showgrid="true" units="px" inkscape:snap-global="true">
 		<inkscape:grid empspacing="2" type="xygrid" spacingy="0.5" spacingx="0.5"/>
 	</sodipodi:namedview>
 </svg>
