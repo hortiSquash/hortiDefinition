@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 32 32" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
-		<path d="M0,12 L0,12.5 L0,13 L0,13.5 L0,14 L0,14.5 L0,15 L0,15.5 L0,16 L0,16.5 L0,17 L0,17.5 L0,18 L0,18.5 L0,19 L0,19.5 L0,20 L32,20 L32,19.5 L32,19 L32,18.5 L32,18 L32,17.5 L32,17 L32,16.5 L32,16 L32,15.5 L32,15 L32,14.5 L32,14 L32,13.5 L32,13 L32,12.5 L32,12 Z " fill="#ffffff"/>
+		<path d="M0,12 L0,20 L32,20 L32,12 Z " fill="#ffffff"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
 		<image width="32" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAI0lEQVR4Xu3OMQEAAAwCIPuX3mJ4CAlIAJh3ZQICAv0AAPMesg/8Ln+siK8AAAAASUVORK5CYII=" height="32"/>

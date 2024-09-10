@@ -1,9 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 64 64" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="2.0">
 	<g inkscape:groupmode="layer" inkscape:label="Paths">
-		<path d="M20,34 L20,34.5 L20,35 L20,35.5 L20.5,36 L21,36.5 L21.5,37 L22,37.5 L22.5,38 L23,38.5 L23.5,39 L24,39.5 L24.5,40 L26,40 L26,39.5 L26,39 L26,38.5 L26,38 L26,37.5 L26,37 L26,36.5 L25.5,36 L25,35.5 L24.5,35 L24,34.5 L23.5,34 Z " fill="#ffffff"/>
-		<path d="M20,34 L20,34.5 L20,35 L20,35.5 L20.5,36 L21,36.5 L21.5,37 L22,37.5 L22.5,38 L23,38.5 L23.5,39 L24,39.5 L24.5,40 L26,40 L26,39.5 L26,39 L26,38.5 L26,38 L26,37.5 L26,37 L26,36.5 L25.5,36 L25,35.5 L24.5,35 L24,34.5 L23.5,34 Z " fill="#ffffff"/>
-		<path d="M44,34 L44,34.5 L44,35 L44,35.5 L44,36 L44,36.5 L44.5,37 L45,37.5 L45.5,38 L46,38.5 L46.5,39 L47,39.5 L47.5,40 L49,40 L49,39.5 L49,39 L49,38.5 L49,38 L49,37.5 L49,37 L49,36.5 L48.5,36 L48,35.5 L47.5,35 L47,34.5 L46.5,34 Z " fill="#ffffff"/>
-		<path d="M44,34 L44,34.5 L44,35 L44,35.5 L44,36 L44,36.5 L44.5,37 L45,37.5 L45.5,38 L46,38.5 L46.5,39 L47,39.5 L47.5,40 L49,40 L49,39.5 L49,39 L49,38.5 L49,38 L49,37.5 L49,37 L49,36.5 L48.5,36 L48,35.5 L47.5,35 L47,34.5 L46.5,34 Z " fill="#ffffff"/>
+		<path d="M20,34 L20,35.5 L24.5,40 L26,40 L26,36.5 L23.5,34 Z " fill="#ffffff"/>
+		<path d="M44,34 L44,36.5 L47.5,40 L49,40 L49,36.5 L46.5,34 Z " fill="#ffffff"/>
 	</g>
 	<g sodipodi:insensitive="true" display="none" inkscape:groupmode="layer" opacity=".5" inkscape:label="Source image">
 		<image width="64" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAWUlEQVR4Xu3OQQqAMBAEwfz/00oOgsxNkwGRqusuzYwBAAAAAAAAAACPHCHvq5rtLe4DL/mzotneJkdO+fNWdqf8+YTmyGZ7q+bIZnur5shmGwAAAAAA+J8TfW6vUWXXh2UAAAAASUVORK5CYII=" height="64"/>
